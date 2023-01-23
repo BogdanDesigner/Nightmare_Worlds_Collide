@@ -10,3 +10,7 @@ NWC/Saved/Logs/NWC-backup-2023.01.23-10.21.03.log
 NWC/Saved/Config/CrashReportClient/UE4CC-Windows-9DF1AA5D45C6E33B7C044880B9BF5672/CrashReportClient.ini
 NWC/Saved/AutoScreenshot.png
 NWC/Intermediate/CachedAssetRegistry.bin
+*.bin
+*.png
+*.ini
+*.log
