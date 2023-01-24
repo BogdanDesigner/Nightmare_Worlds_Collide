@@ -14,3 +14,7 @@ NWC/Intermediate/CachedAssetRegistry.bin
 *.png
 *.ini
 *.log
+NWC/Intermediate/CachedAssetRegistry.bin
+NWC/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+NWC/Saved/Config/Windows/Engine.ini
+NWC/Saved/Logs/NWC.log
