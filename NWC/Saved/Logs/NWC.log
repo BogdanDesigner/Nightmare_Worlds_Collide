@@ -1942,3 +1942,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.04-18.29.21:962][ 71]LogSlate: Window 'Message Log' being destroyed
 [2023.02.04-18.29.21:965][ 71]LogSlate: Window 'Message Log' being destroyed
 [2023.02.04-18.29.49:433][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.02.04-18.29.54:750][544]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Cabin_V3_Auto240D072364EDB41A8A45B5B9DBC123CDB.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Autosaves/Game/Bogdan/Levels/Cabin/Cabin_V3_Auto2.umap'
+[2023.02.04-18.29.55:121][544]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Bogdan/Levels/Cabin/Cabin_V3' took 5.705
+[2023.02.04-18.29.55:121][544]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 5.705
+[2023.02.04-18.30.04:980][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.02.04-18.30.05:216][973]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Cabin_V3D5F0F12C48E6314375C1DC8E4F56D5B9.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Cabin/Cabin_V3.umap'
+[2023.02.04-18.30.05:416][973]LogFileHelpers: Saving map 'Cabin_V3' took 0.594
+[2023.02.04-18.30.05:750][973]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Cabin_V3_BuiltData7F6EB1E445AD255745852A9F8B0436F6.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Cabin/Cabin_V3_BuiltData.uasset'
+[2023.02.04-18.30.10:795][973]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.04-18.30.10:796][973]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Bogdan/Levels/Cabin/Cabin_V3_BuiltData.Cabin_V3_BuiltData
+[2023.02.04-18.30.10:818][973]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Cabin/Cabin_V3.Cabin_V3
