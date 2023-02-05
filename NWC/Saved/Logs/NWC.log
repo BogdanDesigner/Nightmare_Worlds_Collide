@@ -3186,3 +3186,104 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.05-17.17.39:921][302]LogFileHelpers: Saving map 'Cabin_V4' took 0.247
 [2023.02.05-17.17.39:930][302]AssetCheck: New page: Asset Save: Cabin_V4
 [2023.02.05-17.17.39:930][302]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Cabin/Cabin_V4.Cabin_V4
+[2023.02.05-18.29.52:814][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence20)
+[2023.02.05-18.32.46:873][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence38)
+[2023.02.05-18.33.06:001][929]Cmd: DELETE
+[2023.02.05-18.33.06:001][929]Cmd: ACTOR DELETE
+[2023.02.05-18.33.06:011][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.05-18.33.06:028][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.02.05-18.33.06:039][929]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2023.02.05-18.33.08:703][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence47)
+[2023.02.05-18.33.57:762][553]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.05-18.33.58:358][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence26)
+[2023.02.05-18.34.21:147][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence29)
+[2023.02.05-18.34.33:674][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence30)
+[2023.02.05-18.35.11:654][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.02.05-18.35.11:875][536]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Cabin_V4_Auto2729EFAF149882F322A406E9EAEB042C1.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Autosaves/Game/Bogdan/Levels/Cabin/Cabin_V4_Auto2.umap'
+[2023.02.05-18.35.11:876][536]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Bogdan/Levels/Cabin/Cabin_V4' took 0.238
+[2023.02.05-18.35.11:876][536]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.238
+[2023.02.05-18.36.21:529][505]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.05-18.36.33:225][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence38)
+[2023.02.05-18.36.43:646][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence48)
+[2023.02.05-18.37.38:344][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence50)
+[2023.02.05-18.37.41:474][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence49)
+[2023.02.05-18.37.46:713][805]Cmd: TRANSACTION UNDO
+[2023.02.05-18.37.46:713][805]LogEditorTransaction: Undo Rotate Actors
+[2023.02.05-18.37.52:212][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence51)
+[2023.02.05-18.39.27:717][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence52)
+[2023.02.05-18.39.28:127][833]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.05-18.39.29:620][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence52)
+[2023.02.05-18.40.00:205][428]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.05-18.40.11:799][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence52)
+[2023.02.05-18.41.43:124][912]Cmd: TRANSACTION UNDO
+[2023.02.05-18.41.43:124][912]LogEditorTransaction: Undo Rotate Actors
+[2023.02.05-18.42.04:018][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence57)
+[2023.02.05-18.42.14:590][329]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.05-18.42.16:810][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence57)
+[2023.02.05-18.42.26:522][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence58)
+[2023.02.05-18.42.54:268][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence38)
+[2023.02.05-18.45.11:705][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence63)
+[2023.02.05-18.45.21:022][540]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.05-18.45.21:573][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence64)
+[2023.02.05-18.45.54:397][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence72)
+[2023.02.05-18.46.40:160][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence57)
+[2023.02.05-18.46.50:264][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence56)
+[2023.02.05-18.46.59:425][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence58)
+[2023.02.05-18.48.14:439][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence77)
+[2023.02.05-18.48.25:022][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence78)
+[2023.02.05-18.49.14:145][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.02.05-18.49.14:368][314]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Cabin_V4_Auto3E55BB3BA4A1C637017E9B0AC080ACB78.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Autosaves/Game/Bogdan/Levels/Cabin/Cabin_V4_Auto3.umap'
+[2023.02.05-18.49.14:369][314]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Bogdan/Levels/Cabin/Cabin_V4' took 0.241
+[2023.02.05-18.49.14:369][314]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.241
+[2023.02.05-18.52.03:417][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence85)
+[2023.02.05-18.52.07:717][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence84)
+[2023.02.05-18.52.13:289][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence83)
+[2023.02.05-18.52.16:479][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence82)
+[2023.02.05-18.52.22:568][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence81)
+[2023.02.05-18.52.27:293][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence86)
+[2023.02.05-18.52.57:850][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence86)
+[2023.02.05-18.53.04:533][277]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.05-18.53.05:054][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence88)
+[2023.02.05-18.54.46:896][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence90)
+[2023.02.05-18.55.03:604][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence89)
+[2023.02.05-18.55.40:630][627]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.05-18.55.43:340][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence89)
+[2023.02.05-18.55.55:383][813]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.05-18.56.12:113][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence75)
+[2023.02.05-18.58.48:160][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence102)
+[2023.02.05-18.58.55:150][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence101)
+[2023.02.05-18.59.00:718][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence100)
+[2023.02.05-18.59.03:861][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence100)
+[2023.02.05-18.59.05:189][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence99)
+[2023.02.05-18.59.12:562][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence98)
+[2023.02.05-18.59.17:601][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence97)
+[2023.02.05-18.59.25:961][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence103)
+[2023.02.05-18.59.54:204][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence104)
+[2023.02.05-19.01.24:913][617]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.05-19.01.28:981][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence118)
+[2023.02.05-19.01.32:350][330]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.05-19.01.41:144][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence89)
+[2023.02.05-19.02.01:754][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence118)
+[2023.02.05-19.02.03:880][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence116)
+[2023.02.05-19.02.07:606][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence113)
+[2023.02.05-19.03.51:238][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence121)
+[2023.02.05-19.03.55:924][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence122)
+[2023.02.05-19.04.01:798][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence123)
+[2023.02.05-19.04.09:872][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence124)
+[2023.02.05-19.04.14:242][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence125)
+[2023.02.05-19.04.19:798][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence126)
+[2023.02.05-19.04.24:552][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence127)
+[2023.02.05-19.04.46:288][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence128)
+[2023.02.05-19.04.57:209][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence129)
+[2023.02.05-19.05.03:160][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence130)
+[2023.02.05-19.05.59:938][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.02.05-19.06.00:173][128]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Cabin_V4_Auto4B7ACB1AA4B49111B7D8144B2E599B543.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Autosaves/Game/Bogdan/Levels/Cabin/Cabin_V4_Auto4.umap'
+[2023.02.05-19.06.00:174][128]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Bogdan/Levels/Cabin/Cabin_V4' took 0.253
+[2023.02.05-19.06.00:174][128]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.253
+[2023.02.05-19.06.45:966][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.02.05-19.06.46:017][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.02.05-19.06.46:241][328]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Cabin_V41CA916B64BBE588C74F9E4B3537C1101.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Cabin/Cabin_V4.umap'
+[2023.02.05-19.06.46:253][328]LogFileHelpers: Saving map 'Cabin_V4' took 0.250
+[2023.02.05-19.06.46:264][328]AssetCheck: New page: Asset Save: Cabin_V4
+[2023.02.05-19.06.46:264][328]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Cabin/Cabin_V4.Cabin_V4
+[2023.02.05-19.06.49:694][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
