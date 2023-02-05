@@ -1260,3 +1260,149 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.05-19.46.10:248][868]LogContentValidation: Display: Validating StaticMesh /Game/Cedar/Trees/SM_Cedar-40ft-Healthy.SM_Cedar-40ft-Healthy
 [2023.02.05-19.46.10:248][868]LogContentValidation: Display: Validating StaticMesh /Game/Cedar/Trees/SM_Cedar-41ft-Healthy.SM_Cedar-41ft-Healthy
 [2023.02.05-19.46.10:248][868]LogContentValidation: Display: Validating StaticMesh /Game/Cedar/Trees/SM_Cedar-48ft-Healthy.SM_Cedar-48ft-Healthy
+[2023.02.05-19.46.52:118][517]MapCheck: New page: Map Check
+[2023.02.05-19.46.52:149][517]LightingResults: New page: Lighting Build - 5 Feb 2023, 19:46:52
+[2023.02.05-19.46.52:484][517]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.05-19.46.52:555][517]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.05-19.46.52:567][517]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.05-19.46.55:291][517]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.05-19.46.55:291][517]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15668
+[2023.02.05-19.47.04:167][517]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.05-19.47.04:167][517]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.05-19.47.04:167][517]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.05-19.47.04:167][517]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.05-19.47.04:167][517]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.05-19.47.04:595][517]LogEditorBuildUtils: Build time 0:12
+[2023.02.05-19.47.04:990][523]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.05-19.47.04:990][523]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.02.05-19.47.04:990][523]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.02.05-19.47.04:990][523]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.05-19.47.04:990][523]LogShaderCompilers: Display: ================================================
+[2023.02.05-19.47.06:796][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.02.05-19.56.13:860][136]LightingResults: Warning: SM_Key Object has wrapping UVs.
+[2023.02.05-20.01.05:764][810]Job is a success!
+[2023.02.05-20.01.06:000][811]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.085s
+[2023.02.05-20.01.06:000][811]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2023.02.05-20.01.06:000][811]LogVolumetricLightmapImport:      BrickData (all levels) 0.6Mb (trimmed 3.0Mb due to 0.010000 MinBrickError)
+[2023.02.05-20.01.06:000][811]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.05-20.01.06:000][811]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2023.02.05-20.01.06:000][811]LogVolumetricLightmapImport:          1: 19.0% covering 18.8% of volume
+[2023.02.05-20.01.06:000][811]LogVolumetricLightmapImport:          2: 79.4% covering 1.2% of volume
+[2023.02.05-20.01.06:000][811]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.05-20.01.06:000][811]LogVolumetricLightmapImport:          Cabin_V4 			 126 bricks 	 100.0% (Persistent Level)
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.05-20.01.07:373][811]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.05-20.01.07:373][811]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2023.02.05-20.01.07:373][811]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 256X256)
+[2023.02.05-20.01.07:373][811]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.05-20.01.07:373][811]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 256X256)
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 256X256)
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 256X256)
+[2023.02.05-20.01.07:373][811]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 128X128)
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 128X128)
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 64X64)
+[2023.02.05-20.01.07:373][811]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 64X64)
+[2023.02.05-20.01.07:574][811]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 32X32)
+[2023.02.05-20.01.07:574][811]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 512X32)
+[2023.02.05-20.01.07:574][811]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X128)
+[2023.02.05-20.01.07:574][811]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 128X32)
+[2023.02.05-20.01.07:574][811]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 512X64)
+[2023.02.05-20.01.07:574][811]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X64)
+[2023.02.05-20.01.08:346][811]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2023.02.05-20.01.08:346][811]Lightmass on DESKTOP-U7QK1P2: 13:58 min total, 1.46 sec importing, 33.9 sec setup, 1:24 min photons, 11:57 min processing, 0 ms extra exporting [7237/7237 mappings]. Threads: 2:11:35 hours total, 12:13 min processing.
+[2023.02.05-20.01.08:381][811]LogStaticLightingSystem: Cabin_V4_BuiltData storing lightmap data for 414 meshes in 15 LightmapResourceClusters (27.6 Meshes per cluster).
+[2023.02.05-20.01.08:396][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.02.05-20.01.08:441][811]LogStaticLightingSystem: Illumination: 14:16 min (389 ms encoding lightmaps, 301 ms encoding shadowmaps)
+[2023.02.05-20.01.08:441][811]LogStaticLightingSystem: Lightmap texture memory:  6.3 MB (6.3 MB streaming, 0.0 MB non-streaming), 14 textures
+[2023.02.05-20.01.08:441][811]LogStaticLightingSystem: Shadowmap texture memory: 6.5 MB (6.5 MB streaming, 0.0 MB non-streaming), 7 textures
+[2023.02.05-20.01.08:721][811]DumpUnbuiltLightIteractions
+[2023.02.05-20.01.08:721][811]Lights with unbuilt interactions: 0
+[2023.02.05-20.01.08:721][811]
+[2023.02.05-20.01.08:721][811]Primitives with unbuilt interactions: 0
+[2023.02.05-20.01.08:782][811]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.05-20.01.08:782][811]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.02.05-20.01.08:782][811]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.02.05-20.01.08:782][811]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.05-20.01.08:782][811]LogShaderCompilers: Display: ================================================
+[2023.02.05-20.01.08:965][811]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.02.05-20.01.09:100][811]LogSlate: Took 0.091367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.05-20.01.09:101][812]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.05-20.01.09:101][812]MapCheck: New page: Cabin_V4 - 5 Feb 2023, 20:01:09
+[2023.02.05-20.01.09:102][812]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.691ms to complete.
+[2023.02.05-20.01.34:060][729]LogSlate: Window 'Message Log' being destroyed
+[2023.02.05-20.01.34:064][729]LogSlate: Window 'Message Log' being destroyed
+[2023.02.05-20.01.44:868][560]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.02.05-20.01.55:559][588]LogSlate: Window 'Project Settings' being destroyed
+[2023.02.05-20.01.55:563][588]LogSlate: Window 'Project Settings' being destroyed
+[2023.02.05-20.01.59:124][936]Cmd: STAT FPS
+[2023.02.05-20.02.00:526][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.05-20.02.00:530][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-20.02.00:530][ 58]PIE: New page: PIE session: Cabin_V4 (5 Feb 2023, 20:02:00)
+[2023.02.05-20.02.00:530][ 58]LogPlayLevel: Creating play world package: /Game/Bogdan/Levels/Cabin/UEDPIE_0_Cabin_V4
+[2023.02.05-20.02.00:573][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042528s)
+[2023.02.05-20.02.00:574][ 58]LogAIModule: Creating AISystem for world Cabin_V4
+[2023.02.05-20.02.00:574][ 58]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2023.02.05-20.02.00:574][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Levels/Cabin/Cabin_V4.Cabin_V4 to /Game/Bogdan/Levels/Cabin/UEDPIE_0_Cabin_V4.Cabin_V4 (0.043557s)
+[2023.02.05-20.02.00:581][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.02.05-20.02.00:587][ 58]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.05-20.02.00:587][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-20.02.00:587][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-20.02.00:587][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-20.02.00:587][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-20.02.00:587][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-20.02.00:587][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.05-20.02.00:587][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-20.02.00:587][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-20.02.00:587][ 58]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.05-20.02.00:587][ 58]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.05-20.02.00:587][ 58]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.05-20.02.00:587][ 58]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.05-20.02.00:589][ 58]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.05-20.02.00:589][ 58]LogAudioMixer: Display: 1: FrontRight
+[2023.02.05-20.02.00:601][ 58]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.02.05-20.02.00:601][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-20.02.00:601][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-20.02.00:601][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-20.02.00:602][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.05-20.02.00:602][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.05-20.02.00:602][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.05-20.02.00:602][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.05-20.02.00:602][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.05-20.02.00:602][ 58]LogInit: FAudioDevice initialized.
+[2023.02.05-20.02.00:602][ 58]LogAudio: Display: Audio Device (ID: 4) registered with world 'Cabin_V4'.
+[2023.02.05-20.02.00:611][ 58]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.02.05-20.02.00:618][ 58]LogWorld: Bringing World /Game/Bogdan/Levels/Cabin/UEDPIE_0_Cabin_V4.Cabin_V4 up for play (max tick rate 0) at 2023.02.05-20.02.00
+[2023.02.05-20.02.00:618][ 58]LogWorld: Bringing up level for play took: 0.006658
+[2023.02.05-20.02.00:618][ 58]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.02.05-20.02.00:621][ 58]PIE: Server logged in
+[2023.02.05-20.02.00:622][ 58]PIE: Play in editor total start time 0.092 seconds.
+[2023.02.05-20.02.28:793][230]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.02.05-20.02.39:151][439]Cmd: CAMERA ALIGN
+[2023.02.05-20.02.39:151][439]Can't find target actor or component.
+[2023.02.05-20.03.31:889][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-20.03.31:889][334]LogWorld: BeginTearingDown for /Game/Bogdan/Levels/Cabin/UEDPIE_0_Cabin_V4
+[2023.02.05-20.03.31:889][334]LogWorld: UWorld::CleanupWorld for Cabin_V4, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-20.03.31:891][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-20.03.31:901][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-20.03.31:920][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-20.03.31:924][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-20.03.31:926][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-20.03.31:927][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-20.03.31:930][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-20.03.31:934][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.02.05-20.03.31:962][335]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.02.05-20.03.46:764][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.05-20.03.46:991][594]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Cabin_V43BBA55D646A380D2532C4488332D8F70.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Cabin/Cabin_V4.umap'
+[2023.02.05-20.03.46:996][594]LogFileHelpers: Saving map 'Cabin_V4' took 0.238
+[2023.02.05-20.03.47:268][594]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Cabin_V4_BuiltData26BB3FBB420A9958089F13B99B38BFC0.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Cabin/Cabin_V4_BuiltData.uasset'
+[2023.02.05-20.03.47:276][594]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.05-20.03.47:276][594]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Cabin/Cabin_V4.Cabin_V4
+[2023.02.05-20.03.47:276][594]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Bogdan/Levels/Cabin/Cabin_V4_BuiltData.Cabin_V4_BuiltData
