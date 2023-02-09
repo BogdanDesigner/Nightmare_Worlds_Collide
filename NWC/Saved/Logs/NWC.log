@@ -2066,3 +2066,214 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.09-18.56.48:800][776]AssetCheck: New page: Asset Save: Pre_Chase
 [2023.02.09-18.56.48:800][776]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Pre_Chase/Pre_Chase.Pre_Chase
 [2023.02.09-18.57.02:753][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.02.09-19.13.16:822][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2023.02.09-19.13.22:523][715]Cmd: MODE GRID=0
+[2023.02.09-19.13.23:206][771]Cmd: MODE ROTGRID=0
+[2023.02.09-19.13.24:121][845]Cmd: MODE SCALEGRID=0
+[2023.02.09-19.13.28:144][314]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2023.02.09-19.13.32:514][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.09-19.13.32:665][787]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase1E23D2BF4CE747BC90847CB667975E0E.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Pre_Chase/Pre_Chase.umap'
+[2023.02.09-19.13.32:669][787]LogFileHelpers: Saving map 'Pre_Chase' took 0.163
+[2023.02.09-19.13.32:678][787]AssetCheck: New page: Asset Save: Pre_Chase
+[2023.02.09-19.13.32:678][787]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Pre_Chase/Pre_Chase.Pre_Chase
+[2023.02.09-19.13.34:613][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.02.09-19.14.30:520][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short107)
+[2023.02.09-19.14.47:672][655]LogEditorViewport: Clicking on Actor (LMB): escape_C (escape)
+[2023.02.09-19.14.53:953][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short109)
+[2023.02.09-19.15.11:881][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short125)
+[2023.02.09-19.15.23:291][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big79)
+[2023.02.09-19.16.16:380][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short129)
+[2023.02.09-19.21.43:478][ 70]LogActorFactory: Actor Factory created SM_Wall
+[2023.02.09-19.21.44:584][193]LogActorFactory: Actor Factory created SM_Wall
+[2023.02.09-19.21.48:399][641]Cmd: TRANSACTION UNDO
+[2023.02.09-19.21.48:399][641]LogEditorTransaction: Undo Rotate Actors
+[2023.02.09-19.21.59:578][840]Cmd: DELETE
+[2023.02.09-19.21.59:578][840]Cmd: ACTOR DELETE
+[2023.02.09-19.21.59:588][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.09-19.21.59:594][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.09-19.21.59:596][840]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.02.09-19.22.08:606][779]LogActorFactory: Actor Factory created SM_DoubleDoor_Door
+[2023.02.09-19.22.09:833][885]LogActorFactory: Actor Factory created SM_DoubleDoor_Door
+[2023.02.09-19.22.10:333][936]LogActorFactory: Actor Factory created SM_DoubleDoor_Door
+[2023.02.09-19.22.11:255][ 42]Cmd: DELETE
+[2023.02.09-19.22.11:255][ 42]Cmd: ACTOR DELETE
+[2023.02.09-19.22.11:264][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.09-19.22.11:270][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.02.09-19.22.11:271][ 42]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.02.09-19.22.12:248][141]LogActorFactory: Actor Factory created SM_DoubleDoor_Frames
+[2023.02.09-19.22.12:952][225]LogActorFactory: Actor Factory created SM_DoubleDoor_Frames
+[2023.02.09-19.22.14:905][452]Cmd: TRANSACTION UNDO
+[2023.02.09-19.22.14:905][452]LogEditorTransaction: Undo Rotate Actors
+[2023.02.09-19.22.17:461][672]Cmd: DELETE
+[2023.02.09-19.22.17:461][672]Cmd: ACTOR DELETE
+[2023.02.09-19.22.17:471][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.09-19.22.17:476][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.02.09-19.22.17:477][672]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.02.09-19.22.18:530][777]LogActorFactory: Actor Factory created SM_Wall_Doorway_Single
+[2023.02.09-19.22.19:272][854]LogActorFactory: Actor Factory created SM_Wall_Doorway_Single
+[2023.02.09-19.22.21:330][ 78]Cmd: MODE GRID=1
+[2023.02.09-19.22.21:831][124]Cmd: MODE ROTGRID=1
+[2023.02.09-19.22.22:427][172]Cmd: MODE SCALEGRID=1
+[2023.02.09-19.22.40:624][321]LogEditorViewport: Clicking on Actor (LMB): escape_C (escape)
+[2023.02.09-19.22.49:999][299]LogActorFactory: Actor Factory created SM_DoorL
+[2023.02.09-19.22.50:467][344]LogActorFactory: Actor Factory created SM_DoorL
+[2023.02.09-19.22.56:083][ 13]Cmd: TRANSACTION UNDO
+[2023.02.09-19.22.56:083][ 13]LogEditorTransaction: Undo Rotate Actors
+[2023.02.09-19.23.12:389][869]Cmd: MODE ROTGRID=0
+[2023.02.09-19.23.13:195][931]Cmd: MODE GRID=0
+[2023.02.09-19.23.13:873][  4]Cmd: MODE SCALEGRID=0
+[2023.02.09-19.23.31:741][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorL)
+[2023.02.09-19.24.14:535][813]LogMaterial: Display: Missing cached shadermap for Blood in PCD3D_SM5, Default, SM5 (DDC key hash: 1BBDFFE496844B3987986EBEF69D99E56EB0D85B), compiling. 
+[2023.02.09-19.24.14:641][813]LogShaderCompilers: Display: Submitted 96 shader compile jobs with 'Low' priority
+[2023.02.09-19.24.14:931][813]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 96
+[2023.02.09-19.24.14:931][813]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 86
+[2023.02.09-19.24.14:931][813]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 76
+[2023.02.09-19.24.14:931][813]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 66
+[2023.02.09-19.24.14:931][813]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 56
+[2023.02.09-19.24.14:931][813]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 46
+[2023.02.09-19.24.14:931][813]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2023.02.09-19.24.14:931][813]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2023.02.09-19.24.14:931][813]LogShaderCompilers: Display: Started 80 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-19.24.19:651][144]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2023.02.09-19.24.19:651][144]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-19.24.19:675][145]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.09-19.24.19:675][145]LogShaderCompilers: Display: Total job queries 96, among them cache hits 0 (0.00%)
+[2023.02.09-19.24.19:675][145]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 8 distinct outputs (80.00%)
+[2023.02.09-19.24.19:675][145]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.02.09-19.24.19:675][145]LogShaderCompilers: Display: ================================================
+[2023.02.09-19.24.20:015][167]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2023.02.09-19.24.20:015][167]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-19.24.20:099][168]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2023.02.09-19.24.20:099][168]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-19.24.20:257][174]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.09-19.24.20:257][174]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-19.24.20:280][175]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2023.02.09-19.24.20:280][175]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-19.24.20:298][176]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2023.02.09-19.24.20:298][176]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-19.24.20:609][192]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.09-19.24.20:609][192]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-19.24.20:629][193]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.09-19.24.20:629][193]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-19.24.20:676][196]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.09-19.24.20:676][196]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-19.24.20:696][198]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.09-19.24.20:696][198]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-19.24.20:773][205]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.09-19.24.20:773][205]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-19.24.24:414][489]LogAnimation: Warning: AnimBP MTKAnimationBPTest_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2023.02.09-19.24.35:203][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MonsterAi_Kit/Monster_NBC.Monster_NBC
+[2023.02.09-19.24.35:472][387]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.02.09-19.24.36:230][387]LogSlate: Took 0.000874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.09-19.24.40:634][794]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2023.02.09-19.24.48:473][598]LogAnimation: Warning: AnimBP MTKAnimationBPTest_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2023.02.09-19.24.48:473][598]LogAnimation: Warning: AnimBP MTKAnimationBPTest_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/Monster_NBC.PLACEHOLDER-CLASS__PatrolSpline_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Controllers/MonsterKit_AIController.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Services/S_ChangeSpeed.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Services/S_CheckIfPlayerInAttackRange.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_ApplyAttack.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_ApplyGetHit.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_chase.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_FindPathPoint.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_FindPlayerReaction.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_FindRandomLocation.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_GetTheSpawnPoint.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_HearPlayerReactAnimation.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_PathIndexIncrease.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_PatrolDelay.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_PlayIdleAnimation.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_RunInvestigateEvent.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.24.53:632][ 40]LogEditorClassViewer: Warning: Class /Game/MonsterAi_Kit/MonsterAiKit_Core/Ai_Tasks/T_SearchAnimation.PLACEHOLDER-CLASS__Monster_NBC_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.09-19.25.04:264][ 25]BlueprintLog: New page: Compile Monster_NBC
+[2023.02.09-19.25.04:473][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.02.09-19.25.05:220][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MonsterAi_Kit/Monster_NBC" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/MonsterAi_Kit/Monster_NBC.uasset" SILENT=true
+[2023.02.09-19.25.05:393][ 87]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Monster_NBC4E16E3BD4614DDD159207E9B66B99EF2.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/MonsterAi_Kit/Monster_NBC.uasset'
+[2023.02.09-19.25.05:408][ 87]AssetCheck: New page: Asset Save: Monster_NBC
+[2023.02.09-19.25.05:409][ 87]LogContentValidation: Display: Validating Blueprint /Game/MonsterAi_Kit/Monster_NBC.Monster_NBC
+[2023.02.09-19.25.09:270][544]LogEditorViewport: Clicking on Actor (LMB): Monster_NBC_C (Monster_NBC)
+[2023.02.09-19.25.10:819][722]LogSlate: Window 'Monster_NBC' being destroyed
+[2023.02.09-19.25.10:823][722]LogSlate: Window 'Monster_NBC' being destroyed
+[2023.02.09-19.25.10:861][722]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-19.25.10:861][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-19.25.20:669][815]LogEditorViewport: Clicking on Actor (LMB): Monster_NBC_C (Monster_NBC)
+[2023.02.09-19.26.42:047][824]Cmd: POLY SELECT MEMORY SET
+[2023.02.09-19.26.42:754][904]LogLevelTools: Warning: NavMeshBoundsVolume_1 is already in the destination level so it was ignored
+[2023.02.09-19.26.43:370][978]Cmd: POLY SELECT MEMORY INTERSECTION
+[2023.02.09-19.26.52:625][943]LogSlate: Window 'New Level' being destroyed
+[2023.02.09-19.27.26:936][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.02.09-19.27.27:090][849]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase_Auto4A0DDC9584291C37ADE859A98D0E77A90.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Autosaves/Game/Bogdan/Levels/Pre_Chase/Pre_Chase_Auto4.umap'
+[2023.02.09-19.27.27:091][849]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Bogdan/Levels/Pre_Chase/Pre_Chase' took 0.218
+[2023.02.09-19.27.27:092][849]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.218
+[2023.02.09-19.28.25:478][683]LogEditorViewport: Clicking on Actor (LMB): Monster_NBC_C (Monster_NBC)
+[2023.02.09-19.28.42:375][609]LogEditorViewport: Clicking on Actor (LMB): Monster_NBC_C (Monster_NBC)
+[2023.02.09-19.28.45:791][917]LogEditorViewport: Clicking on Actor (LMB): PatrolSpline_C (PatrolSpline)
+[2023.02.09-19.28.52:228][682]Cmd: TRANSACTION UNDO
+[2023.02.09-19.28.52:228][682]LogEditorTransaction: Undo Rotate Actors
+[2023.02.09-19.28.54:367][842]Cmd: MODE ROTGRID=1
+[2023.02.09-19.28.55:416][924]Cmd: MODE SCALEGRID=1
+[2023.02.09-19.28.56:382][998]Cmd: MODE GRID=1
+[2023.02.09-19.30.36:515][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.02.09-19.30.36:675][703]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_ChaseFBC5EF384BA8A215B7D8C09D026E9EB4.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Pre_Chase/Pre_Chase.umap'
+[2023.02.09-19.30.36:845][703]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase_BuiltData694424E24352E96EDBFFE7AE8AFE9528.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Pre_Chase/Pre_Chase_BuiltData.uasset'
+[2023.02.09-19.30.36:860][703]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.09-19.30.36:860][703]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Pre_Chase/Pre_Chase.Pre_Chase
+[2023.02.09-19.30.36:860][703]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Bogdan/Levels/Pre_Chase/Pre_Chase_BuiltData.Pre_Chase_BuiltData
+[2023.02.09-19.30.37:683][789]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.09-19.30.37:688][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.09-19.30.37:688][789]PIE: New page: PIE session: Pre_Chase (9 Feb 2023, 19:30:37)
+[2023.02.09-19.30.37:710][789]LogPlayLevel: Creating play world package: /Game/Bogdan/Levels/Pre_Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-19.30.37:747][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036892s)
+[2023.02.09-19.30.37:748][789]LogAIModule: Creating AISystem for world Pre_Chase
+[2023.02.09-19.30.37:748][789]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2023.02.09-19.30.37:748][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Levels/Pre_Chase/Pre_Chase.Pre_Chase to /Game/Bogdan/Levels/Pre_Chase/UEDPIE_0_Pre_Chase.Pre_Chase (0.038048s)
+[2023.02.09-19.30.37:764][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.02.09-19.30.37:765][789]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.02.09-19.30.37:765][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.09-19.30.37:765][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.09-19.30.37:765][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.09-19.30.37:765][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.09-19.30.37:765][789]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.09-19.30.37:765][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.09-19.30.37:765][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.09-19.30.37:765][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.09-19.30.37:766][789]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.09-19.30.37:766][789]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.09-19.30.37:766][789]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.09-19.30.37:766][789]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.09-19.30.37:768][789]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.09-19.30.37:768][789]LogAudioMixer: Display: 1: FrontRight
+[2023.02.09-19.30.37:781][789]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.02.09-19.30.37:781][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.09-19.30.37:781][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.09-19.30.37:781][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.09-19.30.37:782][789]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.09-19.30.37:782][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.09-19.30.37:782][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.09-19.30.37:782][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.09-19.30.37:782][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.09-19.30.37:782][789]LogInit: FAudioDevice initialized.
+[2023.02.09-19.30.37:782][789]LogAudio: Display: Audio Device (ID: 15) registered with world 'Pre_Chase'.
+[2023.02.09-19.30.37:793][789]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.02.09-19.30.37:810][789]LogWorld: Bringing World /Game/Bogdan/Levels/Pre_Chase/UEDPIE_0_Pre_Chase.Pre_Chase up for play (max tick rate 0) at 2023.02.09-19.30.37
+[2023.02.09-19.30.37:832][789]LogWorld: Bringing up level for play took: 0.037883
+[2023.02.09-19.30.37:832][789]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.02.09-19.30.37:855][789]PIE: Server logged in
+[2023.02.09-19.30.37:857][789]PIE: Play in editor total start time 0.17 seconds.
+[2023.02.09-19.31.01:339][577]Cmd: CAMERA ALIGN
+[2023.02.09-19.31.01:339][577]Can't find target actor or component.
+[2023.02.09-19.31.01:831][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-19.31.01:831][631]LogWorld: BeginTearingDown for /Game/Bogdan/Levels/Pre_Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-19.31.01:832][631]LogWorld: UWorld::CleanupWorld for Pre_Chase, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-19.31.01:835][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-19.31.01:847][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.09-19.31.01:857][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-19.31.01:872][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.09-19.31.01:872][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-19.31.01:873][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-19.31.01:875][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-19.31.01:879][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.02.09-19.31.01:904][632]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.02.09-19.31.12:568][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.02.09-19.31.42:627][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
