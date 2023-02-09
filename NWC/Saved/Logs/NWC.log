@@ -2065,3 +2065,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.09-18.56.48:792][776]LogFileHelpers: Saving map 'Pre_Chase' took 0.159
 [2023.02.09-18.56.48:800][776]AssetCheck: New page: Asset Save: Pre_Chase
 [2023.02.09-18.56.48:800][776]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Pre_Chase/Pre_Chase.Pre_Chase
+[2023.02.09-18.57.02:753][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
