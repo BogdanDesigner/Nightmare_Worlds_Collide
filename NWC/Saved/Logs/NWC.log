@@ -2277,3 +2277,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.09-19.31.01:904][632]LogPlayLevel: Display: Destroying online subsystem :Context_26
 [2023.02.09-19.31.12:568][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
 [2023.02.09-19.31.42:627][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.02.09-19.32.08:387][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
