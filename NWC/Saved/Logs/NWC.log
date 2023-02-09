@@ -1337,3 +1337,1085 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.09-22.02.24:664][ 75]AssetCheck: New page: Asset Save: Pre_Chase
 [2023.02.09-22.02.24:664][ 75]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
 [2023.02.09-22.02.27:953][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.02.09-22.02.50:260][695]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.09-22.02.50:264][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.09-22.02.50:264][695]PIE: New page: PIE session: Pre_Chase (9 Feb 2023, 22:02:50)
+[2023.02.09-22.02.50:264][695]LogPlayLevel: Creating play world package: /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.02.50:304][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039688s)
+[2023.02.09-22.02.50:305][695]LogAIModule: Creating AISystem for world Pre_Chase
+[2023.02.09-22.02.50:305][695]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2023.02.09-22.02.50:305][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase to /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase (0.040803s)
+[2023.02.09-22.02.50:311][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.09-22.02.50:312][695]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.02.09-22.02.50:312][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.09-22.02.50:312][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.09-22.02.50:312][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.09-22.02.50:312][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.09-22.02.50:312][695]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.09-22.02.50:312][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.09-22.02.50:312][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.09-22.02.50:312][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.09-22.02.50:312][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.09-22.02.50:312][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.09-22.02.50:312][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.09-22.02.50:312][695]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.09-22.02.50:314][695]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.09-22.02.50:314][695]LogAudioMixer: Display: 1: FrontRight
+[2023.02.09-22.02.50:326][695]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.02.09-22.02.50:326][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.09-22.02.50:326][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.09-22.02.50:326][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.09-22.02.50:326][695]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.09-22.02.50:326][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.09-22.02.50:327][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.09-22.02.50:327][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.09-22.02.50:327][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.09-22.02.50:327][695]LogInit: FAudioDevice initialized.
+[2023.02.09-22.02.50:327][695]LogAudio: Display: Audio Device (ID: 5) registered with world 'Pre_Chase'.
+[2023.02.09-22.02.50:337][695]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.02.09-22.02.50:374][695]LogWorld: Bringing World /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase up for play (max tick rate 0) at 2023.02.09-22.02.50
+[2023.02.09-22.02.50:375][695]LogWorld: Bringing up level for play took: 0.037498
+[2023.02.09-22.02.50:375][695]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.02.09-22.02.50:380][695]PIE: Server logged in
+[2023.02.09-22.02.50:380][695]PIE: Play in editor total start time 0.116 seconds.
+[2023.02.09-22.02.51:823][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.02.51:823][853]LogWorld: BeginTearingDown for /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.02.51:824][853]LogWorld: UWorld::CleanupWorld for Pre_Chase, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-22.02.51:827][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.02.51:834][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.09-22.02.51:847][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.02.51:852][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.02.51:853][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.02.51:853][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.02.51:864][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.09-22.02.51:911][855]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.02.09-22.02.54:037][ 60]MapCheck: New page: Map Check
+[2023.02.09-22.02.54:045][ 60]LightingResults: New page: Lighting Build - 9 Feb 2023, 22:02:54
+[2023.02.09-22.02.54:096][ 60]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.09-22.02.54:149][ 60]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.09-22.02.54:160][ 60]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.09-22.02.54:675][ 60]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.09-22.02.54:675][ 60]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19256
+[2023.02.09-22.03.01:297][ 60]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.09-22.03.01:297][ 60]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.09-22.03.01:297][ 60]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.09-22.03.01:297][ 60]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.09-22.03.01:297][ 60]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.09-22.03.01:432][ 60]LogEditorBuildUtils: Build time 0:07
+[2023.02.09-22.03.01:585][ 62]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Bolts in PCD3D_SM5, Default, SM5 (DDC key hash: 253603935844C4B03AF43BA14BDA7D885788B558), compiling. 
+[2023.02.09-22.03.01:589][ 62]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.03.01:590][ 62]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.09-22.03.01:590][ 62]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.09-22.03.01:590][ 62]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.03.01:590][ 62]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Bolts in PCD3D_SM5, Default, SM5 (DDC key hash: 358B046BE36D664F9AB6F0E943947A98AC6C16E8), compiling. 
+[2023.02.09-22.03.01:594][ 62]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.03.01:595][ 62]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Bolts in PCD3D_SM5, Default, SM5 (DDC key hash: 352727192726B1739A299A9B1A6B353CD9BB5FE0), compiling. 
+[2023.02.09-22.03.01:598][ 62]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.03.01:629][ 62]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.09-22.03.01:629][ 62]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2023.02.09-22.03.01:629][ 62]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2023.02.09-22.03.01:629][ 62]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.09-22.03.01:629][ 62]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.03.02:439][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.09-22.03.28:145][377]Job is a success!
+[2023.02.09-22.03.28:390][378]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2023.02.09-22.03.28:390][378]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.09-22.03.28:390][378]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.02.09-22.03.28:390][378]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.09-22.03.28:390][378]LogVolumetricLightmapImport:          0: 5.3% covering 100.0% of volume
+[2023.02.09-22.03.28:390][378]LogVolumetricLightmapImport:          1: 31.6% covering 9.4% of volume
+[2023.02.09-22.03.28:390][378]LogVolumetricLightmapImport:          2: 63.2% covering 0.3% of volume
+[2023.02.09-22.03.28:390][378]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.09-22.03.28:390][378]LogVolumetricLightmapImport:          Pre_Chase 			 19 bricks 	 100.0% (Persistent Level)
+[2023.02.09-22.03.29:858][378]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: HQ_Lightmap1_8 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:859][378]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: HQ_Lightmap0_13 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: HQ_Lightmap0_14 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: HQ_Lightmap0_15 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: HQ_Lightmap0_16 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: HQ_Lightmap0_17 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: HQ_Lightmap0_18 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: HQ_Lightmap0_19 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: HQ_Lightmap0_20 (OODLE_AutoDXT, 512X512)
+[2023.02.09-22.03.29:860][378]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (OODLE_DXT1, 512X512)
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.03.29:860][378]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.03.30:061][378]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X512)
+[2023.02.09-22.03.30:061][378]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2023.02.09-22.03.30:129][378]LogStaticLightingSystem: Pre_Chase_BuiltData storing lightmap data for 1026 meshes in 39 LightmapResourceClusters (26.3 Meshes per cluster).
+[2023.02.09-22.03.30:160][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.09-22.03.30:193][378]LogStaticLightingSystem: Illumination: 36.1 sec (832 ms encoding lightmaps, 200 ms encoding shadowmaps)
+[2023.02.09-22.03.30:193][378]LogStaticLightingSystem: Lightmap texture memory:  38.5 MB (38.5 MB streaming, 0.0 MB non-streaming), 40 textures
+[2023.02.09-22.03.30:193][378]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.02.09-22.03.30:319][378]DumpUnbuiltLightIteractions
+[2023.02.09-22.03.30:319][378]Lights with unbuilt interactions: 0
+[2023.02.09-22.03.30:319][378]
+[2023.02.09-22.03.30:319][378]Primitives with unbuilt interactions: 0
+[2023.02.09-22.03.30:344][378]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.09-22.03.30:344][378]LogShaderCompilers: Display: Total job queries 179, among them cache hits 26 (14.53%)
+[2023.02.09-22.03.30:344][378]LogShaderCompilers: Display: Tracking 153 distinct input hashes that result in 100 distinct outputs (65.36%)
+[2023.02.09-22.03.30:344][378]LogShaderCompilers: Display: RAM used: 0.76 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.02.09-22.03.30:344][378]LogShaderCompilers: Display: ================================================
+[2023.02.09-22.03.30:385][379]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.09-22.03.30:385][379]MapCheck: New page: Pre_Chase - 9 Feb 2023, 22:03:30
+[2023.02.09-22.03.30:389][379]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.708ms to complete.
+[2023.02.09-22.04.05:830][605]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.09-22.04.05:835][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.09-22.04.05:835][605]PIE: New page: PIE session: Pre_Chase (9 Feb 2023, 22:04:05)
+[2023.02.09-22.04.05:862][605]LogPlayLevel: Creating play world package: /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.04.05:902][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040027s)
+[2023.02.09-22.04.05:903][605]LogAIModule: Creating AISystem for world Pre_Chase
+[2023.02.09-22.04.05:903][605]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2023.02.09-22.04.05:904][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase to /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase (0.041203s)
+[2023.02.09-22.04.05:909][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.09-22.04.05:911][605]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.02.09-22.04.05:911][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.09-22.04.05:911][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.09-22.04.05:911][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.09-22.04.05:911][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.09-22.04.05:911][605]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.09-22.04.05:911][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.09-22.04.05:911][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.09-22.04.05:911][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.09-22.04.05:911][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.09-22.04.05:911][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.09-22.04.05:911][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.09-22.04.05:911][605]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.09-22.04.05:913][605]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.09-22.04.05:913][605]LogAudioMixer: Display: 1: FrontRight
+[2023.02.09-22.04.05:925][605]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.02.09-22.04.05:925][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.09-22.04.05:925][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.09-22.04.05:925][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.09-22.04.05:925][605]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.09-22.04.05:925][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.09-22.04.05:925][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.09-22.04.05:926][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.09-22.04.05:926][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.09-22.04.05:926][605]LogInit: FAudioDevice initialized.
+[2023.02.09-22.04.05:926][605]LogAudio: Display: Audio Device (ID: 6) registered with world 'Pre_Chase'.
+[2023.02.09-22.04.05:931][605]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.02.09-22.04.05:968][605]LogWorld: Bringing World /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase up for play (max tick rate 0) at 2023.02.09-22.04.05
+[2023.02.09-22.04.05:969][605]LogWorld: Bringing up level for play took: 0.038346
+[2023.02.09-22.04.05:969][605]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.02.09-22.04.05:974][605]PIE: Server logged in
+[2023.02.09-22.04.05:975][605]PIE: Play in editor total start time 0.141 seconds.
+[2023.02.09-22.04.25:833][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.04.25:833][969]LogWorld: BeginTearingDown for /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.04.25:834][969]LogWorld: UWorld::CleanupWorld for Pre_Chase, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-22.04.25:837][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.04.25:847][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.09-22.04.25:861][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.04.25:866][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.09-22.04.25:868][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.04.25:868][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.04.25:871][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.04.25:879][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.09-22.04.25:906][970]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.02.09-22.04.30:330][454]LogActorFactory: Actor Factory created Toilet_Stall_Door_Only
+[2023.02.09-22.04.31:006][527]LogActorFactory: Actor Factory created Toilet_Stall_Door_Only
+[2023.02.09-22.05.32:903][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big127)
+[2023.02.09-22.05.41:206][693]LogMaterial: Display: Missing cached shadermap for MI_Toilet in PCD3D_SM5, Default, SM5 (DDC key hash: E7DEC997A66F163C34FD11CF41CC98F477885A09), compiling. 
+[2023.02.09-22.05.41:236][693]LogShaderCompilers: Display: Submitted 55 shader compile jobs with 'Low' priority
+[2023.02.09-22.05.41:248][693]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2023.02.09-22.05.41:248][693]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2023.02.09-22.05.41:248][693]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.09-22.05.41:248][693]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.02.09-22.05.41:248][693]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2023.02.09-22.05.41:248][693]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2023.02.09-22.05.41:248][693]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 35
+[2023.02.09-22.05.41:248][693]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2023.02.09-22.05.41:248][693]LogShaderCompilers: Display: Started 24 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.41:248][693]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.09-22.05.41:253][693]LogActorFactory: Actor Factory created SM_Toilet_Open
+[2023.02.09-22.05.42:149][760]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.09-22.05.42:150][760]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.09-22.05.42:250][767]LogActorFactory: Actor Factory created SM_Toilet_Open
+[2023.02.09-22.05.42:523][783]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.09-22.05.42:523][783]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.09-22.05.42:544][784]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2023.02.09-22.05.42:544][784]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.42:656][790]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2023.02.09-22.05.42:656][790]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.42:837][797]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2023.02.09-22.05.42:837][797]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.42:939][801]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2023.02.09-22.05.42:939][801]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.43:669][847]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2023.02.09-22.05.43:669][847]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.43:800][857]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.09-22.05.43:800][857]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.43:846][861]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2023.02.09-22.05.43:846][861]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.43:910][866]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2023.02.09-22.05.43:910][866]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.43:933][868]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.02.09-22.05.43:933][868]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.43:947][869]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2023.02.09-22.05.43:947][869]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.44:092][879]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2023.02.09-22.05.44:092][879]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.44:126][881]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.09-22.05.44:126][881]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.44:126][881]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.09-22.05.44:126][881]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.05.48:032][317]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Toilet_Stall_Open_NoDoor)
+[2023.02.09-22.05.49:586][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet_Open2)
+[2023.02.09-22.05.56:012][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet_Open)
+[2023.02.09-22.06.01:863][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet_Open2)
+[2023.02.09-22.06.14:648][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short306)
+[2023.02.09-22.06.19:532][903]Cmd: MODE GRID=0
+[2023.02.09-22.06.20:015][937]Cmd: MODE ROTGRID=0
+[2023.02.09-22.06.20:629][982]Cmd: MODE SCALEGRID=0
+[2023.02.09-22.06.22:973][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Toilet_Stall_Open_NoDoor4)
+[2023.02.09-22.06.26:343][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet_Open4)
+[2023.02.09-22.06.36:466][779]LogActorFactory: Actor Factory created SM_Trashcan_Round
+[2023.02.09-22.06.38:410][  4]LogActorFactory: Actor Factory created SM_Trashcan_Round
+[2023.02.09-22.06.56:971][  8]LogActorFactory: Actor Factory created SM_Soap_Despenser
+[2023.02.09-22.06.57:699][ 84]LogActorFactory: Actor Factory created SM_Soap_Despenser
+[2023.02.09-22.07.55:681][877]LogActorFactory: Actor Factory created SM_Toilet_Stall_Closed
+[2023.02.09-22.07.56:630][981]LogActorFactory: Actor Factory created SM_Toilet_Stall_Closed
+[2023.02.09-22.08.06:968][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short324)
+[2023.02.09-22.08.09:470][464]Cmd: TRANSACTION UNDO
+[2023.02.09-22.08.09:470][464]LogEditorTransaction: Undo Scale Actors
+[2023.02.09-22.08.12:493][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet_Stall_Closed)
+[2023.02.09-22.08.22:033][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet_Stall_Closed)
+[2023.02.09-22.08.22:234][871]Cmd: DELETE
+[2023.02.09-22.08.22:234][871]Cmd: ACTOR DELETE
+[2023.02.09-22.08.22:246][871]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.09-22.08.22:252][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.02.09-22.08.22:254][871]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.02.09-22.08.22:898][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet_Stall_Closed2)
+[2023.02.09-22.08.42:696][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet_Stall_Closed2)
+[2023.02.09-22.08.48:184][865]LogMaterial: Display: Missing cached shadermap for MI_Urinal in PCD3D_SM5, Default, SM5 (DDC key hash: 40600786FB6AA180A428A9AC786D832B34BAD7D5), compiling. 
+[2023.02.09-22.08.48:223][865]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Low' priority
+[2023.02.09-22.08.48:258][865]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2023.02.09-22.08.48:258][865]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2023.02.09-22.08.48:258][865]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2023.02.09-22.08.48:258][865]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2023.02.09-22.08.48:258][865]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2023.02.09-22.08.48:258][865]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2023.02.09-22.08.48:258][865]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.09-22.08.48:258][865]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.09-22.08.48:258][865]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.08.48:279][865]LogActorFactory: Actor Factory created SM_Urinal
+[2023.02.09-22.08.49:407][934]LogActorFactory: Actor Factory created SM_Urinal
+[2023.02.09-22.08.49:744][951]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.09-22.08.49:744][951]LogShaderCompilers: Display: Total job queries 574, among them cache hits 336 (58.54%)
+[2023.02.09-22.08.49:744][951]LogShaderCompilers: Display: Tracking 210 distinct input hashes that result in 142 distinct outputs (67.62%)
+[2023.02.09-22.08.49:744][951]LogShaderCompilers: Display: RAM used: 1.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.12%
+[2023.02.09-22.08.49:744][951]LogShaderCompilers: Display: ================================================
+[2023.02.09-22.08.52:430][195]Cmd: MODE GRID=1
+[2023.02.09-22.08.53:239][248]Cmd: MODE ROTGRID=1
+[2023.02.09-22.08.53:966][321]Cmd: MODE SCALEGRID=1
+[2023.02.09-22.09.10:691][232]LogMaterial: Display: Missing cached shadermap for MI_urinal_Seperator in PCD3D_SM5, Default, SM5 (DDC key hash: 2625008645FC7E081023D0871734F7C4FDD494C4), compiling. 
+[2023.02.09-22.09.10:718][232]LogShaderCompilers: Display: Submitted 55 shader compile jobs with 'Low' priority
+[2023.02.09-22.09.10:752][232]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2023.02.09-22.09.10:752][232]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2023.02.09-22.09.10:752][232]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.09-22.09.10:752][232]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.02.09-22.09.10:752][232]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2023.02.09-22.09.10:753][232]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2023.02.09-22.09.10:753][232]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 35
+[2023.02.09-22.09.10:753][232]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2023.02.09-22.09.10:753][232]LogShaderCompilers: Display: Started 24 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.10:753][232]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.09-22.09.11:041][247]LogActorFactory: Actor Factory created SM_Urinal_Seperator
+[2023.02.09-22.09.11:491][275]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.09-22.09.11:491][275]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.09-22.09.11:854][299]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.09-22.09.11:854][299]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.09-22.09.11:909][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2023.02.09-22.09.11:909][303]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.11:962][306]LogActorFactory: Actor Factory created SM_Urinal_Seperator
+[2023.02.09-22.09.12:014][307]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2023.02.09-22.09.12:014][307]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.12:205][312]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2023.02.09-22.09.12:205][312]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.12:252][314]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2023.02.09-22.09.12:252][314]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.12:982][346]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2023.02.09-22.09.12:982][346]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.13:019][347]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2023.02.09-22.09.13:019][347]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.13:177][359]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2023.02.09-22.09.13:177][359]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.13:194][360]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.09-22.09.13:194][360]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.13:273][366]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2023.02.09-22.09.13:273][366]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.13:293][367]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.02.09-22.09.13:293][367]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.13:335][370]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2023.02.09-22.09.13:335][370]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.13:408][375]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.09-22.09.13:408][375]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.13:455][378]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.09-22.09.13:455][378]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.09-22.09.58:416][139]LogActorFactory: Actor Factory created SM_Kitchen_Sink
+[2023.02.09-22.09.59:285][231]LogActorFactory: Actor Factory created SM_Kitchen_Sink
+[2023.02.09-22.10.24:531][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Soap_Despenser2)
+[2023.02.09-22.11.03:613][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big129)
+[2023.02.09-22.11.04:592][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kitchen_Sink2)
+[2023.02.09-22.11.08:330][152]Cmd: TRANSACTION UNDO
+[2023.02.09-22.11.08:330][152]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.09-22.11.08:658][161]Cmd: TRANSACTION UNDO
+[2023.02.09-22.11.08:658][161]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.09-22.11.19:915][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Trashcan_Round)
+[2023.02.09-22.11.31:272][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Soap_Despenser)
+[2023.02.09-22.11.31:539][769]Cmd: DELETE
+[2023.02.09-22.11.31:539][769]Cmd: ACTOR DELETE
+[2023.02.09-22.11.31:550][769]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.09-22.11.31:556][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.09-22.11.31:558][769]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.02.09-22.11.34:837][113]MapCheck: New page: Map Check
+[2023.02.09-22.11.34:848][113]LightingResults: New page: Lighting Build - 9 Feb 2023, 22:11:34
+[2023.02.09-22.11.34:867][113]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.09-22.11.34:869][113]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.09-22.11.34:869][113]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.09-22.11.34:870][113]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.09-22.11.34:870][113]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19256
+[2023.02.09-22.11.39:406][113]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.09-22.11.39:406][113]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.09-22.11.39:406][113]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.09-22.11.39:406][113]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.09-22.11.39:406][113]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.09-22.11.39:663][113]LogEditorBuildUtils: Build time 0:04
+[2023.02.09-22.11.39:670][113]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Toilet in PCD3D_SM5, Default, SM5 (DDC key hash: AE81D4E7808677594BBE2CDE0EA35314C21CCD07), compiling. 
+[2023.02.09-22.11.39:673][113]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.11.39:675][113]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Toilet in PCD3D_SM5, Default, SM5 (DDC key hash: 690CDC4359408D22A926BC1E62B99FEFD5C8500C), compiling. 
+[2023.02.09-22.11.39:677][113]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.11.39:679][113]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Toilet in PCD3D_SM5, Default, SM5 (DDC key hash: 1BD53F0422EA9093022F2A0A10E3E17080C22EB5), compiling. 
+[2023.02.09-22.11.39:681][113]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.11.39:682][113]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2023.02.09-22.11.39:682][113]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.02.09-22.11.39:682][113]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.09-22.11.39:682][113]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2023.02.09-22.11.39:682][113]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2023.02.09-22.11.39:682][113]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.09-22.11.39:682][113]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.11.39:961][117]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Urinal in PCD3D_SM5, Default, SM5 (DDC key hash: 8469B22E5CB989E3514B5504AFA1F78F8F9A43A8), compiling. 
+[2023.02.09-22.11.39:964][117]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.11.39:967][117]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.02.09-22.11.39:967][117]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.09-22.11.39:967][117]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.11.39:967][117]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Urinal in PCD3D_SM5, Default, SM5 (DDC key hash: CA39792F2817375EDFB4A5246816AFC37FB2201C), compiling. 
+[2023.02.09-22.11.39:971][117]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.11.40:020][118]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_urinal_Seperator in PCD3D_SM5, Default, SM5 (DDC key hash: E70648B2167AC868EEB3EC21F63DD5C450BC8261), compiling. 
+[2023.02.09-22.11.40:025][118]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.11.40:028][118]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_urinal_Seperator in PCD3D_SM5, Default, SM5 (DDC key hash: B793F63749927A4E8108C93F6B72EFE6A2EA9004), compiling. 
+[2023.02.09-22.11.40:033][118]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.11.40:036][118]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_urinal_Seperator in PCD3D_SM5, Default, SM5 (DDC key hash: EA9C1CE07F31D5421A1D451B6EE71B769FF039FD), compiling. 
+[2023.02.09-22.11.40:040][118]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.11.40:072][118]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2023.02.09-22.11.40:072][118]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.11.40:080][119]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Kitchen_Sink in PCD3D_SM5, Default, SM5 (DDC key hash: 007E9AB7D762CF12D9DFC610FCEB9B1FD40BAA15), compiling. 
+[2023.02.09-22.11.40:086][119]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.11.40:088][119]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Kitchen_Sink in PCD3D_SM5, Default, SM5 (DDC key hash: 35F1319F7BE679EE3252A1A40F5758865037FE7D), compiling. 
+[2023.02.09-22.11.40:093][119]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.11.40:095][119]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Kitchen_Sink in PCD3D_SM5, Default, SM5 (DDC key hash: 5BB0F6828D04DFA2C08FC3AC74C258C8369A871D), compiling. 
+[2023.02.09-22.11.40:099][119]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.09-22.11.40:136][119]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2023.02.09-22.11.40:136][119]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.09-22.11.41:019][120]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.09-22.11.41:442][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.09-22.12.08:569][566]Job is a success!
+[2023.02.09-22.12.08:822][567]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2023.02.09-22.12.08:822][567]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.09-22.12.08:822][567]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.02.09-22.12.08:822][567]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.09-22.12.08:822][567]LogVolumetricLightmapImport:          0: 5.6% covering 100.0% of volume
+[2023.02.09-22.12.08:822][567]LogVolumetricLightmapImport:          1: 33.3% covering 9.4% of volume
+[2023.02.09-22.12.08:822][567]LogVolumetricLightmapImport:          2: 61.1% covering 0.3% of volume
+[2023.02.09-22.12.08:822][567]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.09-22.12.08:822][567]LogVolumetricLightmapImport:          Pre_Chase 			 18 bricks 	 100.0% (Persistent Level)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap1_9 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap1_10 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap1_11 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap1_12 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap1_13 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap1_14 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap1_15 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: HQ_Lightmap1_16 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:305][567]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:306][567]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:306][567]LogTexture: Display: Building textures: HQ_Lightmap1_17 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:306][567]LogTexture: Display: Building textures: HQ_Lightmap1_18 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:306][567]LogTexture: Display: Building textures: HQ_Lightmap1_19 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:306][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:306][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:306][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:306][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:306][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:306][567]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:306][567]LogTexture: Display: Building textures: HQ_Lightmap1_20 (OODLE_AutoDXT, 1024X1024)
+[2023.02.09-22.12.10:306][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:306][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.09-22.12.10:306][567]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (OODLE_DXT1, 1024X1024)
+[2023.02.09-22.12.10:306][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:306][567]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.09-22.12.10:494][567]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X512)
+[2023.02.09-22.12.10:494][567]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2023.02.09-22.12.10:494][567]Lightmass on DESKTOP-U7QK1P2: 27.8 sec total, 291 ms importing, 89 ms setup, 5.62 sec photons, 21.7 sec processing, 0 ms extra exporting [1054/1054 mappings]. Threads: 3:59 min total, 2:24 min processing.
+[2023.02.09-22.12.10:495][567]LogStaticLightingSystem: Pre_Chase_BuiltData storing lightmap data for 1054 meshes in 38 LightmapResourceClusters (27.7 Meshes per cluster).
+[2023.02.09-22.12.10:523][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.02.09-22.12.10:568][567]LogStaticLightingSystem: Illumination: 35.7 sec (839 ms encoding lightmaps, 176 ms encoding shadowmaps)
+[2023.02.09-22.12.10:568][567]LogStaticLightingSystem: Lightmap texture memory:  40.0 MB (40.0 MB streaming, 0.0 MB non-streaming), 40 textures
+[2023.02.09-22.12.10:568][567]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.02.09-22.12.11:435][567]DumpUnbuiltLightIteractions
+[2023.02.09-22.12.11:435][567]Lights with unbuilt interactions: 0
+[2023.02.09-22.12.11:435][567]
+[2023.02.09-22.12.11:435][567]Primitives with unbuilt interactions: 0
+[2023.02.09-22.12.11:466][567]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.09-22.12.11:466][567]LogShaderCompilers: Display: Total job queries 983, among them cache hits 668 (67.96%)
+[2023.02.09-22.12.11:466][567]LogShaderCompilers: Display: Tracking 315 distinct input hashes that result in 213 distinct outputs (67.62%)
+[2023.02.09-22.12.11:466][567]LogShaderCompilers: Display: RAM used: 1.40 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.17%
+[2023.02.09-22.12.11:466][567]LogShaderCompilers: Display: ================================================
+[2023.02.09-22.12.11:504][568]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.09-22.12.11:504][568]MapCheck: New page: Pre_Chase - 9 Feb 2023, 22:12:11
+[2023.02.09-22.12.11:508][568]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.702ms to complete.
+[2023.02.09-22.12.14:949][941]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.09-22.12.14:954][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.09-22.12.14:954][941]PIE: New page: PIE session: Pre_Chase (9 Feb 2023, 22:12:14)
+[2023.02.09-22.12.14:992][941]LogPlayLevel: Creating play world package: /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.12.15:033][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040569s)
+[2023.02.09-22.12.15:034][941]LogAIModule: Creating AISystem for world Pre_Chase
+[2023.02.09-22.12.15:034][941]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2023.02.09-22.12.15:034][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase to /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase (0.041857s)
+[2023.02.09-22.12.15:040][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.09-22.12.15:041][941]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.02.09-22.12.15:041][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.09-22.12.15:041][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.09-22.12.15:041][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.09-22.12.15:041][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.09-22.12.15:041][941]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.09-22.12.15:041][941]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.09-22.12.15:041][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.09-22.12.15:041][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.09-22.12.15:042][941]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.09-22.12.15:042][941]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.09-22.12.15:042][941]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.09-22.12.15:042][941]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.09-22.12.15:044][941]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.09-22.12.15:044][941]LogAudioMixer: Display: 1: FrontRight
+[2023.02.09-22.12.15:056][941]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.02.09-22.12.15:056][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.09-22.12.15:056][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.09-22.12.15:056][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.09-22.12.15:057][941]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.09-22.12.15:057][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.09-22.12.15:057][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.09-22.12.15:057][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.09-22.12.15:057][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.09-22.12.15:057][941]LogInit: FAudioDevice initialized.
+[2023.02.09-22.12.15:057][941]LogAudio: Display: Audio Device (ID: 7) registered with world 'Pre_Chase'.
+[2023.02.09-22.12.15:063][941]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.02.09-22.12.15:101][941]LogWorld: Bringing World /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase up for play (max tick rate 0) at 2023.02.09-22.12.15
+[2023.02.09-22.12.15:101][941]LogWorld: Bringing up level for play took: 0.037701
+[2023.02.09-22.12.15:102][941]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.02.09-22.12.15:106][941]PIE: Server logged in
+[2023.02.09-22.12.15:107][941]PIE: Play in editor total start time 0.154 seconds.
+[2023.02.09-22.13.20:042][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.13.20:042][718]LogWorld: BeginTearingDown for /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.13.20:043][718]LogWorld: UWorld::CleanupWorld for Pre_Chase, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-22.13.20:046][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.13.20:058][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.09-22.13.20:061][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.13.20:067][718]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.09-22.13.20:069][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.13.20:070][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.13.20:073][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.13.20:082][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.02.09-22.13.20:099][719]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.02.09-22.13.41:578][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big56)
+[2023.02.09-22.13.47:567][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short320)
+[2023.02.09-22.14.04:890][964]LogEditorViewport: Clicking on Actor (LMB): Monster_NBC_C (Monster_NBC)
+[2023.02.09-22.14.09:290][383]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MonsterAi_Kit/Monster_NBC.Monster_NBC
+[2023.02.09-22.14.09:504][383]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2023.02.09-22.14.10:326][383]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.09-22.15.05:159][999]LogEditorViewport: Clicking on Actor (LMB): Monster_NBC_C (Monster_NBC)
+[2023.02.09-22.15.20:312][211]BlueprintLog: New page: Compile Monster_NBC
+[2023.02.09-22.15.20:442][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.02.09-22.15.52:397][917]BlueprintLog: New page: Compile Monster_NBC
+[2023.02.09-22.15.52:517][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.02.09-22.15.54:111][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.09-22.15.54:115][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.09-22.15.54:115][ 27]PIE: New page: PIE session: Pre_Chase (9 Feb 2023, 22:15:54)
+[2023.02.09-22.15.54:115][ 27]LogPlayLevel: Creating play world package: /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.15.54:157][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041240s)
+[2023.02.09-22.15.54:158][ 27]LogAIModule: Creating AISystem for world Pre_Chase
+[2023.02.09-22.15.54:158][ 27]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2023.02.09-22.15.54:158][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase to /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase (0.042377s)
+[2023.02.09-22.15.54:176][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.09-22.15.54:177][ 27]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.02.09-22.15.54:177][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.09-22.15.54:177][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.09-22.15.54:177][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.09-22.15.54:177][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.09-22.15.54:177][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.09-22.15.54:177][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.09-22.15.54:177][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.09-22.15.54:177][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.09-22.15.54:177][ 27]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.09-22.15.54:177][ 27]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.09-22.15.54:177][ 27]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.09-22.15.54:177][ 27]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.09-22.15.54:179][ 27]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.09-22.15.54:179][ 27]LogAudioMixer: Display: 1: FrontRight
+[2023.02.09-22.15.54:191][ 27]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.02.09-22.15.54:191][ 27]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.09-22.15.54:192][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.09-22.15.54:192][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.09-22.15.54:192][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.09-22.15.54:192][ 27]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.09-22.15.54:192][ 27]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.09-22.15.54:193][ 27]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.09-22.15.54:193][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.09-22.15.54:193][ 27]LogInit: FAudioDevice initialized.
+[2023.02.09-22.15.54:193][ 27]LogAudio: Display: Audio Device (ID: 8) registered with world 'Pre_Chase'.
+[2023.02.09-22.15.54:202][ 27]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.02.09-22.15.54:238][ 27]LogWorld: Bringing World /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase up for play (max tick rate 0) at 2023.02.09-22.15.54
+[2023.02.09-22.15.54:239][ 27]LogWorld: Bringing up level for play took: 0.037654
+[2023.02.09-22.15.54:239][ 27]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.02.09-22.15.54:244][ 27]PIE: Server logged in
+[2023.02.09-22.15.54:245][ 27]PIE: Play in editor total start time 0.13 seconds.
+[2023.02.09-22.16.19:936][561]Cmd: CAMERA ALIGN
+[2023.02.09-22.16.19:936][561]Can't find target actor or component.
+[2023.02.09-22.16.29:726][523]Cmd: CAMERA ALIGN
+[2023.02.09-22.16.29:726][523]Can't find target actor or component.
+[2023.02.09-22.16.30:526][602]Cmd: CAMERA ALIGN
+[2023.02.09-22.16.30:526][602]Can't find target actor or component.
+[2023.02.09-22.16.33:950][934]LogAnimMontage: Warning: Playing a Montage (Search_Montage) for the wrong Skeleton (Sk_HorrorGirl_Ue4_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2023.02.09-22.16.37:977][353]LogAnimMontage: Warning: Playing a Montage (Search_Montage) for the wrong Skeleton (Sk_HorrorGirl_Ue4_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2023.02.09-22.16.41:998][775]LogAnimMontage: Warning: Playing a Montage (Search_Montage) for the wrong Skeleton (Sk_HorrorGirl_Ue4_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2023.02.09-22.16.46:334][220]LogAnimMontage: Warning: Playing a Montage (Search_Montage) for the wrong Skeleton (Sk_HorrorGirl_Ue4_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2023.02.09-22.17.12:342][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.17.12:342][783]LogWorld: BeginTearingDown for /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.17.12:343][783]LogWorld: UWorld::CleanupWorld for Pre_Chase, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-22.17.12:346][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.17.12:368][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.09-22.17.12:399][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.17.12:416][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.09-22.17.12:417][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.17.12:418][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.17.12:421][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.17.12:431][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.09-22.17.12:555][784]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.02.09-22.17.16:159][ 74]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2023.02.09-22.17.31:665][402]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.09-22.17.31:669][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.09-22.17.31:670][402]PIE: New page: PIE session: Pre_Chase (9 Feb 2023, 22:17:31)
+[2023.02.09-22.17.31:691][402]LogPlayLevel: Creating play world package: /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.17.31:732][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040667s)
+[2023.02.09-22.17.31:732][402]LogAIModule: Creating AISystem for world Pre_Chase
+[2023.02.09-22.17.31:733][402]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2023.02.09-22.17.31:733][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase to /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase (0.041786s)
+[2023.02.09-22.17.31:750][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.02.09-22.17.31:751][402]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.02.09-22.17.31:751][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.09-22.17.31:751][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.09-22.17.31:751][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.09-22.17.31:751][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.09-22.17.31:751][402]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.09-22.17.31:751][402]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.09-22.17.31:751][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.09-22.17.31:751][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.09-22.17.31:751][402]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.09-22.17.31:751][402]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.09-22.17.31:751][402]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.09-22.17.31:751][402]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.09-22.17.31:753][402]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.09-22.17.31:753][402]LogAudioMixer: Display: 1: FrontRight
+[2023.02.09-22.17.31:765][402]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.02.09-22.17.31:765][402]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.09-22.17.31:765][402]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.09-22.17.31:765][402]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.09-22.17.31:765][402]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.09-22.17.31:765][402]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.09-22.17.31:765][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.09-22.17.31:766][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.09-22.17.31:766][402]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.09-22.17.31:766][402]LogInit: FAudioDevice initialized.
+[2023.02.09-22.17.31:766][402]LogAudio: Display: Audio Device (ID: 9) registered with world 'Pre_Chase'.
+[2023.02.09-22.17.31:772][402]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.02.09-22.17.31:810][402]LogWorld: Bringing World /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase up for play (max tick rate 0) at 2023.02.09-22.17.31
+[2023.02.09-22.17.31:810][402]LogWorld: Bringing up level for play took: 0.037824
+[2023.02.09-22.17.31:811][402]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.02.09-22.17.31:815][402]PIE: Server logged in
+[2023.02.09-22.17.31:816][402]PIE: Play in editor total start time 0.147 seconds.
+[2023.02.09-22.17.34:282][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.17.34:282][629]LogWorld: BeginTearingDown for /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.17.34:283][629]LogWorld: UWorld::CleanupWorld for Pre_Chase, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-22.17.34:286][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.17.34:302][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.09-22.17.34:334][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.17.34:351][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.17.34:352][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.17.34:352][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.17.34:359][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.02.09-22.17.34:486][630]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.02.09-22.17.43:162][364]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.09-22.17.43:166][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.09-22.17.43:166][364]PIE: New page: PIE session: Pre_Chase (9 Feb 2023, 22:17:43)
+[2023.02.09-22.17.43:191][364]LogPlayLevel: Creating play world package: /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.17.43:231][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040510s)
+[2023.02.09-22.17.43:232][364]LogAIModule: Creating AISystem for world Pre_Chase
+[2023.02.09-22.17.43:232][364]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2023.02.09-22.17.43:232][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase to /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase (0.041560s)
+[2023.02.09-22.17.43:249][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.02.09-22.17.43:250][364]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.02.09-22.17.43:250][364]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.09-22.17.43:250][364]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.09-22.17.43:250][364]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.09-22.17.43:250][364]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.09-22.17.43:250][364]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.09-22.17.43:250][364]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.09-22.17.43:250][364]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.09-22.17.43:250][364]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.09-22.17.43:251][364]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.09-22.17.43:251][364]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.09-22.17.43:251][364]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.09-22.17.43:251][364]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.09-22.17.43:252][364]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.09-22.17.43:252][364]LogAudioMixer: Display: 1: FrontRight
+[2023.02.09-22.17.43:264][364]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.02.09-22.17.43:264][364]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.09-22.17.43:264][364]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.09-22.17.43:264][364]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.09-22.17.43:264][364]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.09-22.17.43:264][364]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.09-22.17.43:264][364]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.09-22.17.43:265][364]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.09-22.17.43:265][364]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.09-22.17.43:265][364]LogInit: FAudioDevice initialized.
+[2023.02.09-22.17.43:265][364]LogAudio: Display: Audio Device (ID: 10) registered with world 'Pre_Chase'.
+[2023.02.09-22.17.43:272][364]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.02.09-22.17.43:310][364]LogWorld: Bringing World /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase up for play (max tick rate 0) at 2023.02.09-22.17.43
+[2023.02.09-22.17.43:311][364]LogWorld: Bringing up level for play took: 0.038762
+[2023.02.09-22.17.43:311][364]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.02.09-22.17.43:316][364]PIE: Server logged in
+[2023.02.09-22.17.43:316][364]PIE: Play in editor total start time 0.15 seconds.
+[2023.02.09-22.17.49:113][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.17.49:113][930]LogWorld: BeginTearingDown for /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.17.49:114][930]LogWorld: UWorld::CleanupWorld for Pre_Chase, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-22.17.49:117][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.17.49:137][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.09-22.17.49:169][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.17.49:185][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.17.49:187][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.17.49:188][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.17.49:195][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.09-22.17.49:320][931]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.02.09-22.17.52:853][226]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.09-22.17.52:858][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.09-22.17.52:858][226]PIE: New page: PIE session: Pre_Chase (9 Feb 2023, 22:17:52)
+[2023.02.09-22.17.52:858][226]LogPlayLevel: Creating play world package: /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.17.52:899][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041247s)
+[2023.02.09-22.17.52:900][226]LogAIModule: Creating AISystem for world Pre_Chase
+[2023.02.09-22.17.52:900][226]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2023.02.09-22.17.52:900][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase to /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase (0.042273s)
+[2023.02.09-22.17.52:917][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.09-22.17.52:918][226]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.02.09-22.17.52:918][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.09-22.17.52:918][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.09-22.17.52:918][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.09-22.17.52:918][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.09-22.17.52:918][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.09-22.17.52:918][226]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.09-22.17.52:918][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.09-22.17.52:918][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.09-22.17.52:918][226]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.09-22.17.52:918][226]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.09-22.17.52:918][226]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.09-22.17.52:918][226]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.09-22.17.52:920][226]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.09-22.17.52:920][226]LogAudioMixer: Display: 1: FrontRight
+[2023.02.09-22.17.52:931][226]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.02.09-22.17.52:932][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.09-22.17.52:932][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.09-22.17.52:932][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.09-22.17.52:932][226]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.09-22.17.52:932][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.09-22.17.52:932][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.09-22.17.52:933][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.09-22.17.52:933][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.09-22.17.52:933][226]LogInit: FAudioDevice initialized.
+[2023.02.09-22.17.52:933][226]LogAudio: Display: Audio Device (ID: 11) registered with world 'Pre_Chase'.
+[2023.02.09-22.17.52:944][226]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.02.09-22.17.52:982][226]LogWorld: Bringing World /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase up for play (max tick rate 0) at 2023.02.09-22.17.52
+[2023.02.09-22.17.52:983][226]LogWorld: Bringing up level for play took: 0.038260
+[2023.02.09-22.17.52:983][226]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.02.09-22.17.52:988][226]PIE: Server logged in
+[2023.02.09-22.17.52:988][226]PIE: Play in editor total start time 0.131 seconds.
+[2023.02.09-22.17.54:432][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.17.54:432][359]LogWorld: BeginTearingDown for /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.17.54:433][359]LogWorld: UWorld::CleanupWorld for Pre_Chase, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-22.17.54:436][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.17.54:451][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.09-22.17.54:483][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.17.54:498][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.17.54:500][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.17.54:501][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.17.54:508][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.09-22.17.54:634][360]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.02.09-22.18.46:139][736]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2023.02.09-22.18.49:795][ 11]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2023.02.09-22.19.06:967][490]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2023.02.09-22.19.07:223][510]Cmd: DELETE
+[2023.02.09-22.19.07:223][510]Cmd: ACTOR DELETE
+[2023.02.09-22.19.07:238][510]LogEditorActor: Deleted Actor: PointLight
+[2023.02.09-22.19.07:257][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.02.09-22.19.07:259][510]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.02.09-22.19.08:277][616]LogEditorViewport: Clicking on Actor (LMB): Monster_NBC_C (Monster_NBC)
+[2023.02.09-22.19.09:187][688]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2023.02.09-22.19.09:592][723]Cmd: DELETE
+[2023.02.09-22.19.09:592][723]Cmd: ACTOR DELETE
+[2023.02.09-22.19.09:604][723]LogEditorActor: Deleted Actor: PointLight
+[2023.02.09-22.19.09:620][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.02.09-22.19.09:621][723]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2023.02.09-22.19.12:398][994]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2023.02.09-22.19.20:696][692]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.09-22.19.37:387][112]Cmd: DELETE
+[2023.02.09-22.19.37:388][112]Cmd: ACTOR DELETE
+[2023.02.09-22.19.37:399][112]LogEditorActor: Deleted Actor: PointLight
+[2023.02.09-22.19.37:416][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.02.09-22.19.37:418][112]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.02.09-22.19.38:376][195]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.09-22.19.38:381][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.09-22.19.38:381][195]PIE: New page: PIE session: Pre_Chase (9 Feb 2023, 22:19:38)
+[2023.02.09-22.19.38:410][195]LogPlayLevel: Creating play world package: /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.19.38:451][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040956s)
+[2023.02.09-22.19.38:452][195]LogAIModule: Creating AISystem for world Pre_Chase
+[2023.02.09-22.19.38:452][195]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2023.02.09-22.19.38:453][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase to /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase (0.042098s)
+[2023.02.09-22.19.38:469][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.02.09-22.19.38:470][195]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.02.09-22.19.38:470][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.09-22.19.38:470][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.09-22.19.38:470][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.09-22.19.38:470][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.09-22.19.38:470][195]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.09-22.19.38:470][195]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.09-22.19.38:470][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.09-22.19.38:470][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.09-22.19.38:470][195]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.09-22.19.38:470][195]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.09-22.19.38:470][195]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.09-22.19.38:470][195]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.09-22.19.38:472][195]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.09-22.19.38:472][195]LogAudioMixer: Display: 1: FrontRight
+[2023.02.09-22.19.38:484][195]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.02.09-22.19.38:484][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.09-22.19.38:484][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.09-22.19.38:484][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.09-22.19.38:484][195]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.09-22.19.38:485][195]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.09-22.19.38:485][195]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.09-22.19.38:485][195]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.09-22.19.38:485][195]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.09-22.19.38:485][195]LogInit: FAudioDevice initialized.
+[2023.02.09-22.19.38:485][195]LogAudio: Display: Audio Device (ID: 12) registered with world 'Pre_Chase'.
+[2023.02.09-22.19.38:490][195]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.02.09-22.19.38:528][195]LogWorld: Bringing World /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase up for play (max tick rate 0) at 2023.02.09-22.19.38
+[2023.02.09-22.19.38:529][195]LogWorld: Bringing up level for play took: 0.037730
+[2023.02.09-22.19.38:529][195]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.02.09-22.19.38:534][195]PIE: Server logged in
+[2023.02.09-22.19.38:534][195]PIE: Play in editor total start time 0.154 seconds.
+[2023.02.09-22.20.12:771][584]LogAnimMontage: Warning: Playing a Montage (Search_Montage) for the wrong Skeleton (Sk_HorrorGirl_Ue4_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2023.02.09-22.20.16:585][956]Cmd: CAMERA ALIGN
+[2023.02.09-22.20.16:585][956]Can't find target actor or component.
+[2023.02.09-22.20.17:096][  6]LogAnimMontage: Warning: Playing a Montage (Search_Montage) for the wrong Skeleton (Sk_HorrorGirl_Ue4_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2023.02.09-22.20.21:125][399]LogAnimMontage: Warning: Playing a Montage (Search_Montage) for the wrong Skeleton (Sk_HorrorGirl_Ue4_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2023.02.09-22.20.25:150][799]LogAnimMontage: Warning: Playing a Montage (Search_Montage) for the wrong Skeleton (Sk_HorrorGirl_Ue4_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2023.02.09-22.20.54:136][640]Cmd: CAMERA ALIGN
+[2023.02.09-22.20.54:136][640]Can't find target actor or component.
+[2023.02.09-22.20.54:878][712]LogAnimMontage: Warning: Playing a Montage (Search_Montage) for the wrong Skeleton (Sk_HorrorGirl_Ue4_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2023.02.09-22.20.58:904][101]LogAnimMontage: Warning: Playing a Montage (Search_Montage) for the wrong Skeleton (Sk_HorrorGirl_Ue4_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2023.02.09-22.21.03:148][513]LogAnimMontage: Warning: Playing a Montage (Search_Montage) for the wrong Skeleton (Sk_HorrorGirl_Ue4_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2023.02.09-22.21.07:173][903]LogAnimMontage: Warning: Playing a Montage (Search_Montage) for the wrong Skeleton (Sk_HorrorGirl_Ue4_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2023.02.09-22.22.16:662][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.22.16:662][611]LogWorld: BeginTearingDown for /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.22.16:662][611]LogWorld: UWorld::CleanupWorld for Pre_Chase, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-22.22.16:665][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.22.16:686][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.09-22.22.16:690][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.22.16:707][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.22.16:709][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.22.16:710][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.22.16:718][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.02.09-22.22.16:827][612]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.02.09-22.22.20:817][ 27]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.20:817][ 27]LogEditorTransaction: Undo Delete Actors
+[2023.02.09-22.22.21:032][ 33]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.21:032][ 33]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.21:241][ 38]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.21:241][ 38]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.21:491][ 46]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.21:491][ 46]LogEditorTransaction: Undo Edit Source Radius
+[2023.02.09-22.22.21:724][ 54]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.21:724][ 54]LogEditorTransaction: Undo Edit Attenuation Radius
+[2023.02.09-22.22.21:961][ 62]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.21:961][ 62]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.22:209][ 77]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.22:209][ 77]LogEditorTransaction: Undo Edit Attenuation Radius
+[2023.02.09-22.22.22:652][115]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.22:652][115]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.23:074][146]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.23:074][146]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.09-22.22.23:762][209]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.23:762][209]LogEditorTransaction: Undo Delete Actors
+[2023.02.09-22.22.24:060][229]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.24:060][229]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.09-22.22.24:260][238]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.24:260][238]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.09-22.22.24:448][257]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.24:448][257]LogEditorTransaction: Undo Delete Actors
+[2023.02.09-22.22.24:699][271]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.24:699][271]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.09-22.22.24:901][282]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.24:901][282]LogEditorTransaction: Undo Edit Attenuation Radius
+[2023.02.09-22.22.25:098][297]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.25:098][297]LogEditorTransaction: Undo Edit Intensity
+[2023.02.09-22.22.25:302][313]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.25:302][313]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.25:490][323]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.25:490][323]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.25:661][338]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.25:661][338]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.25:853][355]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.25:853][355]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.09-22.22.26:050][368]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.26:050][368]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.26:240][378]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.26:241][378]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.09-22.22.26:420][391]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.26:420][391]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.26:617][399]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.26:617][399]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.26:808][413]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.26:808][413]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.27:153][442]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.27:153][442]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.27:440][468]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.27:440][468]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.27:673][489]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.27:673][489]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.27:944][511]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.27:944][511]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.28:179][530]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.28:179][530]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.28:574][566]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.28:574][566]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.28:930][596]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.28:930][596]LogEditorTransaction: Undo Edit Source Radius
+[2023.02.09-22.22.29:323][626]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.29:323][626]LogEditorTransaction: Undo Edit Attenuation Radius
+[2023.02.09-22.22.29:687][656]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.29:687][656]LogEditorTransaction: Undo Edit Intensity
+[2023.02.09-22.22.30:063][684]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.30:064][684]LogEditorTransaction: Undo Move Actors
+[2023.02.09-22.22.30:439][712]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.30:439][712]LogEditorTransaction: Undo Create Actors
+[2023.02.09-22.22.32:888][920]Cmd: TRANSACTION UNDO
+[2023.02.09-22.22.32:888][920]LogEditorTransaction: Undo Edit Min Brightness
+[2023.02.09-22.22.39:265][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short252)
+[2023.02.09-22.22.43:062][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.09-22.22.43:111][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.02.09-22.22.43:305][739]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase197D2E7045A35A14BD2A05AF5BC8AAF7.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase.umap'
+[2023.02.09-22.22.43:311][739]LogFileHelpers: Saving map 'Pre_Chase' took 0.215
+[2023.02.09-22.22.44:034][739]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase_BuiltData2F89F3D849DF940D5604C89ACB3870BD.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase_BuiltData.uasset'
+[2023.02.09-22.22.44:061][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MonsterAi_Kit/Monster_NBC" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/MonsterAi_Kit/Monster_NBC.uasset" SILENT=true
+[2023.02.09-22.22.44:159][739]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Monster_NBC5770BAF045FA085A6CAF7A995B225DD0.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/MonsterAi_Kit/Monster_NBC.uasset'
+[2023.02.09-22.22.44:811][739]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase_BuiltDataE49EB09F4E080DA0CDE14CBEAAC752AF.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase_BuiltData.uasset'
+[2023.02.09-22.22.45:201][739]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.09-22.22.45:201][739]LogContentValidation: Display: Validating Blueprint /Game/MonsterAi_Kit/Monster_NBC.Monster_NBC
+[2023.02.09-22.22.45:201][739]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
+[2023.02.09-22.22.45:201][739]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Bogdan/Levels/Chase/Pre_Chase_BuiltData.Pre_Chase_BuiltData
+[2023.02.09-22.22.48:724][  3]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.09-22.22.48:728][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.09-22.22.48:728][  3]PIE: New page: PIE session: Pre_Chase (9 Feb 2023, 22:22:48)
+[2023.02.09-22.22.48:771][  3]LogPlayLevel: Creating play world package: /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.22.48:811][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040233s)
+[2023.02.09-22.22.48:812][  3]LogAIModule: Creating AISystem for world Pre_Chase
+[2023.02.09-22.22.48:812][  3]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2023.02.09-22.22.48:813][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase to /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase (0.041350s)
+[2023.02.09-22.22.48:829][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.02.09-22.22.48:831][  3]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.02.09-22.22.48:831][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.09-22.22.48:831][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.09-22.22.48:831][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.09-22.22.48:831][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.09-22.22.48:831][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.09-22.22.48:831][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.09-22.22.48:831][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.09-22.22.48:831][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.09-22.22.48:831][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.09-22.22.48:831][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.09-22.22.48:831][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.09-22.22.48:831][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.09-22.22.48:833][  3]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.09-22.22.48:833][  3]LogAudioMixer: Display: 1: FrontRight
+[2023.02.09-22.22.48:845][  3]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.02.09-22.22.48:845][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.09-22.22.48:845][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.09-22.22.48:845][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.09-22.22.48:846][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.09-22.22.48:846][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.09-22.22.48:846][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.09-22.22.48:846][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.09-22.22.48:846][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.09-22.22.48:846][  3]LogInit: FAudioDevice initialized.
+[2023.02.09-22.22.48:846][  3]LogAudio: Display: Audio Device (ID: 13) registered with world 'Pre_Chase'.
+[2023.02.09-22.22.48:851][  3]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.02.09-22.22.48:888][  3]LogWorld: Bringing World /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase.Pre_Chase up for play (max tick rate 0) at 2023.02.09-22.22.48
+[2023.02.09-22.22.48:889][  3]LogWorld: Bringing up level for play took: 0.037760
+[2023.02.09-22.22.48:889][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.02.09-22.22.48:894][  3]PIE: Server logged in
+[2023.02.09-22.22.48:895][  3]PIE: Play in editor total start time 0.168 seconds.
+[2023.02.09-22.22.53:241][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.22.53:241][429]LogWorld: BeginTearingDown for /Game/Bogdan/Levels/Chase/UEDPIE_0_Pre_Chase
+[2023.02.09-22.22.53:242][429]LogWorld: UWorld::CleanupWorld for Pre_Chase, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-22.22.53:245][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.22.53:261][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.09-22.22.53:276][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-22.22.53:293][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.09-22.22.53:293][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.22.53:294][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.09-22.22.53:296][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-22.22.53:301][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.02.09-22.22.53:421][430]LogPlayLevel: Display: Destroying online subsystem :Context_20
