@@ -895,3 +895,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.15-15.03.03:977][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.02.15-15.03.04:254][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/' took 0.34s
 [2023.02.15-15.03.04:598][  2]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.15-15.03.35:834][102]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Jeep)
+[2023.02.15-15.03.49:388][ 68]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2023.02.15-15.04.18:185][680]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.15-15.04.18:207][680]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FP_Horror_Starter_Kit/PlayerCharacterExample/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.02.15-15.04.18:414][680]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2023.02.15-15.04.19:152][680]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.15-15.04.19:293][681]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.15-15.05.01:326][301]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2023.02.15-15.05.01:331][301]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2023.02.15-15.05.01:334][301]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-15.05.01:334][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-15.05.02:735][418]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FP_Horror_Starter_Kit/PlayerCharacterExample/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.02.15-15.05.14:084][350]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.02.15-15.05.14:152][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.02.15-15.05.14:200][350]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.15-15.05.14:871][396]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/FirstPersonCharacter018A83CD41B502E354A9F4A0E24F8535.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/FP_Horror_Starter_Kit/PlayerCharacterExample/Blueprints/FirstPersonCharacter.uasset'
+[2023.02.15-15.05.14:887][396]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.02.15-15.05.14:887][396]LogContentValidation: Display: Validating Blueprint /Game/FP_Horror_Starter_Kit/PlayerCharacterExample/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.02.15-15.05.15:524][464]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2023.02.15-15.05.15:529][464]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2023.02.15-15.05.15:531][464]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-15.05.15:532][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
