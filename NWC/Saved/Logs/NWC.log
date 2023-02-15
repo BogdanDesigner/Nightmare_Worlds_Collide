@@ -1386,3 +1386,150 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.15-13.47.53:385][436]LogTemp: Repeating last play command: Standalone Game
 [2023.02.15-13.47.53:395][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2023.02.15-13.48.32:131][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.02.15-13.49.02:327][783]MapCheck: New page: Map Check
+[2023.02.15-13.49.02:357][783]LightingResults: New page: Lighting Build - 15 Feb 2023, 13:49:02
+[2023.02.15-13.49.03:329][783]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.15-13.49.03:569][783]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.15-13.49.03:685][783]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.15-13.49.07:592][783]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.15-13.49.07:592][783]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8368
+[2023.02.15-13.49.17:353][783]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.15-13.49.17:353][783]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.15-13.49.17:353][783]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.15-13.49.17:353][783]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.15-13.49.17:353][783]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.15-13.49.18:405][783]LogEditorBuildUtils: Build time 0:16
+[2023.02.15-13.49.18:736][787]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_120 in PCD3D_SM5, Default, SM5 (DDC key hash: BA9B618E4E46E7E6F2B06B1164BBBC52EB5D13CA), compiling. 
+[2023.02.15-13.49.19:069][787]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.15-13.49.19:094][787]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.15-13.49.19:094][787]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.15-13.49.19:094][787]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.15-13.49.19:094][787]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_120 in PCD3D_SM5, Default, SM5 (DDC key hash: BDC1912DA2DB8A5BF9257541E6BD41EA5E5A8D3E), compiling. 
+[2023.02.15-13.49.19:097][787]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.15-13.49.19:322][792]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.15-13.49.19:322][792]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.15-13.49.19:322][792]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.15-13.49.19:411][796]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_Plank in PCD3D_SM5, Default, SM5 (DDC key hash: 5CAACBA66262A0E0F8E53910D4189DCFD9A8C41B), compiling. 
+[2023.02.15-13.49.19:414][796]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.15-13.49.19:415][796]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_Plank in PCD3D_SM5, Default, SM5 (DDC key hash: E488EF66D2F1C6FE65556196FE919F74A45E947B), compiling. 
+[2023.02.15-13.49.19:418][796]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.15-13.49.19:429][797]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_Roof in PCD3D_SM5, Default, SM5 (DDC key hash: F27E9C1635617D7AB37F176FBF1F07DA303366D4), compiling. 
+[2023.02.15-13.49.19:431][797]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.15-13.49.19:432][797]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_Roof in PCD3D_SM5, Default, SM5 (DDC key hash: 677ECE01E0DDA346CDC0BEF0AD66C5F1F3081789), compiling. 
+[2023.02.15-13.49.19:435][797]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.15-13.49.19:536][799]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2023.02.15-13.49.19:536][799]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2023.02.15-13.49.19:536][799]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2023.02.15-13.49.19:536][799]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.15-13.49.19:536][799]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.02.15-13.49.20:089][807]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Painter_Metal_A in PCD3D_SM5, Default, SM5 (DDC key hash: B6BC3BB874AB7EE3729A2D0839C11EF596505A78), compiling. 
+[2023.02.15-13.49.20:092][807]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.15-13.49.20:093][807]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Painter_Metal_A in PCD3D_SM5, Default, SM5 (DDC key hash: 249C3D7F549986F4EBFBF16968B8D5F68DA9738D), compiling. 
+[2023.02.15-13.49.20:096][807]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.15-13.49.20:134][808]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Wood_Pine in PCD3D_SM5, Default, SM5 (DDC key hash: DFD7B327479F2340474B1409E0EE3068D55D4075), compiling. 
+[2023.02.15-13.49.20:137][808]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.15-13.49.20:138][808]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Wood_Pine in PCD3D_SM5, Default, SM5 (DDC key hash: 20C66894681C764AEFBD71ECA5618A203E401ABC), compiling. 
+[2023.02.15-13.49.20:141][808]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.15-13.49.22:125][809]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2023.02.15-13.49.22:125][809]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2023.02.15-13.49.22:125][809]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.15-13.49.22:125][809]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.02.15-13.49.22:125][809]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.15-13.49.22:125][809]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2023.02.15-13.49.22:125][809]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.15-13.49.22:126][809]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.15-13.49.22:126][809]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.15-13.49.22:126][809]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.15-13.49.22:126][809]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.15-13.49.22:126][809]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.15-13.49.22:126][809]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2023.02.15-13.49.22:126][809]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 7 distinct outputs (35.00%)
+[2023.02.15-13.49.22:126][809]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.15-13.49.22:126][809]LogShaderCompilers: Display: ================================================
+[2023.02.15-13.49.24:316][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.15-13.51.27:716][ 97]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.02.15-13.51.32:155][ 97]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.02.15-13.53.20:987][ 97]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.02.15-13.53.20:987][ 97]LogAudioMixer: Resetting audio stream to device id 
+[2023.02.15-13.53.41:874][ 97]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.15-13.53.41:874][ 97]LogAudioMixer: Display: 1: FrontRight
+[2023.02.15-13.54.28:340][ 98]LogHttp: Warning: 000001F7E1A42400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5C1BF25-418E-94CC-BB48-CF8D551DC566%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=959a20c04f8c545bc0631e80c20ae2c8%7Cd913e29714e746d7bb16ebfa962c0b0e%7C8df27c87-4ac8-404c-8538-ea67f08aa90e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.15-13.54.28:375][ 98]LogHttp: Warning: 000001F7E1A42400: request failed, libcurl error: 28 (Timeout was reached)
+[2023.02.15-13.54.28:375][ 98]LogHttp: Warning: 000001F7E1A42400: libcurl info message cache 0 (Connection 1 seems to be dead!)
+[2023.02.15-13.54.28:375][ 98]LogHttp: Warning: 000001F7E1A42400: libcurl info message cache 1 (Closing connection 1)
+[2023.02.15-13.54.28:375][ 98]LogHttp: Warning: 000001F7E1A42400: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.02.15-13.54.28:375][ 98]LogHttp: Warning: 000001F7E1A42400: libcurl info message cache 3 (Resolving timed out after 60000 milliseconds)
+[2023.02.15-13.54.28:375][ 98]LogHttp: Warning: 000001F7E1A42400: libcurl info message cache 4 (Closing connection 2)
+[2023.02.15-13.54.28:686][ 98]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5C1BF25-418E-94CC-BB48-CF8D551DC566%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=959a20c04f8c545bc0631e80c20ae2c8%7Cd913e29714e746d7bb16ebfa962c0b0e%7C8df27c87-4ac8-404c-8538-ea67f08aa90e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.15-13.54.29:660][ 98]LogAudioMixer: Resetting audio stream to device id 
+[2023.02.15-13.54.29:993][ 98]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.15-13.54.29:993][ 98]LogAudioMixer: Display: 1: FrontRight
+[2023.02.15-13.54.30:279][ 99]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.02.15-14.01.02:247][960]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.02.15-14.01.02:363][969]LightingResults: Warning: SM_Table Object has wrapping UVs.
+[2023.02.15-14.01.02:663][993]LightingResults: Warning: SM_Key Object has wrapping UVs.
+[2023.02.15-14.07.25:250][353]Job is a success!
+[2023.02.15-14.07.26:535][354]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.425s
+[2023.02.15-14.07.26:535][354]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2023.02.15-14.07.26:535][354]LogVolumetricLightmapImport:      BrickData (all levels) 0.5Mb (trimmed 3.1Mb due to 0.010000 MinBrickError)
+[2023.02.15-14.07.26:535][354]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.15-14.07.26:535][354]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2023.02.15-14.07.26:535][354]LogVolumetricLightmapImport:          1: 23.1% covering 18.8% of volume
+[2023.02.15-14.07.26:535][354]LogVolumetricLightmapImport:          2: 75.0% covering 1.0% of volume
+[2023.02.15-14.07.26:535][354]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.15-14.07.26:539][354]LogVolumetricLightmapImport:          Ben_Cabin 			 104 bricks 	 100.0% (Persistent Level)
+[2023.02.15-14.07.28:793][354]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 256X256)
+[2023.02.15-14.07.28:793][354]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 256X256)
+[2023.02.15-14.07.28:793][354]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2023.02.15-14.07.28:793][354]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.15-14.07.28:793][354]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.02.15-14.07.28:793][354]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 256X256)
+[2023.02.15-14.07.28:793][354]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 256X256)
+[2023.02.15-14.07.28:793][354]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2023.02.15-14.07.28:794][354]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2023.02.15-14.07.28:794][354]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2023.02.15-14.07.28:794][354]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.15-14.07.28:794][354]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.15-14.07.28:794][354]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.15-14.07.28:794][354]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.15-14.07.28:794][354]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.15-14.07.28:794][354]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.15-14.07.28:794][354]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 128X128)
+[2023.02.15-14.07.28:794][354]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 128X128)
+[2023.02.15-14.07.29:254][354]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 512X32)
+[2023.02.15-14.07.29:254][354]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 512X64)
+[2023.02.15-14.07.29:254][354]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 128X32)
+[2023.02.15-14.07.29:254][354]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X64)
+[2023.02.15-14.07.29:254][354]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X256)
+[2023.02.15-14.07.29:254][354]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2023.02.15-14.07.31:666][354]Lightmass on DESKTOP-U7QK1P2: 18:03 min total, 1.56 sec importing, 1:24 min setup, 2:09 min photons, 14:27 min processing, 0 ms extra exporting [7430/7430 mappings]. Threads: 2:39:00 hours total, 13:31 min processing.
+[2023.02.15-14.07.32:370][354]LogStaticLightingSystem: Ben_Cabin_BuiltData storing lightmap data for 417 meshes in 13 LightmapResourceClusters (32.1 Meshes per cluster).
+[2023.02.15-14.07.37:015][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2023.02.15-14.07.37:430][354]LogStaticLightingSystem: Illumination: 18:34 min (1.07 sec encoding lightmaps, 474 ms encoding shadowmaps)
+[2023.02.15-14.07.37:430][354]LogStaticLightingSystem: Lightmap texture memory:  6.3 MB (6.3 MB streaming, 0.0 MB non-streaming), 12 textures
+[2023.02.15-14.07.37:430][354]LogStaticLightingSystem: Shadowmap texture memory: 7.2 MB (7.2 MB streaming, 0.0 MB non-streaming), 6 textures
+[2023.02.15-14.07.46:783][354]DumpUnbuiltLightIteractions
+[2023.02.15-14.07.46:783][354]Lights with unbuilt interactions: 0
+[2023.02.15-14.07.46:783][354]
+[2023.02.15-14.07.46:783][354]Primitives with unbuilt interactions: 0
+[2023.02.15-14.07.46:898][354]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.15-14.07.46:898][354]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2023.02.15-14.07.46:898][354]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 7 distinct outputs (35.00%)
+[2023.02.15-14.07.46:911][354]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.15-14.07.46:911][354]LogShaderCompilers: Display: ================================================
+[2023.02.15-14.07.47:651][354]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.02.15-14.07.48:006][355]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.15-14.07.48:049][355]MapCheck: New page: Ben_Cabin - 15 Feb 2023, 14:07:48
+[2023.02.15-14.07.48:297][355]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 286.198ms to complete.
+[2023.02.15-14.07.58:024][362]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2023.02.15-14.08.00:633][362]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_Cabin_Auto1E2D5C74D45B36B644E2C699D00A2E6BA.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Autosaves/Game/Bogdan/Levels/Cabin/Ben_Cabin_Auto1.umap'
+[2023.02.15-14.08.01:132][362]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Bogdan/Levels/Cabin/Ben_Cabin' took 3.204
+[2023.02.15-14.08.01:133][362]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.204
+[2023.02.15-14.18.01:100][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.02.15-14.18.01:101][250]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Bogdan/Levels/Cabin/Ben_Cabin' took 0.007
+[2023.02.15-14.28.00:973][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.02.15-14.28.00:974][136]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Bogdan/Levels/Cabin/Ben_Cabin' took 0.008
+[2023.02.15-14.38.00:845][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.02.15-14.38.00:846][ 42]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Bogdan/Levels/Cabin/Ben_Cabin' took 0.007
+[2023.02.15-14.38.12:325][398]LogSlate: Window 'Message Log' being destroyed
+[2023.02.15-14.38.12:333][398]LogSlate: Window 'Message Log' being destroyed
