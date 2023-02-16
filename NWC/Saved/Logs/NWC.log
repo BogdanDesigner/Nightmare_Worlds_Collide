@@ -2312,3 +2312,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.16-16.02.55:542][417]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
 [2023.02.16-16.06.50:836][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2023.02.16-16.06.53:775][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.02.16-16.07.44:146][653]LogEditorViewport: Clicking on Actor (LMB): BP_Key_C (BP_Key)
+[2023.02.16-16.07.55:397][891]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.16-16.08.28:342][731]LogTemp: Repeating last play command: Standalone Game
+[2023.02.16-16.08.28:354][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.16-16.08.29:466][731]LogSlate: Window 'Save Content' being destroyed
+[2023.02.16-16.08.29:504][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.16-16.08.29:768][731]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase59DAE65147FFE562F3BC83A9413D1C12.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase.umap'
+[2023.02.16-16.08.29:775][731]LogFileHelpers: Saving map 'Pre_Chase' took 0.278
+[2023.02.16-16.08.29:795][732]AssetCheck: New page: Asset Save: Pre_Chase
+[2023.02.16-16.08.29:795][732]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
+[2023.02.16-16.09.51:435][ 81]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.16-16.09.55:108][502]LogEditorViewport: Clicking on Actor (LMB): Monster_NBC_C (Monster_NBC)
+[2023.02.16-16.10.30:294][ 39]LogTemp: Repeating last play command: Standalone Game
+[2023.02.16-16.10.30:305][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.02.16-16.10.31:461][ 39]LogSlate: Window 'Save Content' being destroyed
+[2023.02.16-16.10.31:503][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.02.16-16.10.31:768][ 39]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase2DE27CA84E4AB452444CD9A21F74C5A6.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase.umap'
+[2023.02.16-16.10.31:775][ 39]LogFileHelpers: Saving map 'Pre_Chase' took 0.278
+[2023.02.16-16.10.31:801][ 40]AssetCheck: New page: Asset Save: Pre_Chase
+[2023.02.16-16.10.31:801][ 40]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
+[2023.02.16-16.11.29:811][352]LogTemp: Repeating last play command: Standalone Game
+[2023.02.16-16.11.29:822][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.16-16.11.30:813][352]LogSlate: Window 'Save Content' being destroyed
+[2023.02.16-16.11.30:852][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.02.16-16.11.31:117][352]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase9834526940F28706A248279D6FC14B6F.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase.umap'
+[2023.02.16-16.11.31:122][352]LogFileHelpers: Saving map 'Pre_Chase' took 0.277
+[2023.02.16-16.11.31:154][353]AssetCheck: New page: Asset Save: Pre_Chase
+[2023.02.16-16.11.31:154][353]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
+[2023.02.16-16.14.51:657][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
