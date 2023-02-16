@@ -1987,3 +1987,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.16-15.13.06:239][972]LogFileHelpers: Saving map '1' took 0.130
 [2023.02.16-15.13.06:247][972]AssetCheck: New page: Asset Save: 1
 [2023.02.16-15.13.06:247][972]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Corridor/1.1
+[2023.02.16-15.13.57:385][734]LogTemp: Repeating last play command: Standalone Game
+[2023.02.16-15.13.57:394][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.16-15.14.14:261][255]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2023.02.16-15.14.20:618][958]LogEditorViewport: Clicking Background
+[2023.02.16-15.14.22:967][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.16-15.14.23:016][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.02.16-15.14.23:132][207]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/167301AB24F636D2E2B3DDA82BD13C57A.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Corridor/1.umap'
+[2023.02.16-15.14.23:138][207]LogFileHelpers: Saving map '1' took 0.127
+[2023.02.16-15.14.23:147][207]AssetCheck: New page: Asset Save: 1
+[2023.02.16-15.14.23:147][207]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Corridor/1.1
