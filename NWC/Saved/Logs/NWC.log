@@ -1997,3 +1997,318 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.16-15.14.23:138][207]LogFileHelpers: Saving map '1' took 0.127
 [2023.02.16-15.14.23:147][207]AssetCheck: New page: Asset Save: 1
 [2023.02.16-15.14.23:147][207]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Corridor/1.1
+[2023.02.16-15.14.44:114][865]LogTemp: Repeating last play command: Standalone Game
+[2023.02.16-15.14.44:124][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.16-15.15.34:879][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.16-15.15.46:664][763]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'T_Images' of length 5 in '/Game/QuestKitMini1/Core/BP_Quest_1_1.BP_Quest_1_1_C'!
+[2023.02.16-15.15.46:665][763]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'T_Images' of length 5 in '/Game/QuestKitMini1/Core/BP_Quest_1_1.BP_Quest_1_1_C'!
+[2023.02.16-15.15.46:675][763]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
+[2023.02.16-15.15.46:675][763]Cmd: MAP LOAD FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.16-15.15.46:675][763]LightingResults: New page: Lighting Build
+[2023.02.16-15.15.46:675][763]LoadErrors: New page: Loading map: Pre_Chase.umap
+[2023.02.16-15.15.46:722][763]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-15.15.46:722][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-15.15.46:722][763]MapCheck: New page: Map Check
+[2023.02.16-15.15.46:722][763]LightingResults: New page: Lighting Build
+[2023.02.16-15.15.46:737][763]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.16-15.15.46:746][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.02.16-15.15.46:747][763]LogAudio: Display: Audio Device (ID: 1) registered with world 'Pre_Chase'.
+[2023.02.16-15.15.46:785][763]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'T_Images' of length 5 in '/Game/QuestKitMini1/Core/BP_Quest_1_1.BP_Quest_1_1_C'!
+[2023.02.16-15.15.46:785][763]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'T_Images' of length 5 in '/Game/QuestKitMini1/Core/BP_Quest_1_1.BP_Quest_1_1_C'!
+[2023.02.16-15.15.46:959][763]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.16-15.15.46:959][763]LogAIModule: Creating AISystem for world Pre_Chase
+[2023.02.16-15.15.46:965][763]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.02.16-15.15.46:995][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.02.16-15.15.47:000][763]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.16-15.15.47:001][763]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.222ms to complete.
+[2023.02.16-15.15.47:001][763]LogFileHelpers: Loading map 'Pre_Chase' took 0.325
+[2023.02.16-15.16.15:455][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short253)
+[2023.02.16-15.16.31:401][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short49)
+[2023.02.16-15.16.35:868][223]Cmd: TRANSACTION UNDO
+[2023.02.16-15.16.35:868][223]LogEditorTransaction: Undo Move Actors
+[2023.02.16-15.16.40:469][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short49)
+[2023.02.16-15.16.43:187][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short53)
+[2023.02.16-15.16.48:516][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short160)
+[2023.02.16-15.16.52:904][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short162)
+[2023.02.16-15.16.57:572][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short164)
+[2023.02.16-15.17.02:180][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short166)
+[2023.02.16-15.17.06:616][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short168)
+[2023.02.16-15.17.10:218][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short169)
+[2023.02.16-15.17.15:580][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short171)
+[2023.02.16-15.17.21:830][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short170)
+[2023.02.16-15.17.27:264][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big111)
+[2023.02.16-15.17.27:485][  2]Cmd: TRANSACTION UNDO
+[2023.02.16-15.17.27:485][  2]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.16-15.17.27:974][ 14]Cmd: TRANSACTION UNDO
+[2023.02.16-15.17.27:974][ 14]LogEditorTransaction: Undo Set Location
+[2023.02.16-15.17.29:251][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short171)
+[2023.02.16-15.17.31:418][392]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short170)
+[2023.02.16-15.17.35:912][921]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short146)
+[2023.02.16-15.17.40:237][428]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short148)
+[2023.02.16-15.17.41:079][519]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short150)
+[2023.02.16-15.17.42:684][708]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short152)
+[2023.02.16-15.17.43:727][830]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short154)
+[2023.02.16-15.17.44:722][946]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short156)
+[2023.02.16-15.17.46:952][202]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short134)
+[2023.02.16-15.17.47:425][250]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short136)
+[2023.02.16-15.17.48:092][327]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short138)
+[2023.02.16-15.17.49:967][537]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short140)
+[2023.02.16-15.17.51:005][652]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short142)
+[2023.02.16-15.17.51:441][701]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short140)
+[2023.02.16-15.17.53:249][905]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short82)
+[2023.02.16-15.17.53:660][950]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short144)
+[2023.02.16-15.17.54:459][ 39]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short144)
+[2023.02.16-15.17.56:203][240]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short126)
+[2023.02.16-15.17.56:566][277]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short124)
+[2023.02.16-15.17.59:369][603]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short128)
+[2023.02.16-15.18.00:579][745]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short234)
+[2023.02.16-15.18.01:600][864]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short231)
+[2023.02.16-15.18.01:966][905]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short132)
+[2023.02.16-15.18.02:765][996]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short130)
+[2023.02.16-15.18.03:299][ 57]Cmd: TRANSACTION UNDO
+[2023.02.16-15.18.03:299][ 57]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.16-15.18.03:665][ 67]Cmd: TRANSACTION UNDO
+[2023.02.16-15.18.03:665][ 67]LogEditorTransaction: Undo Move Actors
+[2023.02.16-15.18.04:726][157]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short130)
+[2023.02.16-15.18.07:440][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short233)
+[2023.02.16-15.18.10:286][806]Cmd: TRANSACTION UNDO
+[2023.02.16-15.18.10:286][806]LogEditorTransaction: Undo Move Actors
+[2023.02.16-15.18.11:743][908]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short232)
+[2023.02.16-15.18.13:342][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short123)
+[2023.02.16-15.18.14:006][164]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short121)
+[2023.02.16-15.18.15:580][349]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short119)
+[2023.02.16-15.18.16:035][400]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short117)
+[2023.02.16-15.18.16:456][447]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short115)
+[2023.02.16-15.18.17:620][583]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short113)
+[2023.02.16-15.18.19:289][769]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short111)
+[2023.02.16-15.18.21:727][ 52]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short109)
+[2023.02.16-15.18.22:162][ 94]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short127)
+[2023.02.16-15.18.22:651][143]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short129)
+[2023.02.16-15.18.26:109][540]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short135)
+[2023.02.16-15.18.28:772][847]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short125)
+[2023.02.16-15.18.30:549][ 57]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short107)
+[2023.02.16-15.18.31:219][134]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short105)
+[2023.02.16-15.18.31:637][181]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short103)
+[2023.02.16-15.18.32:045][227]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short101)
+[2023.02.16-15.18.32:750][308]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short99)
+[2023.02.16-15.18.33:062][342]Cmd: TRANSACTION UNDO
+[2023.02.16-15.18.33:062][342]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.16-15.18.33:419][351]Cmd: TRANSACTION UNDO
+[2023.02.16-15.18.33:419][351]LogEditorTransaction: Undo Move Actors
+[2023.02.16-15.18.34:543][442]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short101)
+[2023.02.16-15.18.35:011][495]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short99)
+[2023.02.16-15.18.35:437][543]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short95)
+[2023.02.16-15.18.36:402][655]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short97)
+[2023.02.16-15.18.38:610][908]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short93)
+[2023.02.16-15.18.39:298][986]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short218)
+[2023.02.16-15.18.42:919][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short93)
+[2023.02.16-15.18.46:082][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short218)
+[2023.02.16-15.18.50:150][240]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short219)
+[2023.02.16-15.18.51:233][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short219)
+[2023.02.16-15.18.57:212][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short221)
+[2023.02.16-15.19.02:204][601]Cmd: TRANSACTION UNDO
+[2023.02.16-15.19.02:204][601]LogEditorTransaction: Undo Move Actors
+[2023.02.16-15.19.03:918][725]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short220)
+[2023.02.16-15.19.05:302][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short221)
+[2023.02.16-15.19.07:998][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short220)
+[2023.02.16-15.19.11:837][597]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short193)
+[2023.02.16-15.19.12:741][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short220)
+[2023.02.16-15.19.14:631][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short221)
+[2023.02.16-15.19.43:888][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short225)
+[2023.02.16-15.19.49:822][929]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short224)
+[2023.02.16-15.19.51:340][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short225)
+[2023.02.16-15.19.54:606][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short224)
+[2023.02.16-15.19.55:076][532]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short225)
+[2023.02.16-15.19.56:297][675]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short56)
+[2023.02.16-15.19.57:080][765]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short57)
+[2023.02.16-15.19.58:594][940]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short224)
+[2023.02.16-15.19.59:412][ 34]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall_5m_Short56)
+[2023.02.16-15.20.00:872][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short225)
+[2023.02.16-15.20.13:079][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short224)
+[2023.02.16-15.20.28:248][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.02.16-15.20.28:284][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.16-15.20.28:551][129]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_ChaseADF2462D4DCEDCCA1B4BFD9D951204F9.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase.umap'
+[2023.02.16-15.20.28:558][129]LogFileHelpers: Saving map 'Pre_Chase' took 0.279
+[2023.02.16-15.20.28:566][129]AssetCheck: New page: Asset Save: Pre_Chase
+[2023.02.16-15.20.28:566][129]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
+[2023.02.16-15.56.55:391][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short183)
+[2023.02.16-15.56.58:399][615]Cmd: TRANSACTION UNDO
+[2023.02.16-15.56.58:400][615]LogEditorTransaction: Undo Move Actors
+[2023.02.16-15.57.03:012][ 40]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short182)
+[2023.02.16-15.57.04:527][197]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short181)
+[2023.02.16-15.57.05:807][334]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short180)
+[2023.02.16-15.57.06:353][375]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short179)
+[2023.02.16-15.57.07:712][523]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short226)
+[2023.02.16-15.57.08:652][625]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short251)
+[2023.02.16-15.57.10:818][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short179)
+[2023.02.16-15.57.11:745][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short180)
+[2023.02.16-15.57.12:228][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short179)
+[2023.02.16-15.57.14:455][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short226)
+[2023.02.16-15.57.14:945][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short179)
+[2023.02.16-15.57.17:852][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short226)
+[2023.02.16-15.57.24:573][442]Cmd: DELETE
+[2023.02.16-15.57.24:573][442]Cmd: ACTOR DELETE
+[2023.02.16-15.57.24:616][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.16-15.57.24:622][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.16-15.57.24:625][442]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2023.02.16-15.57.25:743][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short179)
+[2023.02.16-15.57.43:526][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big35)
+[2023.02.16-15.57.48:704][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short184)
+[2023.02.16-15.57.49:834][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short251)
+[2023.02.16-15.57.52:744][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short184)
+[2023.02.16-15.57.53:501][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short251)
+[2023.02.16-15.57.54:490][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short251)
+[2023.02.16-15.57.55:206][876]Cmd: DELETE
+[2023.02.16-15.57.55:206][876]Cmd: ACTOR DELETE
+[2023.02.16-15.57.55:227][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.16-15.57.55:233][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.16-15.57.55:235][876]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2023.02.16-15.57.56:698][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short252)
+[2023.02.16-15.57.57:524][146]Cmd: DELETE
+[2023.02.16-15.57.57:524][146]Cmd: ACTOR DELETE
+[2023.02.16-15.57.57:546][146]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.16-15.57.57:551][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.16-15.57.57:552][146]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2023.02.16-15.57.58:761][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short253)
+[2023.02.16-15.58.00:287][470]Cmd: DELETE
+[2023.02.16-15.58.00:287][470]Cmd: ACTOR DELETE
+[2023.02.16-15.58.00:309][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.16-15.58.00:314][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.16-15.58.00:315][470]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2023.02.16-15.58.01:784][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2023.02.16-15.58.02:971][784]Cmd: DELETE
+[2023.02.16-15.58.02:971][784]Cmd: ACTOR DELETE
+[2023.02.16-15.58.02:993][784]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.16-15.58.02:998][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.16-15.58.02:999][784]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2023.02.16-15.58.04:412][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short184)
+[2023.02.16-15.58.06:153][133]Cmd: MODE GRID=1
+[2023.02.16-15.58.06:587][170]Cmd: MODE ROTGRID=1
+[2023.02.16-15.58.07:229][225]Cmd: MODE SCALEGRID=1
+[2023.02.16-15.58.17:480][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big36)
+[2023.02.16-15.58.20:188][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short186)
+[2023.02.16-15.58.36:675][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Doorway_Single)
+[2023.02.16-15.58.37:655][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short196)
+[2023.02.16-15.58.47:651][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Doorway_Single)
+[2023.02.16-15.58.51:505][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big21)
+[2023.02.16-15.58.52:339][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short196)
+[2023.02.16-15.58.53:880][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Doorway_Single)
+[2023.02.16-15.58.55:024][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short196)
+[2023.02.16-15.59.03:853][312]Cmd: MODE GRID=0
+[2023.02.16-15.59.04:404][359]Cmd: MODE ROTGRID=0
+[2023.02.16-15.59.05:089][427]Cmd: MODE SCALEGRID=0
+[2023.02.16-15.59.11:210][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big21)
+[2023.02.16-15.59.14:115][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short198)
+[2023.02.16-15.59.20:959][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big19)
+[2023.02.16-15.59.21:355][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big21)
+[2023.02.16-15.59.30:576][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short196)
+[2023.02.16-15.59.35:014][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short255)
+[2023.02.16-15.59.40:712][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big22)
+[2023.02.16-15.59.41:257][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short255)
+[2023.02.16-15.59.42:697][630]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short196)
+[2023.02.16-15.59.44:361][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short255)
+[2023.02.16-15.59.46:943][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short254)
+[2023.02.16-15.59.47:624][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short255)
+[2023.02.16-15.59.48:079][228]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short254)
+[2023.02.16-15.59.49:493][394]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short176)
+[2023.02.16-15.59.50:099][463]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short175)
+[2023.02.16-15.59.50:952][562]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short174)
+[2023.02.16-15.59.51:706][649]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short173)
+[2023.02.16-15.59.52:434][733]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short172)
+[2023.02.16-15.59.53:280][829]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.16-15.59.56:969][252]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short167)
+[2023.02.16-15.59.58:564][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big112)
+[2023.02.16-16.00.04:825][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short122)
+[2023.02.16-16.00.06:718][365]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short120)
+[2023.02.16-16.00.08:231][519]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short118)
+[2023.02.16-16.00.09:375][631]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short116)
+[2023.02.16-16.00.10:360][745]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short114)
+[2023.02.16-16.00.12:502][964]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short112)
+[2023.02.16-16.00.13:175][ 35]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short110)
+[2023.02.16-16.00.14:188][152]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short108)
+[2023.02.16-16.00.16:072][351]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short230)
+[2023.02.16-16.00.16:925][431]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short229)
+[2023.02.16-16.00.17:710][521]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short228)
+[2023.02.16-16.00.18:538][616]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short227)
+[2023.02.16-16.00.20:503][818]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short178)
+[2023.02.16-16.00.21:878][951]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short106)
+[2023.02.16-16.00.23:117][ 76]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short104)
+[2023.02.16-16.00.23:850][160]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short102)
+[2023.02.16-16.00.24:943][287]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short100)
+[2023.02.16-16.00.26:926][497]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short98)
+[2023.02.16-16.00.27:872][598]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short96)
+[2023.02.16-16.00.28:802][706]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short94)
+[2023.02.16-16.00.30:343][869]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short92)
+[2023.02.16-16.00.31:874][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big65)
+[2023.02.16-16.00.33:176][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short192)
+[2023.02.16-16.00.34:297][283]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short190)
+[2023.02.16-16.00.38:497][670]Cmd: TRANSACTION UNDO
+[2023.02.16-16.00.38:497][670]LogEditorTransaction: Undo Move Actors
+[2023.02.16-16.00.42:080][960]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short188)
+[2023.02.16-16.00.45:834][391]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short202)
+[2023.02.16-16.00.48:036][619]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short360)
+[2023.02.16-16.00.51:015][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short202)
+[2023.02.16-16.00.54:021][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short360)
+[2023.02.16-16.01.01:432][149]Cmd: DELETE
+[2023.02.16-16.01.01:432][149]Cmd: ACTOR DELETE
+[2023.02.16-16.01.01:454][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.16-16.01.01:460][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.16-16.01.01:463][149]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2023.02.16-16.01.02:563][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short202)
+[2023.02.16-16.01.31:330][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big57)
+[2023.02.16-16.01.38:090][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_High_Window25)
+[2023.02.16-16.01.38:788][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short153)
+[2023.02.16-16.01.39:314][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_High_Window25)
+[2023.02.16-16.01.40:027][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short153)
+[2023.02.16-16.01.43:089][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_High_Window25)
+[2023.02.16-16.01.45:238][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short153)
+[2023.02.16-16.01.45:833][  2]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window25)
+[2023.02.16-16.01.47:120][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_High_Window25)
+[2023.02.16-16.01.48:612][327]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short153)
+[2023.02.16-16.01.49:458][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_High_Window25)
+[2023.02.16-16.01.49:946][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_High_Window25)
+[2023.02.16-16.01.53:945][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short153)
+[2023.02.16-16.01.55:987][143]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window25)
+[2023.02.16-16.01.57:535][314]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window24)
+[2023.02.16-16.02.00:446][633]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_Doorway_Single5)
+[2023.02.16-16.02.02:251][825]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short202)
+[2023.02.16-16.02.04:201][ 39]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short204)
+[2023.02.16-16.02.05:362][160]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window29)
+[2023.02.16-16.02.06:515][286]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window28)
+[2023.02.16-16.02.08:409][477]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_Doorway_Single7)
+[2023.02.16-16.02.09:748][625]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short216)
+[2023.02.16-16.02.10:843][742]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short214)
+[2023.02.16-16.02.12:308][898]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window27)
+[2023.02.16-16.02.13:590][ 44]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window26)
+[2023.02.16-16.02.14:703][171]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short206)
+[2023.02.16-16.02.16:752][388]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_Doorway_Single6)
+[2023.02.16-16.02.18:232][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big46)
+[2023.02.16-16.02.22:398][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short147)
+[2023.02.16-16.02.23:790][178]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short149)
+[2023.02.16-16.02.25:786][392]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window19)
+[2023.02.16-16.02.27:600][591]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_Doorway_Single2)
+[2023.02.16-16.02.30:378][892]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window18)
+[2023.02.16-16.02.31:390][  9]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_Doorway_Single2)
+[2023.02.16-16.02.32:472][134]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short157)
+[2023.02.16-16.02.34:639][354]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short158)
+[2023.02.16-16.02.35:699][476]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window23)
+[2023.02.16-16.02.37:143][626]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window22)
+[2023.02.16-16.02.37:859][690]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_Doorway_Single4)
+[2023.02.16-16.02.39:808][888]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short143)
+[2023.02.16-16.02.41:195][ 48]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short145)
+[2023.02.16-16.02.43:052][248]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window21)
+[2023.02.16-16.02.43:992][355]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_High_Window20)
+[2023.02.16-16.02.45:453][515]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_Doorway_Single3)
+[2023.02.16-16.02.46:912][668]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short131)
+[2023.02.16-16.02.49:247][917]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_5m_Short133)
+[2023.02.16-16.02.52:411][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short120)
+[2023.02.16-16.02.53:916][416]LogTemp: Repeating last play command: Standalone Game
+[2023.02.16-16.02.53:927][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.02.16-16.02.55:187][416]LogSlate: Window 'Save Content' being destroyed
+[2023.02.16-16.02.55:218][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.02.16-16.02.55:486][416]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase355043154E8CB58AE1EF32BFABB1DF3D.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase.umap'
+[2023.02.16-16.02.55:492][416]LogFileHelpers: Saving map 'Pre_Chase' took 0.281
+[2023.02.16-16.02.55:542][417]AssetCheck: New page: Asset Save: Pre_Chase
+[2023.02.16-16.02.55:542][417]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
+[2023.02.16-16.06.50:836][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.02.16-16.06.53:775][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
