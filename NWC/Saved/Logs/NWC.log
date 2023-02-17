@@ -1086,3 +1086,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.17-13.42.18:480][778]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
 [2023.02.17-13.42.18:480][778]LogContentValidation: Display: Validating Blueprint /Game/FP_Horror_Starter_Kit/Blueprints/Toilet_Door.Toilet_Door
 [2023.02.17-13.42.20:962][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.02.17-13.46.47:528][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FP_Horror_Starter_Kit/Blueprints/Toilet_Door.Toilet_Door
+[2023.02.17-13.46.51:769][451]BlueprintLog: New page: Compile Toilet_Door
+[2023.02.17-13.46.51:811][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.02.17-13.46.53:101][590]LogSlate: Window 'Toilet_Door' being destroyed
+[2023.02.17-13.46.53:105][590]LogSlate: Window 'Toilet_Door' being destroyed
+[2023.02.17-13.46.53:136][590]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.17-13.46.53:136][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
