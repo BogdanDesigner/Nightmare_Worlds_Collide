@@ -897,3 +897,542 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.19-17.34.43:839][  1]LogAssetRegistry: Asset discovery search completed in 5.3833 seconds
 [2023.02.19-17.34.43:845][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2023.02.19-17.34.48:873][206]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/' took 5.12s
+[2023.02.19-17.35.32:585][132]MapCheck: New page: Map Check
+[2023.02.19-17.35.32:732][132]LightingResults: New page: Lighting Build - 19 Feb 2023, 17:35:32
+[2023.02.19-17.35.33:328][132]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.19-17.35.33:583][132]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.19-17.35.33:899][132]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.19-17.35.37:337][132]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.19-17.35.37:337][132]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19292
+[2023.02.19-17.35.49:911][132]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.19-17.35.49:911][132]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.19-17.35.49:911][132]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.19-17.35.49:911][132]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.19-17.35.49:911][132]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.19-17.35.50:571][132]LogEditorBuildUtils: Build time 0:17
+[2023.02.19-17.35.51:423][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.02.19-17.36.24:857][361]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.19-17.36.26:358][361]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.19-17.36.26:982][362]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.19-17.36.27:359][362]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.19-17.36.27:860][362]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.19-17.36.28:359][362]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.19-17.36.28:859][362]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.19-17.36.29:360][362]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.19-17.36.29:859][362]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.19-17.36.30:359][362]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.19-17.36.30:860][362]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.19-17.36.31:413][363]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.02.19-17.46.14:347][817]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.02.19-17.46.14:524][828]LightingResults: Warning: SM_Table Object has wrapping UVs.
+[2023.02.19-17.46.14:810][851]LightingResults: Warning: SM_Key Object has wrapping UVs.
+[2023.02.19-17.52.36:259][791]Job is a success!
+[2023.02.19-17.52.36:343][792]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.19-17.52.37:083][792]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.102s
+[2023.02.19-17.52.37:083][792]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2023.02.19-17.52.37:083][792]LogVolumetricLightmapImport:      BrickData (all levels) 0.5Mb (trimmed 3.1Mb due to 0.010000 MinBrickError)
+[2023.02.19-17.52.37:083][792]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.19-17.52.37:083][792]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2023.02.19-17.52.37:083][792]LogVolumetricLightmapImport:          1: 22.4% covering 18.8% of volume
+[2023.02.19-17.52.37:083][792]LogVolumetricLightmapImport:          2: 75.7% covering 1.0% of volume
+[2023.02.19-17.52.37:083][792]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.19-17.52.37:083][792]LogVolumetricLightmapImport:          Ben_Cabin 			 107 bricks 	 100.0% (Persistent Level)
+[2023.02.19-17.52.38:805][792]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 256X256)
+[2023.02.19-17.52.38:806][792]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.52.38:806][792]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.52.38:806][792]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.52.38:806][792]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.52.38:806][792]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 256X256)
+[2023.02.19-17.52.38:806][792]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 256X256)
+[2023.02.19-17.52.38:806][792]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.52.38:806][792]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 256X256)
+[2023.02.19-17.52.38:806][792]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.52.38:806][792]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.52.38:806][792]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.52.38:806][792]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.52.38:806][792]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.52.38:806][792]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.52.38:806][792]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.52.38:806][792]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 128X128)
+[2023.02.19-17.52.38:806][792]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 128X128)
+[2023.02.19-17.52.39:006][792]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 512X64)
+[2023.02.19-17.52.39:006][792]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 512X32)
+[2023.02.19-17.52.39:006][792]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 128X32)
+[2023.02.19-17.52.39:006][792]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X256)
+[2023.02.19-17.52.39:221][792]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X64)
+[2023.02.19-17.52.39:221][792]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2023.02.19-17.52.41:708][792]Lightmass on DESKTOP-U7QK1P2: 16:46 min total, 2.32 sec importing, 41.3 sec setup, 1:39 min photons, 14:22 min processing, 0 ms extra exporting [7430/7430 mappings]. Threads: 2:38:07 hours total, 13:52 min processing.
+[2023.02.19-17.52.41:889][792]LogStaticLightingSystem: Ben_Cabin_BuiltData storing lightmap data for 417 meshes in 13 LightmapResourceClusters (32.1 Meshes per cluster).
+[2023.02.19-17.52.42:029][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.19-17.52.42:082][792]LogStaticLightingSystem: Illumination: 17:09 min (581 ms encoding lightmaps, 416 ms encoding shadowmaps)
+[2023.02.19-17.52.42:082][792]LogStaticLightingSystem: Lightmap texture memory:  6.3 MB (6.3 MB streaming, 0.0 MB non-streaming), 12 textures
+[2023.02.19-17.52.42:082][792]LogStaticLightingSystem: Shadowmap texture memory: 7.2 MB (7.2 MB streaming, 0.0 MB non-streaming), 6 textures
+[2023.02.19-17.52.42:647][792]DumpUnbuiltLightIteractions
+[2023.02.19-17.52.42:647][792]Lights with unbuilt interactions: 0
+[2023.02.19-17.52.42:647][792]
+[2023.02.19-17.52.42:647][792]Primitives with unbuilt interactions: 0
+[2023.02.19-17.52.42:691][792]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.19-17.52.42:691][792]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.02.19-17.52.42:692][792]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.02.19-17.52.42:692][792]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.19-17.52.42:692][792]LogShaderCompilers: Display: ================================================
+[2023.02.19-17.52.42:996][792]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.02.19-17.52.43:079][792]LogSlate: Took 0.012790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.19-17.52.43:085][793]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.19-17.52.43:085][793]MapCheck: New page: Ben_Cabin - 19 Feb 2023, 17:52:43
+[2023.02.19-17.52.43:214][793]MapCheck: Warning: Trees_Rustiling_2 Ambient sound actor has NULL Sound Cue property 
+[2023.02.19-17.52.43:214][793]MapCheck: Warning: Wind_Inside_6 Ambient sound actor has NULL Sound Cue property 
+[2023.02.19-17.52.43:232][793]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 147.895ms to complete.
+[2023.02.19-17.52.52:795][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.02.19-17.52.53:352][637]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_Cabin_Auto19B486507414020FF80630AAAE2CA5BA9.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Autosaves/Game/Bogdan/Levels/Cabin/Ben_Cabin_Auto1.umap'
+[2023.02.19-17.52.53:364][637]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Bogdan/Levels/Cabin/Ben_Cabin' took 0.574
+[2023.02.19-17.52.53:364][637]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.574
+[2023.02.19-17.53.49:903][747]LogSlate: Window 'Message Log' being destroyed
+[2023.02.19-17.53.49:905][747]LogSlate: Window 'Message Log' being destroyed
+[2023.02.19-17.53.56:614][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.19-17.53.59:046][452]LogSlate: Window 'Save Content' being destroyed
+[2023.02.19-17.53.59:084][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.19-17.53.59:358][452]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_CabinD3908587472CA180E7AA47A4F271E8C9.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Cabin/Ben_Cabin.umap'
+[2023.02.19-17.53.59:364][452]LogFileHelpers: Saving map 'Ben_Cabin' took 0.287
+[2023.02.19-17.53.59:729][452]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_Cabin_BuiltDataB21D84724019C9813965B69476790B1B.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Cabin/Ben_Cabin_BuiltData.uasset'
+[2023.02.19-17.54.05:863][452]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Bogdan/Levels/Corridor/1.1
+[2023.02.19-17.54.05:863][452]Cmd: MAP LOAD FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Corridor/1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.19-17.54.05:863][452]LightingResults: New page: Lighting Build
+[2023.02.19-17.54.05:863][452]LoadErrors: New page: Loading map: 1.umap
+[2023.02.19-17.54.05:907][452]LogWorld: UWorld::CleanupWorld for Ben_Cabin, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-17.54.05:907][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-17.54.05:907][452]MapCheck: New page: Map Check
+[2023.02.19-17.54.05:907][452]LightingResults: New page: Lighting Build
+[2023.02.19-17.54.05:916][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.19-17.54.05:934][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.02.19-17.54.05:937][452]LogAudio: Display: Audio Device (ID: 1) registered with world '1'.
+[2023.02.19-17.54.06:045][452]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.19-17.54.06:045][452]LogAIModule: Creating AISystem for world 1
+[2023.02.19-17.54.06:056][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.19-17.54.06:064][452]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.19-17.54.06:064][452]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2023.02.19-17.54.06:064][452]LogFileHelpers: Loading map '1' took 0.201
+[2023.02.19-17.54.06:102][452]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.19-17.54.06:102][452]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Cabin/Ben_Cabin.Ben_Cabin
+[2023.02.19-17.54.06:204][452]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Bogdan/Levels/Cabin/Ben_Cabin_BuiltData.Ben_Cabin_BuiltData
+[2023.02.19-17.54.11:594][128]MapCheck: New page: Map Check
+[2023.02.19-17.54.11:604][128]LightingResults: New page: Lighting Build - 19 Feb 2023, 17:54:11
+[2023.02.19-17.54.11:659][128]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.19-17.54.11:661][128]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.19-17.54.11:661][128]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.19-17.54.11:662][128]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.19-17.54.11:662][128]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19292
+[2023.02.19-17.54.16:319][128]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.19-17.54.16:320][128]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.19-17.54.16:320][128]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.19-17.54.16:320][128]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.19-17.54.16:320][128]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.19-17.54.16:545][128]LogEditorBuildUtils: Build time 0:04
+[2023.02.19-17.54.16:585][128]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Floor_Tiles_Polished_Light in PCD3D_SM5, Default, SM5 (DDC key hash: 8CE48419B2F83152923729A090440B7EC28B58EE), compiling. 
+[2023.02.19-17.54.16:664][128]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.54.16:666][128]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.19-17.54.16:666][128]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.19-17.54.16:666][128]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.54.16:666][128]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Floor_Tiles_Polished_Light in PCD3D_SM5, Default, SM5 (DDC key hash: 08A45107E7A2B849599756254E7FACD97E064295), compiling. 
+[2023.02.19-17.54.16:670][128]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.54.16:843][129]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.19-17.54.16:843][129]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.19-17.54.16:843][129]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.54.16:873][130]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_FireBell in PCD3D_SM5, Default, SM5 (DDC key hash: 3AA1F7E9F83E893D29EC33206CB086291CFC5F2D), compiling. 
+[2023.02.19-17.54.16:877][130]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.54.16:878][130]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_FireBell in PCD3D_SM5, Default, SM5 (DDC key hash: 9ECDEA13FA17083B9E3687F52A9ADA2340877D98), compiling. 
+[2023.02.19-17.54.16:880][130]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.54.16:954][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.19-17.54.16:954][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2023.02.19-17.54.16:954][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.02.19-17.54.16:954][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.19-17.54.16:954][131]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.54.16:954][131]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Books in PCD3D_SM5, Default, SM5 (DDC key hash: C6EAA9C66F0DF7AB188C6284F1B18A9034D238B3), compiling. 
+[2023.02.19-17.54.16:957][131]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.54.16:959][131]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Books in PCD3D_SM5, Default, SM5 (DDC key hash: 148B9B3D4F6A447CDC021D42B71F074B132065A5), compiling. 
+[2023.02.19-17.54.16:961][131]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.54.17:077][132]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Black in PCD3D_SM5, Default, SM5 (DDC key hash: 8E14E762FC6602ADB3853FF41F9EB1FE2A63096F), compiling. 
+[2023.02.19-17.54.17:080][132]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.54.17:081][132]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Black in PCD3D_SM5, Default, SM5 (DDC key hash: E3CB85A0F1BA3A5156779671A4C5D884CBA815FE), compiling. 
+[2023.02.19-17.54.17:084][132]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.54.17:150][133]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_LockerA in PCD3D_SM5, Default, SM5 (DDC key hash: 57E01163A774B073A587C02C256BD511E31006B8), compiling. 
+[2023.02.19-17.54.17:153][133]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.54.17:166][133]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_LockerA in PCD3D_SM5, Default, SM5 (DDC key hash: 49807E191FD66E1BB54597D8AB9FF200487873EB), compiling. 
+[2023.02.19-17.54.17:168][133]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.19-17.54.19:353][135]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.54.20:571][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.02.19-17.54.45:212][297]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.02.19-17.54.45:359][303]LightingResults: Warning: SM_Door Object has wrapping UVs.
+[2023.02.19-17.54.47:136][462]Job is a success!
+[2023.02.19-17.54.48:150][463]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2023.02.19-17.54.48:150][463]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.19-17.54.48:150][463]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2023.02.19-17.54.48:150][463]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.19-17.54.48:150][463]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2023.02.19-17.54.48:150][463]LogVolumetricLightmapImport:          1: 18.2% covering 3.1% of volume
+[2023.02.19-17.54.48:150][463]LogVolumetricLightmapImport:          2: 72.7% covering 0.2% of volume
+[2023.02.19-17.54.48:150][463]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.19-17.54.48:150][463]LogVolumetricLightmapImport:          1 			 11 bricks 	 100.0% (Persistent Level)
+[2023.02.19-17.54.49:206][463]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.54.49:206][463]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.54.49:206][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.54.49:206][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.54.49:206][463]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.54.49:206][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.54.49:206][463]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.54.49:206][463]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.54.49:206][463]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.54.49:206][463]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: HQ_Lightmap1_8 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: HQ_Lightmap1_11 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: HQ_Lightmap1_9 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: HQ_Lightmap1_10 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.54.49:207][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.54.49:407][463]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X128)
+[2023.02.19-17.54.49:935][463]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2023.02.19-17.54.49:993][463]Lightmass on DESKTOP-U7QK1P2: 27.3 sec total, 1.85 sec importing, 252 ms setup, 4.11 sec photons, 21.0 sec processing, 0 ms extra exporting [539/539 mappings]. Threads: 3:51 min total, 1:46 min processing.
+[2023.02.19-17.54.50:047][463]LogStaticLightingSystem: 1_BuiltData storing lightmap data for 539 meshes in 22 LightmapResourceClusters (24.5 Meshes per cluster).
+[2023.02.19-17.54.50:089][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.19-17.54.50:133][463]LogStaticLightingSystem: Illumination: 38.4 sec (669 ms encoding lightmaps, 727 ms encoding shadowmaps)
+[2023.02.19-17.54.50:133][463]LogStaticLightingSystem: Lightmap texture memory:  24.0 MB (24.0 MB streaming, 0.0 MB non-streaming), 24 textures
+[2023.02.19-17.54.50:133][463]LogStaticLightingSystem: Shadowmap texture memory: 6.0 MB (6.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.02.19-17.54.50:344][463]DumpUnbuiltLightIteractions
+[2023.02.19-17.54.50:344][463]Lights with unbuilt interactions: 0
+[2023.02.19-17.54.50:344][463]
+[2023.02.19-17.54.50:344][463]Primitives with unbuilt interactions: 0
+[2023.02.19-17.54.50:560][463]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.02.19-17.54.50:605][464]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.19-17.54.50:605][464]MapCheck: New page: 1 - 19 Feb 2023, 17:54:50
+[2023.02.19-17.54.50:607][464]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.033ms to complete.
+[2023.02.19-17.54.55:249][111]LogSlate: Window 'Message Log' being destroyed
+[2023.02.19-17.54.55:253][111]LogSlate: Window 'Message Log' being destroyed
+[2023.02.19-17.55.01:610][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.02.19-17.55.02:625][897]LogSlate: Window 'Save Content' being destroyed
+[2023.02.19-17.55.02:668][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.19-17.55.02:835][897]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/185860D364A5411C10AD69DA4F0BC34D5.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Corridor/1.umap'
+[2023.02.19-17.55.02:859][897]LogFileHelpers: Saving map '1' took 0.198
+[2023.02.19-17.55.03:414][897]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/1_BuiltDataB347A334409D3C525C2FF68ACC2153A9.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Corridor/1_BuiltData.uasset'
+[2023.02.19-17.55.03:985][897]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/1_BuiltData4C63CFAC4272D88DF93AEB9A198B5CA6.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Corridor/1_BuiltData.uasset'
+[2023.02.19-17.55.09:607][897]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'T_Images' of length 5 in '/Game/QuestKitMini1/Core/BP_Quest_1_1.BP_Quest_1_1_C'!
+[2023.02.19-17.55.09:607][897]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'T_Images' of length 5 in '/Game/QuestKitMini1/Core/BP_Quest_1_1.BP_Quest_1_1_C'!
+[2023.02.19-17.55.09:622][897]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
+[2023.02.19-17.55.09:622][897]Cmd: MAP LOAD FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.19-17.55.09:622][897]LightingResults: New page: Lighting Build
+[2023.02.19-17.55.09:622][897]LoadErrors: New page: Loading map: Pre_Chase.umap
+[2023.02.19-17.55.09:656][897]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-17.55.09:656][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-17.55.09:656][897]MapCheck: New page: Map Check
+[2023.02.19-17.55.09:656][897]LightingResults: New page: Lighting Build
+[2023.02.19-17.55.09:670][897]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.19-17.55.09:677][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.02.19-17.55.09:714][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.02.19-17.55.09:720][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.19-17.55.09:720][897]LogAudio: Display: Audio Device (ID: 1) registered with world 'Pre_Chase'.
+[2023.02.19-17.55.09:756][897]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'T_Images' of length 5 in '/Game/QuestKitMini1/Core/BP_Quest_1_1.BP_Quest_1_1_C'!
+[2023.02.19-17.55.09:757][897]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'T_Images' of length 5 in '/Game/QuestKitMini1/Core/BP_Quest_1_1.BP_Quest_1_1_C'!
+[2023.02.19-17.55.09:915][897]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.19-17.55.09:915][897]LogAIModule: Creating AISystem for world Pre_Chase
+[2023.02.19-17.55.09:921][897]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.02.19-17.55.09:939][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.19-17.55.09:944][897]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.19-17.55.09:944][897]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2023.02.19-17.55.09:944][897]LogFileHelpers: Loading map 'Pre_Chase' took 0.322
+[2023.02.19-17.55.10:260][897]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.19-17.55.10:260][897]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Corridor/1.1
+[2023.02.19-17.55.10:307][897]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Bogdan/Levels/Corridor/1_BuiltData.1_BuiltData
+[2023.02.19-17.55.15:359][490]MapCheck: New page: Map Check
+[2023.02.19-17.55.15:379][490]LightingResults: New page: Lighting Build - 19 Feb 2023, 17:55:15
+[2023.02.19-17.55.15:395][490]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.19-17.55.15:396][490]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.19-17.55.15:396][490]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.19-17.55.15:397][490]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.19-17.55.15:397][490]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19292
+[2023.02.19-17.55.19:913][490]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.19-17.55.19:913][490]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.19-17.55.19:913][490]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.19-17.55.19:913][490]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.19-17.55.19:913][490]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.19-17.55.20:186][490]LogEditorBuildUtils: Build time 0:04
+[2023.02.19-17.55.20:192][490]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_SignsA in PCD3D_SM5, Default, SM5 (DDC key hash: 9CEE28FACE38F46F007B179516685A545C83ACB3), compiling. 
+[2023.02.19-17.55.20:196][490]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.55.20:197][490]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_SignsA in PCD3D_SM5, Default, SM5 (DDC key hash: 92156FC6FBC9292F22BB952F85F109862C52AED1), compiling. 
+[2023.02.19-17.55.20:200][490]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.55.20:227][491]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.02.19-17.55.20:227][491]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.19-17.55.20:227][491]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.19-17.55.20:227][491]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.19-17.55.20:227][491]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.20:551][492]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Urinal in PCD3D_SM5, Default, SM5 (DDC key hash: 9D956FCD07FE147A19C6FBE9CEC0D6B4B0BCB269), compiling. 
+[2023.02.19-17.55.20:554][492]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.55.20:555][492]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2023.02.19-17.55.20:555][492]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.19-17.55.20:555][492]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.20:555][492]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Urinal in PCD3D_SM5, Default, SM5 (DDC key hash: 0DFFAF789809E32D67C39A01B3D811AE2A508A2E), compiling. 
+[2023.02.19-17.55.20:559][492]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.55.20:597][492]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.02.19-17.55.20:597][492]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.19-17.55.20:597][492]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.20:733][494]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Bathroom_Sink in PCD3D_SM5, Default, SM5 (DDC key hash: 922B2280A5A797C47F0A4028DC1A0343790C3A0C), compiling. 
+[2023.02.19-17.55.20:738][494]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.55.20:740][494]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.19-17.55.20:740][494]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.19-17.55.20:740][494]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.20:740][494]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Bathroom_Sink in PCD3D_SM5, Default, SM5 (DDC key hash: 1E9E6DFB8382D69AFECB014D0086D09D3DE09364), compiling. 
+[2023.02.19-17.55.20:744][494]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.55.20:747][494]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.19-17.55.20:747][494]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.19-17.55.20:747][494]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.20:747][494]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Bathroom_Sink in PCD3D_SM5, Default, SM5 (DDC key hash: 61EFF955D0D01C8AA5036E59DFD738BEAEFE3D8B), compiling. 
+[2023.02.19-17.55.20:753][494]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:082][497]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.02.19-17.55.21:082][497]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:082][497]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.19-17.55.21:082][497]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:087][497]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Cafeteria_Module_A_Plastic in PCD3D_SM5, Default, SM5 (DDC key hash: 9890B2393DA6E0D77BD463A6BED661FCE3590BD6), compiling. 
+[2023.02.19-17.55.21:095][497]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:098][497]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Cafeteria_Module_A_Plastic in PCD3D_SM5, Default, SM5 (DDC key hash: 4D4548ACBC6AF7998EE6001F8909CFE29592AE7A), compiling. 
+[2023.02.19-17.55.21:104][497]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:107][497]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Cafeteria_Module_A_Plastic in PCD3D_SM5, Default, SM5 (DDC key hash: 342B742B9DDC3ECE4CEA2359D448302D4AA941F0), compiling. 
+[2023.02.19-17.55.21:113][497]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:247][499]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2023.02.19-17.55.21:247][499]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:247][499]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.19-17.55.21:247][499]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:247][499]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.02.19-17.55.21:247][499]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2023.02.19-17.55.21:247][499]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:247][499]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.02.19-17.55.21:247][499]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:247][499]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.19-17.55.21:247][499]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:260][499]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_VendingMachine_A in PCD3D_SM5, Default, SM5 (DDC key hash: 5818D6B3D962E3C5D0DFC4B4668139BB47FCFFEC), compiling. 
+[2023.02.19-17.55.21:267][499]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:269][499]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_VendingMachine_A in PCD3D_SM5, Default, SM5 (DDC key hash: 5FBBBB5C071B0A5E35A6EE2E688451B7FF309ED0), compiling. 
+[2023.02.19-17.55.21:276][499]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:943][501]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2023.02.19-17.55.21:943][501]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:943][501]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2023.02.19-17.55.21:943][501]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:943][501]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-17.55.21:943][501]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.21:943][501]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.19-17.55.21:943][501]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.19-17.55.22:539][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.19-17.55.40:946][167]LightingResults: Warning: SM_Security_Camera_B Object has wrapping UVs.
+[2023.02.19-17.55.40:946][167]LightingResults: Warning: SM_Security_Camera_B Object has overlapping UVs.
+[2023.02.19-17.55.41:003][168]LightingResults: SM_Security_Camera_B Lightmap UV are overlapping by 14.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.19-17.55.42:136][267]LightingResults: Warning: SM_Security_Camera_B Object has wrapping UVs.
+[2023.02.19-17.55.42:136][267]LightingResults: Warning: SM_Security_Camera_B Object has overlapping UVs.
+[2023.02.19-17.55.42:136][267]LightingResults: SM_Security_Camera_B Lightmap UV are overlapping by 14.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.19-17.55.43:386][374]LightingResults: Warning: SM_Security_Camera_B Object has wrapping UVs.
+[2023.02.19-17.55.43:386][374]LightingResults: Warning: SM_Security_Camera_B Object has overlapping UVs.
+[2023.02.19-17.55.43:386][374]LightingResults: SM_Security_Camera_B Lightmap UV are overlapping by 14.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.19-17.55.45:620][573]LightingResults: Warning: SM_Security_Camera_B Object has wrapping UVs.
+[2023.02.19-17.55.45:620][573]LightingResults: Warning: SM_Security_Camera_B Object has overlapping UVs.
+[2023.02.19-17.55.45:722][574]LightingResults: SM_Security_Camera_B Lightmap UV are overlapping by 14.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.19-17.55.53:465][279]LightingResults: Warning: SM_Security_Camera_B Object has wrapping UVs.
+[2023.02.19-17.55.53:465][279]LightingResults: Warning: SM_Security_Camera_B Object has overlapping UVs.
+[2023.02.19-17.55.53:465][279]LightingResults: SM_Security_Camera_B Lightmap UV are overlapping by 14.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.19-17.56.00:049][878]LightingResults: Warning: SM_Cafeteria_plates_Stacked Object has overlapping UVs.
+[2023.02.19-17.56.00:112][879]LightingResults: SM_Cafeteria_plates_Stacked Lightmap UV are overlapping by 76.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.19-17.56.01:031][959]LightingResults: Warning: SM_Security_Camera_B Object has wrapping UVs.
+[2023.02.19-17.56.01:031][959]LightingResults: Warning: SM_Security_Camera_B Object has overlapping UVs.
+[2023.02.19-17.56.01:031][959]LightingResults: SM_Security_Camera_B Lightmap UV are overlapping by 14.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.19-17.56.04:086][235]LightingResults: Warning: SM_Cafeteria_plates_Stacked Object has overlapping UVs.
+[2023.02.19-17.56.04:086][235]LightingResults: SM_Cafeteria_plates_Stacked Lightmap UV are overlapping by 76.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.19-17.56.17:150][431]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.02.19-17.56.17:711][478]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.02.19-17.56.17:932][494]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.02.19-17.56.18:356][529]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.02.19-17.56.18:635][550]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.02.19-17.56.18:826][563]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.02.19-17.56.19:049][579]LightingResults: Warning: SM_Key Object has wrapping UVs.
+[2023.02.19-17.56.19:146][584]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.02.19-17.56.19:286][592]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.02.19-17.56.21:312][768]Job is a success!
+[2023.02.19-17.56.22:416][769]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.038s
+[2023.02.19-17.56.22:416][769]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.19-17.56.22:416][769]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.02.19-17.56.22:416][769]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.19-17.56.22:416][769]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2023.02.19-17.56.22:417][769]LogVolumetricLightmapImport:          1: 40.0% covering 12.5% of volume
+[2023.02.19-17.56.22:417][769]LogVolumetricLightmapImport:          2: 55.0% covering 0.3% of volume
+[2023.02.19-17.56.22:417][769]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.19-17.56.22:417][769]LogVolumetricLightmapImport:          Pre_Chase 			 20 bricks 	 100.0% (Persistent Level)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap1_8 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap0_13 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap0_14 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap0_15 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap0_16 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:401][769]LogTexture: Display: Building textures: HQ_Lightmap0_17 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: HQ_Lightmap0_20 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: HQ_Lightmap0_19 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: HQ_Lightmap0_18 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: HQ_Lightmap0_21 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: HQ_Lightmap0_22 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: HQ_Lightmap0_24 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: HQ_Lightmap0_25 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: HQ_Lightmap0_23 (OODLE_AutoDXT, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.24:402][769]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (OODLE_DXT1, 1024X1024)
+[2023.02.19-17.56.24:402][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.19-17.56.26:886][769]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2023.02.19-17.56.27:248][769]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X512)
+[2023.02.19-17.56.27:295][769]Lightmass on DESKTOP-U7QK1P2: 1:03 min total, 854 ms importing, 455 ms setup, 10.6 sec photons, 51.4 sec processing, 0 ms extra exporting [1279/1279 mappings]. Threads: 9:26 min total, 4:36 min processing.
+[2023.02.19-17.56.27:349][769]LogStaticLightingSystem: Pre_Chase_BuiltData storing lightmap data for 1279 meshes in 45 LightmapResourceClusters (28.4 Meshes per cluster).
+[2023.02.19-17.56.27:429][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.02.19-17.56.27:495][769]LogStaticLightingSystem: Illumination: 1:12 min (1.22 sec encoding lightmaps, 2.84 sec encoding shadowmaps)
+[2023.02.19-17.56.27:495][769]LogStaticLightingSystem: Lightmap texture memory:  50.0 MB (50.0 MB streaming, 0.0 MB non-streaming), 50 textures
+[2023.02.19-17.56.27:495][769]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.02.19-17.56.27:965][769]DumpUnbuiltLightIteractions
+[2023.02.19-17.56.27:965][769]Lights with unbuilt interactions: 0
+[2023.02.19-17.56.27:965][769]
+[2023.02.19-17.56.27:965][769]Primitives with unbuilt interactions: 0
+[2023.02.19-17.56.27:994][769]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.19-17.56.27:994][769]LogShaderCompilers: Display: Total job queries 44, among them cache hits 0 (0.00%)
+[2023.02.19-17.56.27:994][769]LogShaderCompilers: Display: Tracking 44 distinct input hashes that result in 9 distinct outputs (20.45%)
+[2023.02.19-17.56.27:994][769]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.19-17.56.27:994][769]LogShaderCompilers: Display: ================================================
+[2023.02.19-17.56.28:077][770]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.19-17.56.28:077][770]MapCheck: New page: Pre_Chase - 19 Feb 2023, 17:56:28
+[2023.02.19-17.56.28:082][770]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.433ms to complete.
+[2023.02.19-17.56.52:065][312]LogSlate: Window 'Message Log' being destroyed
+[2023.02.19-17.56.52:068][312]LogSlate: Window 'Message Log' being destroyed
+[2023.02.19-17.56.56:756][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.02.19-17.56.57:029][864]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase9B0195E648571724D6464E9FE00ED895.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase.umap'
+[2023.02.19-17.56.57:054][864]LogFileHelpers: Saving map 'Pre_Chase' took 0.305
+[2023.02.19-17.56.57:962][864]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase_BuiltDataFD94535F40F0467D85178DA470BC5A1C.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase_BuiltData.uasset'
+[2023.02.19-17.56.57:983][864]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.19-17.56.57:983][864]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Bogdan/Levels/Chase/Pre_Chase_BuiltData.Pre_Chase_BuiltData
+[2023.02.19-17.56.57:983][864]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
+[2023.02.19-17.56.59:452][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
