@@ -2471,3 +2471,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.23-18.18.43:084][871]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2023.02.23-18.18.43:084][871]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
 [2023.02.23-18.18.43:084][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.23-18.19.47:682][418]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MonsterAi_Kit/Monster_NBC.Monster_NBC
+[2023.02.23-18.20.18:927][918]BlueprintLog: New page: Compile Monster_NBC
+[2023.02.23-18.20.19:059][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.02.23-18.20.20:279][ 34]LogSlate: Window 'Monster_NBC' being destroyed
+[2023.02.23-18.20.20:285][ 34]LogSlate: Window 'Monster_NBC' being destroyed
+[2023.02.23-18.20.20:291][ 34]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.23-18.20.20:291][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
