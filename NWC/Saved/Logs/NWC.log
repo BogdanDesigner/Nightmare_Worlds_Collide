@@ -2478,3 +2478,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.23-18.20.20:285][ 34]LogSlate: Window 'Monster_NBC' being destroyed
 [2023.02.23-18.20.20:291][ 34]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
 [2023.02.23-18.20.20:291][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.23-18.21.22:045][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.02.23-18.21.24:901][ 73]LogSlate: Window 'Save Content' being destroyed
+[2023.02.23-18.21.27:539][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.02.23-18.21.27:584][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.02.23-18.21.27:861][383]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Pre_Chase0BF4282642652D9CC04F6CB655BBF3AA.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Chase/Pre_Chase.umap'
+[2023.02.23-18.21.27:878][383]LogFileHelpers: Saving map 'Pre_Chase' took 0.309
+[2023.02.23-18.21.27:896][383]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/BP_Door2758AAC94BEA1777F95EF292E6B683BA.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/FP_Horror_Starter_Kit/Blueprints/BP_Door.uasset'
+[2023.02.23-18.21.27:929][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MonsterAi_Kit/Monster_NBC" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/MonsterAi_Kit/Monster_NBC.uasset" SILENT=true
+[2023.02.23-18.21.28:024][383]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Monster_NBCD0A2F505459DE7D6325D869D016E35E3.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/MonsterAi_Kit/Monster_NBC.uasset'
+[2023.02.23-18.21.28:040][383]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Death15A0AC764F47C8BCFC127FAAC37ACF4E.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/FP_Horror_Starter_Kit/UI/Death.uasset'
+[2023.02.23-18.21.28:041][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bogdan/BP/Flickering_Light" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/BP/Flickering_Light.uasset" SILENT=true
+[2023.02.23-18.21.28:045][383]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Flickering_Light5506F1684A5A7FE0551CB39996190516.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/BP/Flickering_Light.uasset'
+[2023.02.23-18.21.28:047][383]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/sobbingbreathing-756359BBB3CCF41D4C31B9CBEE4877CF4179E.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/sobbingbreathing-75635.uasset'
+[2023.02.23-18.21.28:061][383]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.23-18.21.28:061][383]LogContentValidation: Display: Validating Blueprint /Game/MonsterAi_Kit/Monster_NBC.Monster_NBC
+[2023.02.23-18.21.28:061][383]LogContentValidation: Display: Validating WidgetBlueprint /Game/FP_Horror_Starter_Kit/UI/Death.Death
+[2023.02.23-18.21.28:061][383]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Chase/Pre_Chase.Pre_Chase
+[2023.02.23-18.21.28:061][383]LogContentValidation: Display: Validating Blueprint /Game/FP_Horror_Starter_Kit/Blueprints/BP_Door.BP_Door
+[2023.02.23-18.21.28:061][383]LogContentValidation: Display: Validating Blueprint /Game/Bogdan/BP/Flickering_Light.Flickering_Light
+[2023.02.23-18.21.28:061][383]LogContentValidation: Display: Validating SoundWave /Game/Bogdan/sobbingbreathing-75635.sobbingbreathing-75635
