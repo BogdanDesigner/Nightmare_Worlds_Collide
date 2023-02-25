@@ -987,3 +987,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.25-23.57.41:737][226]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/LS_GirlDrawingSceneB8C7348F4417C251EC77009826403C9D.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Cinematics/GirlDrawingCorridor/LS_GirlDrawingScene.uasset'
 [2023.02.25-23.57.41:756][226]AssetCheck: New page: Asset Save: LS_GirlDrawingScene
 [2023.02.25-23.57.41:756][226]LogContentValidation: Display: Validating LevelSequence /Game/Ben/Cinematics/GirlDrawingCorridor/LS_GirlDrawingScene.LS_GirlDrawingScene
+[2023.02.25-23.57.57:796][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.02.25-23.57.57:841][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.02.25-23.57.58:126][892]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_School_DAB02ACD94E0297EA43493CAAB9A63FF6.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Levels/Corridor/Ben_School_D.umap'
+[2023.02.25-23.57.58:133][892]LogFileHelpers: Saving map 'Ben_School_D' took 0.299
+[2023.02.25-23.57.58:149][892]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/LS_CorridorEnd64A66AA94F02346CF14A94AFD4CF1CCB.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Cinematics/CorridorEnd/LS_CorridorEnd.uasset'
+[2023.02.25-23.57.58:159][892]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.25-23.57.58:160][892]LogContentValidation: Display: Validating World /Game/Bogdan/Levels/Corridor/Ben_School_D.Ben_School_D
+[2023.02.25-23.57.58:160][892]LogContentValidation: Display: Validating LevelSequence /Game/Ben/Cinematics/CorridorEnd/LS_CorridorEnd.LS_CorridorEnd
+[2023.02.25-23.58.06:890][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
