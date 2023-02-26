@@ -3757,3 +3757,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.26-03.32.06:762][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
 [2023.02.26-03.32.06:833][496]LogPlayLevel: Display: Destroying online subsystem :Context_12
 [2023.02.26-03.32.20:949][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.26-03.32.46:801][682]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Bogdan/Menu/Main/Main_W.Main_W
+[2023.02.26-03.32.49:104][951]LogSlate: Window 'Main_W' being destroyed
+[2023.02.26-03.32.49:108][951]LogSlate: Window 'Main_W' being destroyed
+[2023.02.26-03.32.49:110][951]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-03.32.49:110][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-03.32.49:116][951]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-03.32.49:116][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-03.32.53:719][522]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Bogdan/Menu/Pause/Pause_M.Pause_M
+[2023.02.26-03.32.55:758][754]LogSlate: Window 'Pause_M' being destroyed
+[2023.02.26-03.32.55:762][754]LogSlate: Window 'Pause_M' being destroyed
+[2023.02.26-03.32.55:764][754]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-03.32.55:764][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-03.32.55:770][754]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-03.32.55:770][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-03.32.58:185][993]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Bogdan/Menu/Options/Options.Options
+[2023.02.26-03.34.42:879][334]BlueprintLog: New page: Compile Options
+[2023.02.26-03.34.42:927][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.02.26-03.34.43:915][436]LogSlate: Window 'Options' being destroyed
+[2023.02.26-03.34.43:920][436]LogSlate: Window 'Options' being destroyed
+[2023.02.26-03.34.43:923][436]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-03.34.43:923][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-03.34.43:929][436]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-03.34.43:929][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-03.34.46:737][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.02.26-03.34.46:788][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bogdan/Menu/Options/Options" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Menu/Options/Options.uasset" SILENT=true
+[2023.02.26-03.34.46:872][750]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/OptionsE43203704F4DA87B7300F59E7B75620D.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Menu/Options/Options.uasset'
+[2023.02.26-03.34.46:884][750]AssetCheck: New page: Asset Save: Options
+[2023.02.26-03.34.46:884][750]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bogdan/Menu/Options/Options.Options
