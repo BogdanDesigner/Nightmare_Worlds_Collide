@@ -5994,3 +5994,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.14-03.17.17:493][448]LogFileHelpers: Saving map 'Ben_Cabin_V3' took 0.959
 [2023.03.14-03.17.17:527][448]AssetCheck: New page: Asset Save: Ben_Cabin_V3
 [2023.03.14-03.17.17:527][448]LogContentValidation: Display: Validating World /Game/Ben/Levels/Ben_Cabin_V3.Ben_Cabin_V3
+[2023.03.14-03.22.43:065][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.14-03.22.43:210][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.14-03.22.44:103][365]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_Cabin_V374C2AE694A5E5FF03F31C4904D76756C.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Levels/Ben_Cabin_V3.umap'
+[2023.03.14-03.22.44:114][365]LogFileHelpers: Saving map 'Ben_Cabin_V3' took 0.923
+[2023.03.14-03.22.44:148][365]AssetCheck: New page: Asset Save: Ben_Cabin_V3
+[2023.03.14-03.22.44:148][365]LogContentValidation: Display: Validating World /Game/Ben/Levels/Ben_Cabin_V3.Ben_Cabin_V3
