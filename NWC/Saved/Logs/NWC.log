@@ -891,3 +891,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.19-08.51.36:815][343]LogSlate: Window 'Project Settings' being destroyed
 [2023.03.19-08.51.36:875][343]LogSlate: Window 'Project Settings' being destroyed
 [2023.03.19-08.51.38:750][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.03.19-08.52.00:677][700]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.19-08.52.00:709][700]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FP_Horror_Starter_Kit/UI/Death.Death
+[2023.03.19-08.52.02:069][700]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.03.19-08.52.05:007][700]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.19-08.52.35:244][  4]BlueprintLog: New page: Compile Death
+[2023.03.19-08.52.35:366][  4]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.03.19-08.52.35:542][  4]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.19-08.52.39:225][ 43]LogSlate: Window 'Death' being destroyed
+[2023.03.19-08.52.39:234][ 43]LogSlate: Window 'Death' being destroyed
+[2023.03.19-08.52.39:339][ 43]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-08.52.39:340][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-08.52.39:599][ 43]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-08.52.39:600][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
