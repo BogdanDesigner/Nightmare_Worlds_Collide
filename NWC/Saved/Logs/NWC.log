@@ -947,3 +947,87 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.19-07.30.53:624][385]AssetReimport: Importing new asset /Game/Cabin_Pack/cabin_props/textures/Cardboard_boxes_1_Normal.
 [2023.03.19-07.30.53:624][385]AssetReimport: Importing new asset /Game/Cabin_Pack/cabin_props/textures/Cardboard_boxes_1_Roughness.
 [2023.03.19-07.30.53:624][385]AssetReimport: Importing new asset /Game/Cabin_Pack/cabin_props/textures/internal_ground_ao_texture.
+[2023.03.19-07.35.32:092][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.19-07.35.36:562][605]LogSlate: Window 'Save Content' being destroyed
+[2023.03.19-07.35.36:695][605]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.19-07.35.36:695][605]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.19-07.35.36:695][605]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.19-07.35.36:695][605]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.03.19-07.35.36:695][605]LogShaderCompilers: Display: ================================================
+[2023.03.19-07.35.36:705][605]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.19-07.35.36:709][605]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.19-07.35.36:709][605]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.19-07.35.36:709][605]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.19-07.35.36:729][605]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.03.19-07.35.36:792][605]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.03.19-07.35.36:792][605]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.03.19-07.35.36:792][605]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.03.19-07.35.36:792][605]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.03.19-07.35.36:792][605]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.03.19-07.35.36:792][605]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.03.19-07.35.36:792][605]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.03.19-07.35.36:792][605]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Cardboard_Box_Mat7B9D191640AB791037A505BB5F1DCA4A.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Cabin_Pack/cabin_props/source/Cardboard_Box_Mat.uasset'
+[2023.03.19-07.35.37:983][605]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Showcase_CB_boxes_290x170x190_167EFA5A74CA2A93865B2FFB88781D2BB.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x170x190_1.uasset'
+[2023.03.19-07.35.38:232][605]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.03.19-07.35.38:232][605]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.19-07.35.38:463][605]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.03.19-07.35.38:463][605]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.19-07.35.39:558][605]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Showcase_CB_boxes_290x170x190_228D5FD0B4B47AA6A00CC9EB4CF7F0FB3.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x170x190_2.uasset'
+[2023.03.19-07.35.40:191][605]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Showcase_CB_boxes_290x170x190_304240C49431957DF97BAF59C21DEB875.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x170x190_3.uasset'
+[2023.03.19-07.35.41:127][605]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Showcase_CB_boxes_290x170x190_4A6243A9C48516B24579D819DC6080495.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x170x190_4.uasset'
+[2023.03.19-07.35.41:942][605]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Showcase_CB_boxes_290x290x290_1F56A74E647AA0B9D05383FA929164AE3.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x290x290_1.uasset'
+[2023.03.19-07.35.42:504][605]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Showcase_CB_boxes_290x290x290_22E826C9341A865253A06BA9103FD5A34.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x290x290_2.uasset'
+[2023.03.19-07.35.43:211][605]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Showcase_CB_boxes_290x290x400_1E501834B4158BA80AACA05B7AE129E57.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x290x400_1.uasset'
+[2023.03.19-07.35.44:142][605]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Showcase_CB_boxes_290x290x400_2D3ADB22D42F1FE74A3BF46AE8C3A2B0B.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x290x400_2.uasset'
+[2023.03.19-07.35.45:192][605]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Showcase_CB_boxes_430x210x270_1AF56B79D4B3272343087FC8EF83E513F.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_430x210x270_1.uasset'
+[2023.03.19-07.35.46:108][605]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Showcase_CB_boxes_430x210x270_2FDFFF38445E51C8015F2789401F76A9C.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_430x210x270_2.uasset'
+[2023.03.19-07.35.46:971][605]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Showcase_CB_boxes_430x210x270_3F17802384D90DC1D22871F8365A63B13.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_430x210x270_3.uasset'
+[2023.03.19-07.35.52:723][605]LogLinker: Warning: Failed to load '/Game/Ben/AtompshericSounds/SM_Wind_Insid_Cabin': Can't find file.
+[2023.03.19-07.35.52:724][605]LogLinker: Warning: Failed to load '/Game/Ben/AtompshericSounds/SM_Wind_Insid_Cabin': Can't find file.
+[2023.03.19-07.35.52:724][605]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Ben/AtompshericSounds/SM_Wind_Insid_Cabin.SM_Wind_Insid_Cabin'
+[2023.03.19-07.35.53:491][605]LogMaterial: Display: Material /Game/FP_Horror_Starter_Kit/Materials/M_Rock_Basalt.M_Rock_Basalt needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.03.19-07.35.53:497][605]LogMaterial: Display: Missing cached shadermap for M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: 90D224088C36B76346109F1C473A1FC5B8EC7851), compiling. 
+[2023.03.19-07.35.53:537][605]LogShaderCompilers: Display: Submitted 50 shader compile jobs with 'Low' priority
+[2023.03.19-07.35.53:537][605]MapCheck: Warning: M_Rock_Basalt Material /Game/FP_Horror_Starter_Kit/Materials/M_Rock_Basalt.M_Rock_Basalt was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.03.19-07.35.53:589][605]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 50
+[2023.03.19-07.35.53:589][605]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 43
+[2023.03.19-07.35.53:589][605]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 36
+[2023.03.19-07.35.53:589][605]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2023.03.19-07.35.53:589][605]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2023.03.19-07.35.53:589][605]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2023.03.19-07.35.53:589][605]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2023.03.19-07.35.53:589][605]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.03.19-07.35.53:589][605]LogShaderCompilers: Display: Started 50 'Local' shader compile jobs with 'Low' priority
+[2023.03.19-07.35.53:648][605]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Ben/Levels/Ben_Cabin_V3.Ben_Cabin_V3
+[2023.03.19-07.35.53:648][605]Cmd: MAP LOAD FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Levels/Ben_Cabin_V3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.19-07.35.53:648][605]LightingResults: New page: Lighting Build
+[2023.03.19-07.35.53:648][605]LoadErrors: New page: Loading map: Ben_Cabin_V3.umap
+[2023.03.19-07.35.53:696][605]LogWorld: UWorld::CleanupWorld for Ben_Cabin, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-07.35.53:696][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-07.35.53:697][605]MapCheck: New page: Map Check
+[2023.03.19-07.35.53:697][605]LightingResults: New page: Lighting Build
+[2023.03.19-07.35.53:709][605]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-07.35.53:740][605]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.03.19-07.35.53:744][605]LogAudio: Display: Audio Device (ID: 1) registered with world 'Ben_Cabin_V3'.
+[2023.03.19-07.35.55:640][605]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.19-07.35.55:640][605]LogAIModule: Creating AISystem for world Ben_Cabin_V3
+[2023.03.19-07.35.55:663][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.19-07.35.55:673][605]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.19-07.35.55:673][605]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.228ms to complete.
+[2023.03.19-07.35.55:673][605]LogFileHelpers: Loading map 'Ben_Cabin_V3' took 2.025
+[2023.03.19-07.35.55:702][605]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.19-07.35.55:702][605]LogContentValidation: Display: Validating StaticMesh /Game/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x170x190_4.Showcase_CB_boxes_290x170x190_4
+[2023.03.19-07.35.55:702][605]LogContentValidation: Display: Validating StaticMesh /Game/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x290x290_2.Showcase_CB_boxes_290x290x290_2
+[2023.03.19-07.35.55:702][605]LogContentValidation: Display: Validating StaticMesh /Game/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x170x190_3.Showcase_CB_boxes_290x170x190_3
+[2023.03.19-07.35.55:702][605]LogContentValidation: Display: Validating StaticMesh /Game/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x290x400_2.Showcase_CB_boxes_290x290x400_2
+[2023.03.19-07.35.55:702][605]LogContentValidation: Display: Validating StaticMesh /Game/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_430x210x270_3.Showcase_CB_boxes_430x210x270_3
+[2023.03.19-07.35.55:702][605]LogContentValidation: Display: Validating StaticMesh /Game/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x170x190_2.Showcase_CB_boxes_290x170x190_2
+[2023.03.19-07.35.55:702][605]LogContentValidation: Display: Validating StaticMesh /Game/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_430x210x270_2.Showcase_CB_boxes_430x210x270_2
+[2023.03.19-07.35.55:702][605]LogContentValidation: Display: Validating StaticMesh /Game/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x290x400_1.Showcase_CB_boxes_290x290x400_1
+[2023.03.19-07.35.55:702][605]LogContentValidation: Display: Validating StaticMesh /Game/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x290x290_1.Showcase_CB_boxes_290x290x290_1
+[2023.03.19-07.35.55:702][605]LogContentValidation: Display: Validating StaticMesh /Game/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_290x170x190_1.Showcase_CB_boxes_290x170x190_1
+[2023.03.19-07.35.55:702][605]LogContentValidation: Display: Validating Material /Game/Cabin_Pack/cabin_props/source/Cardboard_Box_Mat.Cardboard_Box_Mat
+[2023.03.19-07.35.55:702][605]LogContentValidation: Display: Validating StaticMesh /Game/Cabin_Pack/cabin_props/source/Showcase_CB_boxes_430x210x270_1.Showcase_CB_boxes_430x210x270_1
+[2023.03.19-07.35.55:813][605]LogSlate: Took 0.064183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.19-07.35.57:587][829]LogSlate: Window 'Message Log' being destroyed
+[2023.03.19-07.35.57:591][829]LogSlate: Window 'Message Log' being destroyed
