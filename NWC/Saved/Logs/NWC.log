@@ -904,3 +904,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.19-08.52.39:340][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.03.19-08.52.39:599][ 43]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2023.03.19-08.52.39:600][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-08.52.52:010][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.03.19-08.52.52:190][168]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/DeathB822EE8247BB7CA7E49FA882C2AD3DDD.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/FP_Horror_Starter_Kit/UI/Death.uasset'
+[2023.03.19-08.52.52:204][168]AssetCheck: New page: Asset Save: Death
+[2023.03.19-08.52.52:204][168]LogContentValidation: Display: Validating WidgetBlueprint /Game/FP_Horror_Starter_Kit/UI/Death.Death
