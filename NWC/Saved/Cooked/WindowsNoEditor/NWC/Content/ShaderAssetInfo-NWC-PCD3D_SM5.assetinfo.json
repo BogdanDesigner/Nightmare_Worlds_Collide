@@ -1,0 +1,1095 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3C38407CDC69B96A9C50A4DA3B221DED3C77CB47",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A2C097021E9B39610D55033ED6D2A4F270CD9EC6",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "693F5D8441932DCA3C010659E10D80AA4CFED6FC",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "C4359193E47C063A73C0B6249DA498374AA7DCFA",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D7D8117754FBCB3E6EAF4484CB55FBB0B7F49DB",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1DE5B3C3078204FBD8C2559DA141189D5E37777E",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B48EFA7785D362B0DE4CE89C337822BE851F69E",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial",
+				"/Game/QuestKitMini1/Materials/M_Button1_Mat",
+				"/Game/Ben/LoreItems/Letters/childs_drawing_Mat",
+				"/Game/Ben/LoreItems/Letters/Letter_1_Mat",
+				"/Game/Ben/LoreItems/Letters/Material_008",
+				"/Game/Ben/LoreItems/FamilyPhoto/photo01",
+				"/Game/Ben/LoreItems/NewItems/Map/07_-_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "70184CFFFB116A6DED3282DDC17BBBB75B712D41",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "3E88D05642439823638181EBE6EAD4401D3AFD46",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "2266C9E402E8BFB54E7D599DF2BE9C8C130D003F",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "634BE28D834184364042562DF8D2C9F628C4777D",
+			"Assets": [
+				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "11528503F2FADD1013D8803561433D655227459B",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "17AE3D86A09501D585721FA2DEE9909ECFE45EF3",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "31092181B2311DF8BFEFC02342BF71F96DDB0AC4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "390CDBF1087A3BD7F6C4AC756A31D2EFF50EB629",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EFA0ABFC95AAB7148BE65BAC8E4D403FA1C0640F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EA0F6AC7299BB7FEB5AA62C8CF6E1B66AF8EC6B6",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A714AEA3AB59E5E1063F5B045D9645674EC299E9",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4131408FCDC8DBD3F5D0F64AD1F0D9AC3ED13F71",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EDD9ADA24C2458F03EE9B1332FD26BB86BBD80AA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "BDB6049078966B7E0BE2307A7474CF8D1CB2FB85",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "DD30E89915AE2462924A4213E7BCDD2694D8C9AA",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "172D354B2E688E8694B4B56AA1A24E7CE17FFAB6",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F50CB4809F30B28444E9A8162646CD4396B7E073",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "6BE9EFACC4C3FB18F9DF805F9146228150B7FFD2",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "A3425B7B6BE14F897DA870ADD0BA4C022D47C073",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F5414245F4D31163D035B55938C5737CCEBB355E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "756823B80E02934AEFFBFFB5B3C64ECDEFEC5CF6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "D1CDE5662FED22405E7A4E13F4C26CCBBD37DEB7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Ben/LoreItems/Rucksack/Material_016",
+				"/Game/Ben/LoreItems/Rucksack/Material_015",
+				"/Game/Ben/LoreItems/Rucksack/Material_011",
+				"/Game/Ben/LoreItems/Rucksack/Material_008",
+				"/Game/Ben/LoreItems/Rucksack/Material_007",
+				"/Game/Ben/LoreItems/Rucksack/Material_005",
+				"/Game/Ben/LoreItems/FamilyPhoto/Velvet",
+				"/Game/Ben/LoreItems/FamilyPhoto/Chrome",
+				"/Game/Ben/Cinematics/Interview_Room/CharacterAnimations/JR/Ch22_hair",
+				"/Game/Ben/Cinematics/Interview_Room/CharacterAnimations/JR/Ch22_body",
+				"/Game/Ben/Levels/M_GroundMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "7AC6A1390AF3DBB7E84E8B4A480B7C7EA824BE87",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "14DAEDE5D017A5B05D9C06BE65F40ACF062368C6",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2D004EBC46FA930DC5EEB476F7B9347C43CA9F1B",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "78B65C37765E95A0B8DBA0C072BEE3403C871CDA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FC8D4E9DEB8E73CD3762EB1B60D28353B51F2E41",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "12C1F1A235C8BA81EC4F2D0CFB449FF28BCCEE3F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B77059808207F1E9A50633FEE88CFD5F758DA9A",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "24C433FACF74298D2606D7B0639A88B8B135B9A2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "C6BF47CB64F752FCE9305259E653EACD3344D89A",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D3E10B53B3CB7909C26F37653C968C68F61B4A4D",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "B4024600A5BB206FABD4393B1EB83AEFC3A1AE45",
+			"Assets": [
+				"/Game/Jigsaw_Puzzle/Demo/Material/M_Puzzle"
+			]
+		},
+		{
+			"ShaderMapHash": "F0FA02A67FBBCF715E35F0F2A4FFD15364BB3086",
+			"Assets": [
+				"/Game/Jigsaw_Puzzle/Demo/Material/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "72DB7E5A6B6B725CBECAD78E7FB2CF2F8EADC9A6",
+			"Assets": [
+				"/Game/Jigsaw_Puzzle/Demo/Material/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "6C80021D77B7FBE5BA85056BEC9D641E61C28711",
+			"Assets": [
+				"/Game/Jigsaw_Puzzle/Demo/Material/M_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "DF22970824430D8A3AD2C0266C312E0A6E0BC7A9",
+			"Assets": [
+				"/Game/Jigsaw_Puzzle/Demo/Material/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "59CF1AF7ECF4B017057AAC8B3B7A0478FBB81EEC",
+			"Assets": [
+				"/Game/FP_Horror_Starter_Kit/PhysicsInteraction/Materials/OutlineMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "AF630D10EC29E174CC6981011633B94F1A86668B",
+			"Assets": [
+				"/Game/FP_Horror_Starter_Kit/Materials/M_Rock_Marble_Polished",
+				"/Game/FP_Horror_Starter_Kit/Materials/M_Wood_Walnut",
+				"/Game/FP_Horror_Starter_Kit/Materials/M_Metal_Steel",
+				"/Game/FP_Horror_Starter_Kit/Materials/M_Metal_Gold",
+				"/Game/FP_Horror_Starter_Kit/Materials/M_Wood_Pine",
+				"/Game/FP_Horror_Starter_Kit/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "EB2A5DBA3E21D57FA75397E75BB1AFADBB0607E1",
+			"Assets": [
+				"/Game/QuestKitMini1/Demo/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "93F228320C0BD3D3614C34DBC4C29C9D148F2EDA",
+			"Assets": [
+				"/Game/QuestKitMini1/Demo/FirstPerson/Meshes/BaseMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
+			"Assets": [
+				"/Game/QuestKitMini1/Demo/FirstPerson/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "BE009093AFED865BC4E39A6002509DDDDF832735",
+			"Assets": [
+				"/Game/MonsterAi_Kit/DemoMap/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3BF2F56F091F75F08452FC0361457ADF822FBD9B",
+			"Assets": [
+				"/Game/School_Environment/Materials/Masters/M_FastTrack_Decal_Simple_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "798019BA9A24FB4128A38B8CCA06B59DA3516772",
+			"Assets": [
+				"/Game/MonsterAi_Kit/BloodFX/Blood"
+			]
+		},
+		{
+			"ShaderMapHash": "3A9F1B4481148EC4724A5AA09B37EC04B8C95F57",
+			"Assets": [
+				"/Game/HorrorGirl/Materiasl/Base/Mat_HorrorGirl_Hair_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "10B6AAC3B1B64FB68923F17B375DCFF6D8870C44",
+			"Assets": [
+				"/Game/HorrorGirl/Materiasl/Black_and_White/Mat_HorrorGirl_Dress_Black_and_White"
+			]
+		},
+		{
+			"ShaderMapHash": "C3329274B3848528F91A32C2EF3C0D60CA563D58",
+			"Assets": [
+				"/Game/HorrorGirl/Materiasl/Dark/Mat_HorrorGirl_Body_Dark"
+			]
+		},
+		{
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6B741B0B79F618F709BACC2A17FECF1D3D3BDF67",
+			"Assets": [
+				"/Game/School_Environment/Materials/Masters/M_FastTrack_Basic",
+				"/Game/School_Environment/Materials/MI_Urinal"
+			]
+		},
+		{
+			"ShaderMapHash": "720F15CE0E3C7163996F0861753DAF23014297D0",
+			"Assets": [
+				"/Game/School_Environment/Materials/Masters/M_FastTrack_Basic",
+				"/Game/School_Environment/Materials/MI_Urinal"
+			]
+		},
+		{
+			"ShaderMapHash": "4E09A530FE89A6A50AFC2EBC81E2BA66BC4B04EC",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_LockerA",
+				"/Game/School_Environment/Materials/MI_SoapAndDryer",
+				"/Game/School_Environment/Materials/MI_Camera",
+				"/Game/School_Environment/Materials/MI_Fire_Extinguisher",
+				"/Game/School_Environment/Materials/MI_DrinkFountain",
+				"/Game/School_Environment/Materials/MI_LockerB"
+			]
+		},
+		{
+			"ShaderMapHash": "25C437F8B4BA42D269CA68AF41206AED3034F793",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_LockerA",
+				"/Game/School_Environment/Materials/MI_SoapAndDryer",
+				"/Game/School_Environment/Materials/MI_Camera",
+				"/Game/School_Environment/Materials/MI_Fire_Extinguisher",
+				"/Game/School_Environment/Materials/MI_DrinkFountain",
+				"/Game/School_Environment/Materials/MI_LockerB"
+			]
+		},
+		{
+			"ShaderMapHash": "99716B26B7FFA7351AAD10259194109BA05D7C90",
+			"Assets": [
+				"/Game/Horror_Props/Materials/M_Man_in_bag"
+			]
+		},
+		{
+			"ShaderMapHash": "F5F98BF230E1EB01D94215AAD3849EB9E62C0CC4",
+			"Assets": [
+				"/Game/Ben/LoreItems/M_LoreItemGlow"
+			]
+		},
+		{
+			"ShaderMapHash": "014A9976676CE241A38F996913E19106D6FC8007",
+			"Assets": [
+				"/Game/School_Environment/Materials/Masters/M_FastTrack_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "CA38ED395056435C325884CBEB8E58AC11EF5D5F",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Sparkly_Plastic",
+				"/Game/School_Environment/Materials/MI_Bathroom_Tap",
+				"/Game/School_Environment/Materials/MI_Bathroom_Granite"
+			]
+		},
+		{
+			"ShaderMapHash": "756C9855992A625B86C5BA79DE90415D4956E189",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Painted_Metal_A",
+				"/Game/School_Environment/Materials/MI_Plaster_White_A",
+				"/Game/School_Environment/Materials/MI_Bare_Metal_A",
+				"/Game/School_Environment/Materials/MI_SmokeDetector",
+				"/Game/School_Environment/Materials/MI_Posters",
+				"/Game/School_Environment/Materials/MI_Cork",
+				"/Game/School_Environment/Materials/MI_Desktop",
+				"/Game/School_Environment/Materials/MI_Clock",
+				"/Game/School_Environment/Materials/MI_ChalkBoard",
+				"/Game/School_Environment/Materials/MI_Painter_Metal_A"
+			]
+		},
+		{
+			"ShaderMapHash": "1C75BEFF89A25692C03DFAFC52FC7E31A4039FE5",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Painted_Metal_A",
+				"/Game/School_Environment/Materials/MI_Plaster_White_A",
+				"/Game/School_Environment/Materials/MI_Bare_Metal_A",
+				"/Game/School_Environment/Materials/MI_SmokeDetector",
+				"/Game/School_Environment/Materials/MI_Posters",
+				"/Game/School_Environment/Materials/MI_Cork",
+				"/Game/School_Environment/Materials/MI_Desktop",
+				"/Game/School_Environment/Materials/MI_Clock",
+				"/Game/School_Environment/Materials/MI_ChalkBoard",
+				"/Game/School_Environment/Materials/MI_Painter_Metal_A"
+			]
+		},
+		{
+			"ShaderMapHash": "904F58FB7391C4FE9C8D4757036E0850EB3719D4",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_WallTiles_A1_Dark",
+				"/Game/School_Environment/Materials/MI_WallTiles_A",
+				"/Game/School_Environment/Materials/MI_Floor_Tiles_Polished_Light"
+			]
+		},
+		{
+			"ShaderMapHash": "31CC32733AA5523E1596F5F58A92C5892465D927",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_WallTiles_A1_Dark",
+				"/Game/School_Environment/Materials/MI_WallTiles_A",
+				"/Game/School_Environment/Materials/MI_Floor_Tiles_Polished_Light"
+			]
+		},
+		{
+			"ShaderMapHash": "7F3285B8C1F4E78E538EE2024404149067D0570D",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Plain_Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "876641838DD2076621C9F069C306BF7CFDA7FB19",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_ToiletStallB_Plastic",
+				"/Game/School_Environment/Materials/MI_ToiletStallB_Metal",
+				"/Game/School_Environment/Materials/MI_ToiletStallA_Plastic",
+				"/Game/School_Environment/Materials/MI_ToiletStallA_Metal",
+				"/Game/School_Environment/Materials/MI_StudentDesk_Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "96BB4B86C6F258A7D709E38730BE5A1AA952D934",
+			"Assets": [
+				"/Game/School_Environment/Materials/Masters/M_FastTrack_Atlas"
+			]
+		},
+		{
+			"ShaderMapHash": "D3F31215DBA54A8A30D1F7479C00E9D5E94E11E5",
+			"Assets": [
+				"/Game/School_Environment/Materials/Masters/M_FastTrack_Atlas"
+			]
+		},
+		{
+			"ShaderMapHash": "BA284E7F34F5A053393F227A3A4631F8BA75C1A9",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Bolts"
+			]
+		},
+		{
+			"ShaderMapHash": "609674E77129218BDDE889CF35BDC1E0D1935BCD",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Bolts"
+			]
+		},
+		{
+			"ShaderMapHash": "A141ADD074A53A5315EA9152F94807FD0092CE7E",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_VendingMachine_A"
+			]
+		},
+		{
+			"ShaderMapHash": "22E44C94C13FB83DB73DA7212CFAE2381721C772",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_VendingMachine_A"
+			]
+		},
+		{
+			"ShaderMapHash": "C6CAB18FDB8B2D61FB6AC209B69B34754B17F73F",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_urinal_Seperator"
+			]
+		},
+		{
+			"ShaderMapHash": "4547F1EC826B85E0CD8E2131B3A35C9809A07845",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Trashbin_Round_Metal",
+				"/Game/School_Environment/Materials/MI_DoubleDoor_Frames"
+			]
+		},
+		{
+			"ShaderMapHash": "75B0F91FEE6406D421524D069273F1EA5332590B",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Toilet"
+			]
+		},
+		{
+			"ShaderMapHash": "EF74103B73FBC652647FE5CB968EAF890DA14733",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_TeacherDesk_Wood",
+				"/Game/School_Environment/Materials/MI_StudentDesk_Wood",
+				"/Game/School_Environment/Materials/MI_RoundTable_Wood",
+				"/Game/School_Environment/Materials/MI_StudentChair_Plastic",
+				"/Game/School_Environment/Materials/MI_CafeteriaTable_Wood",
+				"/Game/School_Environment/Materials/MI_Bookcase_Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "8F65886A9604993B118223858C46E8696A8EFDDB",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_TeacherDesk_Metal1",
+				"/Game/School_Environment/Materials/MI_RoundTable_Metal",
+				"/Game/School_Environment/Materials/MI_StudentChair_Metal",
+				"/Game/School_Environment/Materials/MI_Cafeteria_Module_C_Granite",
+				"/Game/School_Environment/Materials/MI_Cafeteria_Module_A_Granite"
+			]
+		},
+		{
+			"ShaderMapHash": "7818A7225426ED1A886C4ED536D92E8E7F99BD05",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Teacher_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "A53F24B2A88660998A62D17F20B87B25207D0B34",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_OfficeSupplies"
+			]
+		},
+		{
+			"ShaderMapHash": "747BC9C3C75388FE1E0BD60CB7E3F9A653B27635",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_OfficeSupplies"
+			]
+		},
+		{
+			"ShaderMapHash": "82A58B7715843CC006D9DE16BC43C0B5A22FA12E",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Computer_Applicants",
+				"/Game/School_Environment/Materials/MI_FireAlarm",
+				"/Game/School_Environment/Materials/MI_DoubleDoor_Unique",
+				"/Game/School_Environment/Materials/MI_Cutlery",
+				"/Game/School_Environment/Materials/MI_FireBell"
+			]
+		},
+		{
+			"ShaderMapHash": "A1240038CC5E0F8CA5DADA9EC07A10E7EE330913",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Computer_Applicants",
+				"/Game/School_Environment/Materials/MI_FireAlarm",
+				"/Game/School_Environment/Materials/MI_DoubleDoor_Unique",
+				"/Game/School_Environment/Materials/MI_Cutlery",
+				"/Game/School_Environment/Materials/MI_FireBell"
+			]
+		},
+		{
+			"ShaderMapHash": "3F17B772583F386F3F413787700E068372D5164F",
+			"Assets": [
+				"/Game/School_Environment/Materials/Masters/M_Glass_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "D888286B327D47F154BB22270EB15F411441A9AF",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_SignsA",
+				"/Game/School_Environment/Materials/MI_IndustrealLight"
+			]
+		},
+		{
+			"ShaderMapHash": "9C21C5BF5E6F7346EE0E98E056F8561C11E2DAF4",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_SignsA",
+				"/Game/School_Environment/Materials/MI_IndustrealLight"
+			]
+		},
+		{
+			"ShaderMapHash": "CC9C9AB58769F71D087DF011B1D1742C5FDE9508",
+			"Assets": [
+				"/Game/School_Environment/Materials/M_ChalkWipes"
+			]
+		},
+		{
+			"ShaderMapHash": "A4C055DF180318FFE37AF086F3CBD24B993D8D6E",
+			"Assets": [
+				"/Game/School_Environment/Materials/Masters/M_Light"
+			]
+		},
+		{
+			"ShaderMapHash": "E86CB94084905CDDE0B6CEF42B126D85A40B53BB",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_CafeteriaTable_Metal",
+				"/Game/School_Environment/Materials/MI_Cafeteria_Module_C_Metal",
+				"/Game/School_Environment/Materials/MI_Cafeteria_Module_A_Metal",
+				"/Game/School_Environment/Materials/MI_StorageCloset_Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "5A7F06B0D3709AFBB3D78A899C35D25F031207C9",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Cafeteria_Module_C_Plastic",
+				"/Game/School_Environment/Materials/MI_Cafeteria_Module_A_Plastic"
+			]
+		},
+		{
+			"ShaderMapHash": "3D7C9D78E486C10E71BA0F61C5C77E6BAACE0E47",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Books"
+			]
+		},
+		{
+			"ShaderMapHash": "8779C6D64C62AE3A2B38E5842D5DCC9615B13CAB",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Books"
+			]
+		},
+		{
+			"ShaderMapHash": "2019C3B102BE470605219F9EBE632D474A0E010A",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Bathroom_Sink"
+			]
+		},
+		{
+			"ShaderMapHash": "E1181C2EE292F1265CF6B8803D1C9AFDAF11ECD9",
+			"Assets": [
+				"/Game/School_Environment/Materials/Masters/M_FastTrack_Decal_Complex_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "A4BC21BDB19D9A2A7ACA48D6578362C6FF2248BE",
+			"Assets": [
+				"/Game/QuestKitMini1/Materials/M_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "865C1FC0BECE6F9F8EE252CBC0FF4BCD43002DB2",
+			"Assets": [
+				"/Game/QuestKitMini1/Materials/M_BaseEmissive"
+			]
+		},
+		{
+			"ShaderMapHash": "962FAF6450E42A54B9F8FFFAC915FE7E1250827C",
+			"Assets": [
+				"/Game/Ben/Cinematics/ChaseSceneStart/MainCharacter/Ch22_hair",
+				"/Game/Ben/Cinematics/GirlDrawingCorridor/MainCharacter/Ch22_hair",
+				"/Game/Ben/Cinematics/CabinTransitionEnd/Main_Character/GettingUp/Ch22_hair",
+				"/Game/Ben/Cinematics/Interview_Room/CharacterAnimations/Misc/NPC2/Ch12_hair",
+				"/Game/Ben/Cinematics/Cabin_Intro/MainCharacter/StandingIdle/Ch22_hair",
+				"/Game/Ben/Cinematics/Cabin_Intro/MainCharacter/ExitingCar/Ch22_hair"
+			]
+		},
+		{
+			"ShaderMapHash": "7794CA0FF3FD6BFF377A8B77D050CDE5A5F45314",
+			"Assets": [
+				"/Game/Ben/Cinematics/ChaseSceneStart/MainCharacter/Ch22_body",
+				"/Game/Ben/Cinematics/GirlDrawingCorridor/MainCharacter/Ch22_body",
+				"/Game/Ben/Cinematics/CabinTransitionEnd/Main_Character/GettingUp/Ch22_body",
+				"/Game/Ben/Cinematics/Interview_Room/CharacterAnimations/Dectective/Ch33_body",
+				"/Game/Ben/Cinematics/Interview_Room/CharacterAnimations/Misc/NPC3/Ch31_body",
+				"/Game/Ben/Cinematics/Interview_Room/CharacterAnimations/Misc/NPC2/Ch12_body",
+				"/Game/Ben/Cinematics/Interview_Room/CharacterAnimations/Misc/NPC1/Ch07_body",
+				"/Game/Ben/Cinematics/Cabin_Intro/MainCharacter/StandingIdle/Ch22_body",
+				"/Game/Ben/Cinematics/Cabin_Intro/MainCharacter/ExitingCar/Ch22_body"
+			]
+		},
+		{
+			"ShaderMapHash": "EDC2EDBC79360E0F37630D4634A7EE2C6807EE6A",
+			"Assets": [
+				"/Game/Ben/Cinematics/ChaseEnd/Knife/knifeMat",
+				"/Game/Ben/LoreItems/Map/M_Paper"
+			]
+		},
+		{
+			"ShaderMapHash": "1F709444E1DB11611ADC991B50F337A686F82519",
+			"Assets": [
+				"/Game/Ben/LoreItems/Radio/20_-_Default",
+				"/Game/Cabin_Pack/cabin_props/source/Cardboard_Box_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "F0FF0D491861F0468E47C556697084AAC8F00DA9",
+			"Assets": [
+				"/Game/Ben/LoreItems/Radio/M_Radio"
+			]
+		},
+		{
+			"ShaderMapHash": "63B64E387ABEE5FDF2C11BD4F49416E2FB599099",
+			"Assets": [
+				"/Game/Ben/LoreItems/BloodyKnife/M_Handle",
+				"/Game/Ben/LoreItems/BloodyKnife/M_Buttons",
+				"/Game/Ben/LoreItems/BloodyKnife/M_Blade"
+			]
+		},
+		{
+			"ShaderMapHash": "8677D654463B99D2FC07253FFF812995D05A5B12",
+			"Assets": [
+				"/Game/Ben/LoreItems/Cross/lambert1",
+				"/Game/Ben/LoreItems/Newspaper/M_Newspaper"
+			]
+		},
+		{
+			"ShaderMapHash": "BC1A5F2AE0118FED6DFF3ABB69D58FFD5176A59A",
+			"Assets": [
+				"/Game/Ben/Jumpscares/Event1/Man/M_Teacher"
+			]
+		},
+		{
+			"ShaderMapHash": "D4AB7775B024B30DC771FD17903DBA70EE1B797B",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Chain"
+			]
+		},
+		{
+			"ShaderMapHash": "10850280371E3CD183B45784757F46C604574EC0",
+			"Assets": [
+				"/Game/Ben/LoreItems/Map/M_Wrap"
+			]
+		},
+		{
+			"ShaderMapHash": "3E5334541DD469C4F09A04B0D5436845C9D88FF5",
+			"Assets": [
+				"/Game/Cabin_Pack/Master_Mat/Master_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "23122AFE8DFA288E070634FF9A4549AE05EF518A",
+			"Assets": [
+				"/Game/Cabin_Pack/Dresser/dresser_handles1"
+			]
+		},
+		{
+			"ShaderMapHash": "49843A303C8433E50930064CBA1177813AAB64A4",
+			"Assets": [
+				"/Game/Cabin_Pack/Dresser/dresser_wood1"
+			]
+		},
+		{
+			"ShaderMapHash": "53B5ABE096A374B8642812E88D6FE990E1662A03",
+			"Assets": [
+				"/Game/Modular_Cabin/Materials/Mat_Log"
+			]
+		},
+		{
+			"ShaderMapHash": "481302A6760722D283E8421562932C1D988DE3E6",
+			"Assets": [
+				"/Game/HorrorGirl/Materiasl/Bear/Mat_HorrorGirl_Bear"
+			]
+		},
+		{
+			"ShaderMapHash": "A38DB3C9D4746F5C3CD4E46A1E115090B7EB8B28",
+			"Assets": [
+				"/Game/Cedar/Master/M_BillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "FEFD68017F26F971CA4895C78AAF55D679E80ACB",
+			"Assets": [
+				"/Game/Cedar/Master/M_TransitionMaster",
+				"/Game/Cedar/Trees/Tree_Instances/MI_Cedar_Transition_NoMoss"
+			]
+		},
+		{
+			"ShaderMapHash": "A12A771F0988461E26BC39292FFB60583F3E6523",
+			"Assets": [
+				"/Game/Cedar/Trees/Tree_Instances/MI_Cedar_Roots"
+			]
+		},
+		{
+			"ShaderMapHash": "764FC4556D9DE9F1C84F77318AA822969155A06A",
+			"Assets": [
+				"/Game/Cedar/Master/M_GroundMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "7B5EA5B423352168D0A5244FE91BCE79AAA6D98E",
+			"Assets": [
+				"/Game/Cedar/Master/M_LeafMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "FB7796CB2B8A45E61E9B70D1E6FBE3A4871F42BA",
+			"Assets": [
+				"/Game/Cedar/Trees/Tree_Instances/MI_Cedar_Leaf"
+			]
+		},
+		{
+			"ShaderMapHash": "6D4296B14F0EC7793EA675BF37AA9837BC065F96",
+			"Assets": [
+				"/Game/Cedar/Master/M_TrunkMaster",
+				"/Game/Cedar/Trees/Tree_Instances/MI_Cedar_Trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "A1ADF4BAE1AE7D63024D5D376756FAE6993BF185",
+			"Assets": [
+				"/Game/Cedar/Trees/Tree_Instances/MI_Cedar_Transition",
+				"/Game/Cedar/Trees/Tree_Instances/MI_Cedar_Transition_Dead"
+			]
+		},
+		{
+			"ShaderMapHash": "96D2E2E38C7129DEB631AFAC82644D17D3B1718B",
+			"Assets": [
+				"/Game/Cedar/Master/M_FoliageMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "BF77E0751CD6E5544BE3E241C30762F2F7FB3FB0",
+			"Assets": [
+				"/Game/Cedar/Plants/Plants_Instances/MI_Plant",
+				"/Game/Cedar/Plants/Plants_Instances/MI_Fern_Small",
+				"/Game/Cedar/Plants/Plants_Instances/MI_Fern"
+			]
+		},
+		{
+			"ShaderMapHash": "A3CEF4EFE0924016A3CAE27398D79DF34BD2559B",
+			"Assets": [
+				"/Game/Cedar/Master/M_LandscapeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "FA199C54A9D39ED03B893C4E9049B851A61C0B17",
+			"Assets": [
+				"/Game/MudV2/mudimport"
+			]
+		},
+		{
+			"ShaderMapHash": "FE7814F4FFA8E12AC58BB692FC157C259A16CC5F",
+			"Assets": [
+				"/Game/Cedar/Trees/Tree_Instances/MI_Cedar_Trunk_Dead"
+			]
+		},
+		{
+			"ShaderMapHash": "0C3EEECC1E58CD9C8A0E5B3F8E8FA47055245635",
+			"Assets": [
+				"/Game/StonePineForest/Materials/MasterMaterials/M_Fence"
+			]
+		},
+		{
+			"ShaderMapHash": "16AAADF4D7F10CABD1057382BF613D2A4E330D1F",
+			"Assets": [
+				"/Game/Modular_Cabin/Materials/Mat_Roof",
+				"/Game/Modular_Cabin/Materials/Mat_Plank"
+			]
+		},
+		{
+			"ShaderMapHash": "0FC3BF4D3FB9F8804698FBF0B8953DD585ACA6AF",
+			"Assets": [
+				"/Game/Ben/Cinematics/Interview_Room/CharacterAnimations/Dectective/Ch33_hair",
+				"/Game/Ben/Cinematics/Interview_Room/CharacterAnimations/Misc/NPC1/Ch07_hair"
+			]
+		},
+		{
+			"ShaderMapHash": "8FD4AB7FDC0BC3C837929677393195B7422CE32B",
+			"Assets": [
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/TurnRightAnim/wp_tire_offroad",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/TurnRightAnim/UCB_GLASS_CLEAN",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/TurnRightAnim/UCB_BOTTOM",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/TurnRightAnim/RO3_Stamped",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/TurnRightAnim/Numberplates_dif",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/TurnRightAnim/Interior",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/TurnRightAnim/GENERIC_LIGHT",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/TurnRightAnim/GEN4DR_INTERIOR",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/TurnRightAnim/Bodycolor",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/Interior",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/wp_tire_offroad",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/UCB_GLASS_CLEAN",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/UCB_BOTTOM",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/RO3_Stamped",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/GENERIC_LIGHT",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/GEN4DR_INTERIOR",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/Bodycolor",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/Numberplates_dif1"
+			]
+		},
+		{
+			"ShaderMapHash": "1926D191F42CD12D31AF66B20A4F6302EBAE2158",
+			"Assets": [
+				"/Game/Ben/Cinematics/Cabin_Ingame_1/JamieCharacter/Model/Topmat",
+				"/Game/Ben/Cinematics/Cabin_Ingame_1/JamieCharacter/Model/Shoesmat",
+				"/Game/Ben/Cinematics/Cabin_Ingame_1/JamieCharacter/Model/Hairmat",
+				"/Game/Ben/Cinematics/Cabin_Ingame_1/JamieCharacter/Model/Bottommat",
+				"/Game/Ben/Cinematics/Cabin_Ingame_1/JamieCharacter/Walking/Bodymat",
+				"/Game/Ben/Cinematics/Cabin_Ingame_1/JamieCharacter/Walking/Topmat",
+				"/Game/Ben/Cinematics/Cabin_Ingame_1/JamieCharacter/Walking/Shoesmat",
+				"/Game/Ben/Cinematics/Cabin_Ingame_1/JamieCharacter/Walking/Hairmat",
+				"/Game/Ben/Cinematics/Cabin_Ingame_1/JamieCharacter/Walking/Bottommat"
+			]
+		},
+		{
+			"ShaderMapHash": "95B3910418E5A65D86619C05D1BD7126CDFA9D68",
+			"Assets": [
+				"/Game/Ben/Cinematics/Cabin_Ingame_1/JamieCharacter/Model/Bodymat",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/M_Glass_Jeep"
+			]
+		},
+		{
+			"ShaderMapHash": "C28202F261E112298247AAD9A0FD8B9826B03EAB",
+			"Assets": [
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/M_Number_Plates",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/M_Lights_Jeep"
+			]
+		},
+		{
+			"ShaderMapHash": "A145CB86FEA21B9722E1FD7614C3E2EBE044AC3A",
+			"Assets": [
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/M_Tyre_Jeep",
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/M_Rims_Jeep"
+			]
+		},
+		{
+			"ShaderMapHash": "1B8307CE9C7F052E74C7ADD89952C22BEBDE837C",
+			"Assets": [
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/M_Exterior_Jeep"
+			]
+		},
+		{
+			"ShaderMapHash": "FF0F846B0FE4442777473EE150AC05CEF326E279",
+			"Assets": [
+				"/Game/Ben/Cinematics/Cabin_Intro/Jeep/M_Bottom_Jeep"
+			]
+		},
+		{
+			"ShaderMapHash": "BB376B41660D619E49C1367788EF05DE701F818E",
+			"Assets": [
+				"/Game/School_Environment/Materials/MI_Table_Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "3AA51976CDD6F99A90396ED755D9215C3ADA0393",
+			"Assets": [
+				"/Game/Ben/Cinematics/Interview_Room/CharacterAnimations/Misc/NPC3/Ch31_hair"
+			]
+		},
+		{
+			"ShaderMapHash": "E4B94EB7F2AC199D6EC0FFBCCF7328FD20FBC1FA",
+			"Assets": [
+				"/Game/Ben/Cinematics/Interview_Room/CharacterAnimations/JR/Ch22_body1"
+			]
+		},
+		{
+			"ShaderMapHash": "13AAEF5DB8DCD8C1D6C3DA302745A87EE1771B6C",
+			"Assets": [
+				"/Game/Ben/Cinematics/Cabin_Intro/MainCharacter/SatStillDrive/Ch22_hair"
+			]
+		},
+		{
+			"ShaderMapHash": "DE7D412797FE4732F4C299B329EE461124473C41",
+			"Assets": [
+				"/Game/Ben/Fonts/M_PoorRichFont"
+			]
+		},
+		{
+			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "56CC1D6D678140F797F974BF555497A897913380",
+			"Assets": [
+				"/Game/Ben/Levels/CabinEnd",
+				"/Game/Ben/Levels/Ben_Cabin_V3"
+			]
+		},
+		{
+			"ShaderMapHash": "64CD239C8F87C7705EA398A217DB0976A05538CA",
+			"Assets": [
+				"/Game/Ben/Levels/CabinEnd",
+				"/Game/Ben/Levels/Ben_Cabin_V3"
+			]
+		},
+		{
+			"ShaderMapHash": "2506C2B46FD0FCD6A90967CE133C90230A8917D6",
+			"Assets": [
+				"/Game/Ben/Cinematics/Corridor_Start/MainCharacter/GetUp/Ch22_hair"
+			]
+		},
+		{
+			"ShaderMapHash": "6C79A6F7E9D35A1CF69E7A0E042AF013B627C06D",
+			"Assets": [
+				"/Game/Ben/Cinematics/Corridor_Start/MainCharacter/GetUp/Ch22_body"
+			]
+		},
+		{
+			"ShaderMapHash": "8FFC326FCA22D8C7522B8D9E3998DAA03D8A1101",
+			"Assets": [
+				"/Game/Ben/Cinematics/BullyScene/M_GlowRed"
+			]
+		},
+		{
+			"ShaderMapHash": "147FD7A728A6D16E9F37082C29292B6C11CBC6BB",
+			"Assets": [
+				"/Game/Ben/Cinematics/BullyScene/M_GlowBlue"
+			]
+		},
+		{
+			"ShaderMapHash": "37D58B1B827E1543C755AF10B3B16AD3D05F6CB8",
+			"Assets": [
+				"/Game/Ben/Levels/CabinEnd"
+			]
+		},
+		{
+			"ShaderMapHash": "8B818BA8D58CC9D3B06618A05D639F4EEEE9E8F6",
+			"Assets": [
+				"/Game/AnimalVarietyPack/Crow/Materials/M_Crow"
+			]
+		}
+	]
+}
