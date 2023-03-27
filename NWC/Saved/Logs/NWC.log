@@ -6830,3 +6830,1022 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.27-11.39.14:595][821]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
 [2023.03.27-11.39.14:595][821]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
 [2023.03.27-11.39.22:258][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.03.27-11.40.08:849][ 57]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinInGame1.JR_CabinInGame1
+[2023.03.27-11.40.11:594][316]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.40.14:237][564]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinInGame14937759647FC9B6437670085EE4DE569.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinInGame1.uasset'
+[2023.03.27-11.40.14:248][564]AssetCheck: New page: Asset Save: JR_CabinInGame1
+[2023.03.27-11.40.14:248][564]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinInGame1.JR_CabinInGame1
+[2023.03.27-11.40.16:746][823]LogSlate: Window 'JR_CabinInGame1' being destroyed
+[2023.03.27-11.40.16:765][823]LogSlate: Window 'JR_CabinInGame1' being destroyed
+[2023.03.27-11.40.17:897][938]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_CabinInGame2...
+[2023.03.27-11.40.17:898][938]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinInGame2.JR_CabinInGame2 will be modified from 40 to 40.
+[2023.03.27-11.40.17:974][938]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1175040 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinInGame2.JR_CabinInGame2.
+[2023.03.27-11.40.19:966][ 50]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinInGame2.JR_CabinInGame2
+[2023.03.27-11.40.23:470][364]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinInGame2BBE922834E047456C81CA9B42118E535.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinInGame2.uasset'
+[2023.03.27-11.40.23:482][364]AssetCheck: New page: Asset Save: JR_CabinInGame2
+[2023.03.27-11.40.23:482][364]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinInGame2.JR_CabinInGame2
+[2023.03.27-11.40.24:378][458]LogSlate: Window 'JR_CabinInGame2' being destroyed
+[2023.03.27-11.40.24:396][458]LogSlate: Window 'JR_CabinInGame2' being destroyed
+[2023.03.27-11.40.25:565][575]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinInGame3.JR_CabinInGame3
+[2023.03.27-11.40.28:048][811]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.40.29:370][925]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinInGame3498BC52C4FA7781866F6AD8D9F90D19D.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinInGame3.uasset'
+[2023.03.27-11.40.29:381][925]AssetCheck: New page: Asset Save: JR_CabinInGame3
+[2023.03.27-11.40.29:381][925]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinInGame3.JR_CabinInGame3
+[2023.03.27-11.40.30:851][ 52]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinInGame4.JR_CabinInGame4
+[2023.03.27-11.40.33:986][355]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinInGame44E4D1EE14B630E8E56B309AEC3CCBEDA.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinInGame4.uasset'
+[2023.03.27-11.40.33:997][355]AssetCheck: New page: Asset Save: JR_CabinInGame4
+[2023.03.27-11.40.33:997][355]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinInGame4.JR_CabinInGame4
+[2023.03.27-11.40.35:133][463]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine1.JR_CabinLine1
+[2023.03.27-11.40.38:020][718]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinLine162E4C30F482C45B4A5CCF59760B1CEC3.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinLine1.uasset'
+[2023.03.27-11.40.38:029][718]AssetCheck: New page: Asset Save: JR_CabinLine1
+[2023.03.27-11.40.38:029][718]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine1.JR_CabinLine1
+[2023.03.27-11.40.39:860][901]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_CabinLine10...
+[2023.03.27-11.40.39:860][901]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine10.JR_CabinLine10 will be modified from 40 to 40.
+[2023.03.27-11.40.39:932][901]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1101312 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine10.JR_CabinLine10.
+[2023.03.27-11.40.39:950][901]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine10.JR_CabinLine10
+[2023.03.27-11.40.42:753][146]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinLine108260752649E62F46E6B9EDA3B09A535E.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinLine10.uasset'
+[2023.03.27-11.40.42:763][146]AssetCheck: New page: Asset Save: JR_CabinLine10
+[2023.03.27-11.40.42:763][146]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine10.JR_CabinLine10
+[2023.03.27-11.40.44:237][298]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_CabinLine2...
+[2023.03.27-11.40.44:237][298]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine2.JR_CabinLine2 will be modified from 40 to 40.
+[2023.03.27-11.40.44:314][298]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1216512 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine2.JR_CabinLine2.
+[2023.03.27-11.40.44:332][298]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine2.JR_CabinLine2
+[2023.03.27-11.40.46:505][503]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.40.47:686][604]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinLine2315F4B034A928C16F022139985087012.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinLine2.uasset'
+[2023.03.27-11.40.47:696][604]AssetCheck: New page: Asset Save: JR_CabinLine2
+[2023.03.27-11.40.47:696][604]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine2.JR_CabinLine2
+[2023.03.27-11.40.49:266][740]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine3.JR_CabinLine3
+[2023.03.27-11.40.51:949][984]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.40.53:003][ 79]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinLine381FB3D4346B159A26933BBA816023BCF.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinLine3.uasset'
+[2023.03.27-11.40.53:013][ 79]AssetCheck: New page: Asset Save: JR_CabinLine3
+[2023.03.27-11.40.53:013][ 79]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine3.JR_CabinLine3
+[2023.03.27-11.40.54:333][199]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/Jr_CabinLine4.Jr_CabinLine4
+[2023.03.27-11.40.57:636][496]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Jr_CabinLine4ED8338164DC7F165BB20EC855A970B76.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/Jr_CabinLine4.uasset'
+[2023.03.27-11.40.57:645][496]AssetCheck: New page: Asset Save: Jr_CabinLine4
+[2023.03.27-11.40.57:645][496]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/Jr_CabinLine4.Jr_CabinLine4
+[2023.03.27-11.40.58:999][615]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine5.JR_CabinLine5
+[2023.03.27-11.41.02:020][898]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinLine53CE1166E438679F162CBBABFE0309EE4.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinLine5.uasset'
+[2023.03.27-11.41.02:030][898]AssetCheck: New page: Asset Save: JR_CabinLine5
+[2023.03.27-11.41.02:030][898]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine5.JR_CabinLine5
+[2023.03.27-11.41.03:435][ 28]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine6.JR_CabinLine6
+[2023.03.27-11.41.06:570][329]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinLine64FB93C2E4BB5B9E9A6937E90B6027C82.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinLine6.uasset'
+[2023.03.27-11.41.06:578][329]AssetCheck: New page: Asset Save: JR_CabinLine6
+[2023.03.27-11.41.06:578][329]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine6.JR_CabinLine6
+[2023.03.27-11.41.08:299][488]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine7.JR_CabinLine7
+[2023.03.27-11.41.11:387][776]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinLine7FE7B3E90487837D43B82428A9F19FDC5.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinLine7.uasset'
+[2023.03.27-11.41.11:397][776]AssetCheck: New page: Asset Save: JR_CabinLine7
+[2023.03.27-11.41.11:397][776]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine7.JR_CabinLine7
+[2023.03.27-11.41.12:831][919]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine8.JR_CabinLine8
+[2023.03.27-11.41.16:237][237]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinLine85FF403B647462A8C4404F89A540EC27B.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinLine8.uasset'
+[2023.03.27-11.41.16:246][237]AssetCheck: New page: Asset Save: JR_CabinLine8
+[2023.03.27-11.41.16:246][237]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine8.JR_CabinLine8
+[2023.03.27-11.41.17:516][357]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine9.JR_CabinLine9
+[2023.03.27-11.41.20:770][653]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_CabinLine9534F95A24C4637F24ACB1F9C027B717A.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_CabinLine9.uasset'
+[2023.03.27-11.41.20:779][653]AssetCheck: New page: Asset Save: JR_CabinLine9
+[2023.03.27-11.41.20:779][653]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_CabinLine9.JR_CabinLine9
+[2023.03.27-11.41.22:568][831]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_InterviewLine1.JR_InterviewLine1
+[2023.03.27-11.41.25:503][103]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_InterviewLine1039EA6514913AAF98EB7AF8D696586D1.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_InterviewLine1.uasset'
+[2023.03.27-11.41.25:514][103]AssetCheck: New page: Asset Save: JR_InterviewLine1
+[2023.03.27-11.41.25:514][103]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_InterviewLine1.JR_InterviewLine1
+[2023.03.27-11.41.27:350][280]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_InterviewLine2.JR_InterviewLine2
+[2023.03.27-11.41.30:810][588]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_InterviewLine21EA062974BEA5F30F34112A87ADE2C41.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_InterviewLine2.uasset'
+[2023.03.27-11.41.30:819][588]AssetCheck: New page: Asset Save: JR_InterviewLine2
+[2023.03.27-11.41.30:819][588]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_InterviewLine2.JR_InterviewLine2
+[2023.03.27-11.41.33:350][802]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_InterviewLine3.JR_InterviewLine3
+[2023.03.27-11.41.36:204][ 62]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_InterviewLine3908E1CC847E1919A79680A9C0190D417.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_InterviewLine3.uasset'
+[2023.03.27-11.41.36:213][ 62]AssetCheck: New page: Asset Save: JR_InterviewLine3
+[2023.03.27-11.41.36:213][ 62]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_InterviewLine3.JR_InterviewLine3
+[2023.03.27-11.41.37:591][201]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_SchoolInGame1...
+[2023.03.27-11.41.37:592][201]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame1.JR_SchoolInGame1 will be modified from 40 to 40.
+[2023.03.27-11.41.37:681][201]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1230336 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame1.JR_SchoolInGame1.
+[2023.03.27-11.41.38:249][232]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame1.JR_SchoolInGame1
+[2023.03.27-11.41.41:653][561]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolInGame17A08E7E04A6B365CD315D3B1C665CF99.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame1.uasset'
+[2023.03.27-11.41.41:666][561]AssetCheck: New page: Asset Save: JR_SchoolInGame1
+[2023.03.27-11.41.41:666][561]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame1.JR_SchoolInGame1
+[2023.03.27-11.41.44:083][797]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame2.JR_SchoolInGame2
+[2023.03.27-11.41.46:286][ 10]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.41.48:557][204]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolInGame295A3B5F24480A297BC2261B10B5F9F75.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame2.uasset'
+[2023.03.27-11.41.48:567][204]AssetCheck: New page: Asset Save: JR_SchoolInGame2
+[2023.03.27-11.41.48:567][204]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame2.JR_SchoolInGame2
+[2023.03.27-11.41.50:348][387]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_SchoolInGame3...
+[2023.03.27-11.41.50:348][387]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame3.JR_SchoolInGame3 will be modified from 40 to 40.
+[2023.03.27-11.41.50:402][387]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 723456 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame3.JR_SchoolInGame3.
+[2023.03.27-11.41.50:417][387]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame3.JR_SchoolInGame3
+[2023.03.27-11.41.53:420][665]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolInGame39AC3E43143497DA0C92D8EAAC8A5A7F8.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame3.uasset'
+[2023.03.27-11.41.53:429][665]AssetCheck: New page: Asset Save: JR_SchoolInGame3
+[2023.03.27-11.41.53:429][665]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolInGame3.JR_SchoolInGame3
+[2023.03.27-11.41.54:613][791]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_SchoolIngame4...
+[2023.03.27-11.41.54:614][791]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolIngame4.JR_SchoolIngame4 will be modified from 40 to 40.
+[2023.03.27-11.41.54:675][791]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 783360 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolIngame4.JR_SchoolIngame4.
+[2023.03.27-11.41.54:700][791]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolIngame4.JR_SchoolIngame4
+[2023.03.27-11.41.57:637][ 60]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolIngame4EC38C6384546B4E90A9C8A8E226325D6.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolIngame4.uasset'
+[2023.03.27-11.41.57:646][ 60]AssetCheck: New page: Asset Save: JR_SchoolIngame4
+[2023.03.27-11.41.57:646][ 60]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolIngame4.JR_SchoolIngame4
+[2023.03.27-11.41.58:850][167]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine1.JR_SchoolLine1
+[2023.03.27-11.42.01:756][441]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine1B47E0BEF4442DBE27DC1F29638CD4CC3.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine1.uasset'
+[2023.03.27-11.42.01:765][441]AssetCheck: New page: Asset Save: JR_SchoolLine1
+[2023.03.27-11.42.01:765][441]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine1.JR_SchoolLine1
+[2023.03.27-11.42.03:194][570]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_SchoolLine10...
+[2023.03.27-11.42.03:194][570]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine10.JR_SchoolLine10 will be modified from 40 to 40.
+[2023.03.27-11.42.03:249][570]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 792576 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine10.JR_SchoolLine10.
+[2023.03.27-11.42.03:280][570]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine10.JR_SchoolLine10
+[2023.03.27-11.42.06:178][836]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine10D7C24E1742566084A073A0A4F1472697.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine10.uasset'
+[2023.03.27-11.42.06:191][836]AssetCheck: New page: Asset Save: JR_SchoolLine10
+[2023.03.27-11.42.06:191][836]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine10.JR_SchoolLine10
+[2023.03.27-11.42.07:518][957]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_SchoolLine11...
+[2023.03.27-11.42.07:519][957]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine11.JR_SchoolLine11 will be modified from 40 to 40.
+[2023.03.27-11.42.07:576][957]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 622080 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine11.JR_SchoolLine11.
+[2023.03.27-11.42.07:617][957]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine11.JR_SchoolLine11
+[2023.03.27-11.42.11:170][290]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine11C8F5A7B64B4F0387FAF438B38226FC2E.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine11.uasset'
+[2023.03.27-11.42.11:178][290]AssetCheck: New page: Asset Save: JR_SchoolLine11
+[2023.03.27-11.42.11:178][290]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine11.JR_SchoolLine11
+[2023.03.27-11.42.12:455][416]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_SchoolLine12...
+[2023.03.27-11.42.12:456][416]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine12.JR_SchoolLine12 will be modified from 40 to 40.
+[2023.03.27-11.42.12:539][416]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1110528 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine12.JR_SchoolLine12.
+[2023.03.27-11.42.12:550][416]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine12.JR_SchoolLine12
+[2023.03.27-11.42.14:811][625]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.42.17:154][840]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine1230296A524F8B0553AA0AC3B38CA82814.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine12.uasset'
+[2023.03.27-11.42.17:163][840]AssetCheck: New page: Asset Save: JR_SchoolLine12
+[2023.03.27-11.42.17:163][840]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine12.JR_SchoolLine12
+[2023.03.27-11.42.18:632][981]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_SchoolLine13...
+[2023.03.27-11.42.18:633][981]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine13.JR_SchoolLine13 will be modified from 40 to 40.
+[2023.03.27-11.42.18:677][981]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 635904 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine13.JR_SchoolLine13.
+[2023.03.27-11.42.18:713][981]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine13.JR_SchoolLine13
+[2023.03.27-11.42.21:020][195]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.42.23:671][441]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine13C684060F4526CE67BE66D5897A2B179B.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine13.uasset'
+[2023.03.27-11.42.23:681][441]AssetCheck: New page: Asset Save: JR_SchoolLine13
+[2023.03.27-11.42.23:681][441]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine13.JR_SchoolLine13
+[2023.03.27-11.42.25:250][591]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine2.JR_SchoolLine2
+[2023.03.27-11.42.27:527][794]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.42.28:804][909]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine2F8A7A2DF47E52FAE7E391EA10C18BD4C.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine2.uasset'
+[2023.03.27-11.42.28:813][909]AssetCheck: New page: Asset Save: JR_SchoolLine2
+[2023.03.27-11.42.28:813][909]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine2.JR_SchoolLine2
+[2023.03.27-11.42.30:187][ 50]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_SchoolLine3...
+[2023.03.27-11.42.30:188][ 50]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine3.JR_SchoolLine3 will be modified from 40 to 40.
+[2023.03.27-11.42.30:282][ 50]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1327104 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine3.JR_SchoolLine3.
+[2023.03.27-11.42.30:300][ 50]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine3.JR_SchoolLine3
+[2023.03.27-11.42.32:752][274]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.42.34:155][392]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine3417082AB4F63986266484EADDBC48B42.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine3.uasset'
+[2023.03.27-11.42.34:164][392]AssetCheck: New page: Asset Save: JR_SchoolLine3
+[2023.03.27-11.42.34:164][392]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine3.JR_SchoolLine3
+[2023.03.27-11.42.35:367][507]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine4.JR_SchoolLine4
+[2023.03.27-11.42.37:559][707]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.42.39:187][841]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine4FFA920894A0C45BCDE9230BA36BFC16D.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine4.uasset'
+[2023.03.27-11.42.39:196][841]AssetCheck: New page: Asset Save: JR_SchoolLine4
+[2023.03.27-11.42.39:196][841]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine4.JR_SchoolLine4
+[2023.03.27-11.42.40:851][  1]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine5.JR_SchoolLine5
+[2023.03.27-11.42.44:005][302]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine516ECBA4841E44F1718CF09AD3F169B47.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine5.uasset'
+[2023.03.27-11.42.44:014][302]AssetCheck: New page: Asset Save: JR_SchoolLine5
+[2023.03.27-11.42.44:014][302]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine5.JR_SchoolLine5
+[2023.03.27-11.42.45:514][441]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_SchoolLine6...
+[2023.03.27-11.42.45:514][441]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine6.JR_SchoolLine6 will be modified from 40 to 40.
+[2023.03.27-11.42.45:545][441]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 313344 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine6.JR_SchoolLine6.
+[2023.03.27-11.42.45:580][441]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine6.JR_SchoolLine6
+[2023.03.27-11.42.48:039][666]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.42.50:120][849]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine6DA6815534DDFBFD4634A5CB8EEA9019C.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine6.uasset'
+[2023.03.27-11.42.50:129][849]AssetCheck: New page: Asset Save: JR_SchoolLine6
+[2023.03.27-11.42.50:129][849]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine6.JR_SchoolLine6
+[2023.03.27-11.42.51:584][  1]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine7.JR_SchoolLine7
+[2023.03.27-11.42.54:301][255]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.42.55:689][379]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine7FFBE0FE247213A88EFB65E94B659A1BB.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine7.uasset'
+[2023.03.27-11.42.55:699][379]AssetCheck: New page: Asset Save: JR_SchoolLine7
+[2023.03.27-11.42.55:699][379]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine7.JR_SchoolLine7
+[2023.03.27-11.42.57:568][561]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_SchoolLine8...
+[2023.03.27-11.42.57:569][561]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine8.JR_SchoolLine8 will be modified from 40 to 40.
+[2023.03.27-11.42.57:589][561]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 207360 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine8.JR_SchoolLine8.
+[2023.03.27-11.42.57:600][561]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine8.JR_SchoolLine8
+[2023.03.27-11.42.59:659][748]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.43.00:820][848]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine8CEDF418D40C820747B192E88DD6C7352.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine8.uasset'
+[2023.03.27-11.43.00:830][848]AssetCheck: New page: Asset Save: JR_SchoolLine8
+[2023.03.27-11.43.00:830][848]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine8.JR_SchoolLine8
+[2023.03.27-11.43.01:896][953]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JR_SchoolLine9...
+[2023.03.27-11.43.01:897][953]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine9.JR_SchoolLine9 will be modified from 40 to 40.
+[2023.03.27-11.43.01:966][953]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 903168 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine9.JR_SchoolLine9.
+[2023.03.27-11.43.01:984][953]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine9.JR_SchoolLine9
+[2023.03.27-11.43.03:972][135]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.43.05:021][229]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/JR_SchoolLine9D36A6E874BCF4DCDCA944D9F1CF1DEBC.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/JR/JR_SchoolLine9.uasset'
+[2023.03.27-11.43.05:031][229]AssetCheck: New page: Asset Save: JR_SchoolLine9
+[2023.03.27-11.43.05:031][229]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/JR/JR_SchoolLine9.JR_SchoolLine9
+[2023.03.27-11.43.10:184][751]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line1.C_Line1
+[2023.03.27-11.43.12:488][967]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.43.14:121][121]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/C_Line1BC7FE73345AAD624F26920B2503DE263.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/Child/C_Line1.uasset'
+[2023.03.27-11.43.14:130][121]AssetCheck: New page: Asset Save: C_Line1
+[2023.03.27-11.43.14:130][121]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line1.C_Line1
+[2023.03.27-11.43.15:448][255]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave C_Line2...
+[2023.03.27-11.43.15:448][255]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line2.C_Line2 will be modified from 40 to 40.
+[2023.03.27-11.43.15:481][255]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 414720 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line2.C_Line2.
+[2023.03.27-11.43.15:500][255]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line2.C_Line2
+[2023.03.27-11.43.17:506][441]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.43.18:821][561]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/C_Line211CF44924B1D57997AC0DFA85331B50B.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/Child/C_Line2.uasset'
+[2023.03.27-11.43.18:830][561]AssetCheck: New page: Asset Save: C_Line2
+[2023.03.27-11.43.18:830][561]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line2.C_Line2
+[2023.03.27-11.43.20:384][707]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave C_Line3...
+[2023.03.27-11.43.20:385][707]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line3.C_Line3 will be modified from 40 to 40.
+[2023.03.27-11.43.20:437][707]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 645120 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line3.C_Line3.
+[2023.03.27-11.43.20:452][707]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line3.C_Line3
+[2023.03.27-11.43.23:421][993]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/C_Line315A9801E4F0813451701F68FAD7E9ED9.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/Child/C_Line3.uasset'
+[2023.03.27-11.43.23:430][993]AssetCheck: New page: Asset Save: C_Line3
+[2023.03.27-11.43.23:430][993]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line3.C_Line3
+[2023.03.27-11.43.25:382][200]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave C_Line4...
+[2023.03.27-11.43.25:382][200]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line4.C_Line4 will be modified from 40 to 40.
+[2023.03.27-11.43.25:476][200]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1207296 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line4.C_Line4.
+[2023.03.27-11.43.25:501][200]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line4.C_Line4
+[2023.03.27-11.43.28:540][482]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.43.30:104][612]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/C_Line42CDD73AA4A29831879A92C9D9F90FE01.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/Child/C_Line4.uasset'
+[2023.03.27-11.43.30:114][612]AssetCheck: New page: Asset Save: C_Line4
+[2023.03.27-11.43.30:114][612]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line4.C_Line4
+[2023.03.27-11.43.31:265][733]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave C_Line5...
+[2023.03.27-11.43.31:265][733]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line5.C_Line5 will be modified from 40 to 40.
+[2023.03.27-11.43.31:306][733]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 493056 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line5.C_Line5.
+[2023.03.27-11.43.31:318][733]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line5.C_Line5
+[2023.03.27-11.43.33:426][930]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.43.34:404][ 12]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/C_Line5C4613205412E222BF3172F9AABE83447.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/Child/C_Line5.uasset'
+[2023.03.27-11.43.34:413][ 12]AssetCheck: New page: Asset Save: C_Line5
+[2023.03.27-11.43.34:413][ 12]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line5.C_Line5
+[2023.03.27-11.43.35:831][155]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave C_Line6...
+[2023.03.27-11.43.35:831][155]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line6.C_Line6 will be modified from 40 to 40.
+[2023.03.27-11.43.35:873][155]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 456192 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line6.C_Line6.
+[2023.03.27-11.43.35:884][155]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line6.C_Line6
+[2023.03.27-11.43.38:823][418]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/C_Line6B8C7B21743A9D86540474ABDB1F067D0.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/Child/C_Line6.uasset'
+[2023.03.27-11.43.38:833][418]AssetCheck: New page: Asset Save: C_Line6
+[2023.03.27-11.43.38:833][418]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line6.C_Line6
+[2023.03.27-11.43.40:017][523]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line7.C_Line7
+[2023.03.27-11.43.42:957][798]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/C_Line707A78EA7475FC1DCDE4E8EB8AC8D2DEE.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/Child/C_Line7.uasset'
+[2023.03.27-11.43.42:966][798]AssetCheck: New page: Asset Save: C_Line7
+[2023.03.27-11.43.42:966][798]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line7.C_Line7
+[2023.03.27-11.43.44:318][923]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line8.C_Line8
+[2023.03.27-11.43.46:922][162]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/C_Line83DBB912740B339002300A1A275B4ABB0.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/Child/C_Line8.uasset'
+[2023.03.27-11.43.46:931][162]AssetCheck: New page: Asset Save: C_Line8
+[2023.03.27-11.43.46:931][162]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line8.C_Line8
+[2023.03.27-11.43.48:275][293]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave C_Line9...
+[2023.03.27-11.43.48:275][293]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line9.C_Line9 will be modified from 40 to 40.
+[2023.03.27-11.43.48:349][293]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 916992 while cooking SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line9.C_Line9.
+[2023.03.27-11.43.48:368][293]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line9.C_Line9
+[2023.03.27-11.43.50:611][503]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.43.51:889][620]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/C_Line921E4B6DA43E22A4EF532CAB6D44A884E.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/VoiceLines/Child/C_Line9.uasset'
+[2023.03.27-11.43.51:900][620]AssetCheck: New page: Asset Save: C_Line9
+[2023.03.27-11.43.51:900][620]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/VoiceLines/Child/C_Line9.C_Line9
+[2023.03.27-11.44.05:180][948]LogSlate: Window 'C_Line9' being destroyed
+[2023.03.27-11.44.12:800][846]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Ben/Sounds/SoundTracks/ChaseLevelSoundTrack.ChaseLevelSoundTrack
+[2023.03.27-11.44.15:789][102]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.44.16:802][190]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/ChaseLevelSoundTrackAEF3D7C4457F8ED8E0E50A9879FDCDF1.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/SoundTracks/ChaseLevelSoundTrack.uasset'
+[2023.03.27-11.44.16:811][190]AssetCheck: New page: Asset Save: ChaseLevelSoundTrack
+[2023.03.27-11.44.16:811][190]LogContentValidation: Display: Validating SoundCue /Game/Ben/Sounds/SoundTracks/ChaseLevelSoundTrack.ChaseLevelSoundTrack
+[2023.03.27-11.44.18:036][309]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/SoundTracks/MS_PianoSoundtrack.MS_PianoSoundtrack
+[2023.03.27-11.44.21:510][643]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/MS_PianoSoundtrack3FE7196E4D2E41B0DD056F837C79D6FC.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/SoundTracks/MS_PianoSoundtrack.uasset'
+[2023.03.27-11.44.21:522][643]AssetCheck: New page: Asset Save: MS_PianoSoundtrack
+[2023.03.27-11.44.21:522][643]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/SoundTracks/MS_PianoSoundtrack.MS_PianoSoundtrack
+[2023.03.27-11.44.22:786][759]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/ChaseLevelSoundTrack50BCFB1D46EC64E0DD5C24BA5FB06C4F.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/SoundTracks/ChaseLevelSoundTrack.uasset'
+[2023.03.27-11.44.22:793][759]AssetCheck: New page: Asset Save: ChaseLevelSoundTrack
+[2023.03.27-11.44.22:793][759]LogContentValidation: Display: Validating SoundCue /Game/Ben/Sounds/SoundTracks/ChaseLevelSoundTrack.ChaseLevelSoundTrack
+[2023.03.27-11.44.24:430][923]LogSlate: Window 'MS_PianoSoundtrack' being destroyed
+[2023.03.27-11.44.26:451][104]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/SoundTracks/MS_SpookySoundtrack.MS_SpookySoundtrack
+[2023.03.27-11.44.32:134][640]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.44.33:236][722]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/MS_SpookySoundtrackA558C0E245031F2CA2B4D592E656050B.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/SoundTracks/MS_SpookySoundtrack.uasset'
+[2023.03.27-11.44.33:250][722]AssetCheck: New page: Asset Save: MS_SpookySoundtrack
+[2023.03.27-11.44.33:250][722]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/SoundTracks/MS_SpookySoundtrack.MS_SpookySoundtrack
+[2023.03.27-11.44.34:353][812]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Ben/Sounds/SoundTracks/PianoSoundtrack.PianoSoundtrack
+[2023.03.27-11.44.36:808][ 46]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.44.37:636][121]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/PianoSoundtrack13D405EA40A1473CA0D0A7B52CC42DA9.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/SoundTracks/PianoSoundtrack.uasset'
+[2023.03.27-11.44.37:644][121]AssetCheck: New page: Asset Save: PianoSoundtrack
+[2023.03.27-11.44.37:644][121]LogContentValidation: Display: Validating SoundCue /Game/Ben/Sounds/SoundTracks/PianoSoundtrack.PianoSoundtrack
+[2023.03.27-11.44.39:695][295]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/MS_SpookySoundtrack38A9C98F4F213EF6D8341C9BD0C1C59E.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/SoundTracks/MS_SpookySoundtrack.uasset'
+[2023.03.27-11.44.39:724][295]AssetCheck: New page: Asset Save: MS_SpookySoundtrack
+[2023.03.27-11.44.39:724][295]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/SoundTracks/MS_SpookySoundtrack.MS_SpookySoundtrack
+[2023.03.27-11.44.40:217][337]LogSlate: Window 'MS_SpookySoundtrack' being destroyed
+[2023.03.27-11.44.47:655][ 82]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/Monster_Sounds/SM_Monster_AttackStart.SM_Monster_AttackStart
+[2023.03.27-11.44.57:622][993]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/SM_Monster_AttackStartE1FA7A0544AD7412A2E5298EAE7323F5.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/Monster_Sounds/SM_Monster_AttackStart.uasset'
+[2023.03.27-11.44.57:634][993]AssetCheck: New page: Asset Save: SM_Monster_AttackStart
+[2023.03.27-11.44.57:635][993]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/Monster_Sounds/SM_Monster_AttackStart.SM_Monster_AttackStart
+[2023.03.27-11.44.58:770][ 91]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/Monster_Sounds/SM_Monster_InvestigateStart.SM_Monster_InvestigateStart
+[2023.03.27-11.45.02:474][452]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/SM_Monster_InvestigateStart328484404016D6694947B6BD05938217.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/Monster_Sounds/SM_Monster_InvestigateStart.uasset'
+[2023.03.27-11.45.02:485][452]AssetCheck: New page: Asset Save: SM_Monster_InvestigateStart
+[2023.03.27-11.45.02:485][452]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/Monster_Sounds/SM_Monster_InvestigateStart.SM_Monster_InvestigateStart
+[2023.03.27-11.45.03:787][580]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/Monster_Sounds/SM_Monster_LoseSight.SM_Monster_LoseSight
+[2023.03.27-11.45.05:946][784]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.45.07:405][914]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/SM_Monster_LoseSight6631191A42E47CDC2BB7C2966B304C57.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/Monster_Sounds/SM_Monster_LoseSight.uasset'
+[2023.03.27-11.45.07:414][914]AssetCheck: New page: Asset Save: SM_Monster_LoseSight
+[2023.03.27-11.45.07:414][914]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/Monster_Sounds/SM_Monster_LoseSight.SM_Monster_LoseSight
+[2023.03.27-11.45.08:803][ 22]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/Monster_Sounds/SM_Monster_OnChase.SM_Monster_OnChase
+[2023.03.27-11.45.11:574][284]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/SM_Monster_OnChase9DCC74A94F3BBC1FE4398193239E968C.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/Monster_Sounds/SM_Monster_OnChase.uasset'
+[2023.03.27-11.45.11:586][284]AssetCheck: New page: Asset Save: SM_Monster_OnChase
+[2023.03.27-11.45.11:586][284]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/Monster_Sounds/SM_Monster_OnChase.SM_Monster_OnChase
+[2023.03.27-11.45.14:235][498]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/Monster_Sounds/SM_Monster_OnSight.SM_Monster_OnSight
+[2023.03.27-11.45.22:190][274]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/SM_Monster_OnSight2EF14D4C4CBDF2E7C20ACB897099509D.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/Monster_Sounds/SM_Monster_OnSight.uasset'
+[2023.03.27-11.45.22:200][274]AssetCheck: New page: Asset Save: SM_Monster_OnSight
+[2023.03.27-11.45.22:200][274]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/Monster_Sounds/SM_Monster_OnSight.SM_Monster_OnSight
+[2023.03.27-11.45.52:810][360]LogSlate: Window 'SM_Monster_OnChase' being destroyed
+[2023.03.27-11.45.55:786][721]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Ben/Sounds/AtompshericSounds/Wind_Sound.Wind_Sound
+[2023.03.27-11.45.58:620][972]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Wind_SoundB2F148AF43E7676D3765B9A4C90DD309.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/Wind_Sound.uasset'
+[2023.03.27-11.45.58:630][972]AssetCheck: New page: Asset Save: Wind_Sound
+[2023.03.27-11.45.58:630][972]LogContentValidation: Display: Validating SoundCue /Game/Ben/Sounds/AtompshericSounds/Wind_Sound.Wind_Sound
+[2023.03.27-11.45.59:435][ 50]LogSlate: Window 'Wind_Sound' being destroyed
+[2023.03.27-11.46.00:803][164]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Ben/Sounds/AtompshericSounds/Trees_Rustiling.Trees_Rustiling
+[2023.03.27-11.46.04:053][455]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Trees_RustilingD71D8AB047C494E80733369B6FE89159.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/Trees_Rustiling.uasset'
+[2023.03.27-11.46.04:062][455]AssetCheck: New page: Asset Save: Trees_Rustiling
+[2023.03.27-11.46.04:062][455]LogContentValidation: Display: Validating SoundCue /Game/Ben/Sounds/AtompshericSounds/Trees_Rustiling.Trees_Rustiling
+[2023.03.27-11.46.04:699][519]LogSlate: Window 'Trees_Rustiling' being destroyed
+[2023.03.27-11.46.06:319][699]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/SM_Trees_Rustiling.SM_Trees_Rustiling
+[2023.03.27-11.46.09:144][928]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/SM_Trees_Rustiling147A29334CDB4D90DF405DB5537C9F4D.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/SM_Trees_Rustiling.uasset'
+[2023.03.27-11.46.09:155][928]AssetCheck: New page: Asset Save: SM_Trees_Rustiling
+[2023.03.27-11.46.09:155][928]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/SM_Trees_Rustiling.SM_Trees_Rustiling
+[2023.03.27-11.46.10:252][ 29]LogSlate: Window 'SM_Trees_Rustiling' being destroyed
+[2023.03.27-11.46.11:971][185]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/SM_PickUp.SM_PickUp
+[2023.03.27-11.46.14:691][441]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.46.16:239][579]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/SM_PickUp3B55F2014B779473743A45AD227AF9EE.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/SM_PickUp.uasset'
+[2023.03.27-11.46.16:250][579]AssetCheck: New page: Asset Save: SM_PickUp
+[2023.03.27-11.46.16:250][579]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/SM_PickUp.SM_PickUp
+[2023.03.27-11.46.17:152][671]LogSlate: Window 'SM_PickUp' being destroyed
+[2023.03.27-11.46.18:750][818]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/SM_Key_Pickup.SM_Key_Pickup
+[2023.03.27-11.46.21:457][ 46]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/SM_Key_Pickup96B441C64870EAFE1B65DC8995D2D1F1.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/SM_Key_Pickup.uasset'
+[2023.03.27-11.46.21:468][ 46]AssetCheck: New page: Asset Save: SM_Key_Pickup
+[2023.03.27-11.46.21:468][ 46]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/SM_Key_Pickup.SM_Key_Pickup
+[2023.03.27-11.46.22:411][144]LogSlate: Window 'SM_Key_Pickup' being destroyed
+[2023.03.27-11.46.23:701][270]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/SM_Door_Open.SM_Door_Open
+[2023.03.27-11.46.26:490][520]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/SM_Door_Open357586E0484F777A59B6EBA1FE96A0E6.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/SM_Door_Open.uasset'
+[2023.03.27-11.46.26:501][520]AssetCheck: New page: Asset Save: SM_Door_Open
+[2023.03.27-11.46.26:501][520]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/SM_Door_Open.SM_Door_Open
+[2023.03.27-11.46.27:210][592]LogSlate: Window 'SM_Door_Open' being destroyed
+[2023.03.27-11.46.28:499][722]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/SM_Door_Close.SM_Door_Close
+[2023.03.27-11.46.31:707][  8]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/SM_Door_CloseB0B128F54484C5DF0A6D88B4247C9B73.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/SM_Door_Close.uasset'
+[2023.03.27-11.46.31:716][  8]AssetCheck: New page: Asset Save: SM_Door_Close
+[2023.03.27-11.46.31:716][  8]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/SM_Door_Close.SM_Door_Close
+[2023.03.27-11.46.32:293][ 63]LogSlate: Window 'SM_Door_Close' being destroyed
+[2023.03.27-11.46.33:570][201]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Ben/Sounds/AtompshericSounds/Scream_Cue.Scream_Cue
+[2023.03.27-11.46.36:320][447]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Scream_CueFA1A40E4492C902881D6E2B0CF2901AE.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/Scream_Cue.uasset'
+[2023.03.27-11.46.36:329][447]AssetCheck: New page: Asset Save: Scream_Cue
+[2023.03.27-11.46.36:329][447]LogContentValidation: Display: Validating SoundCue /Game/Ben/Sounds/AtompshericSounds/Scream_Cue.Scream_Cue
+[2023.03.27-11.46.37:094][521]LogSlate: Window 'Scream_Cue' being destroyed
+[2023.03.27-11.46.38:569][684]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/MS_Scream.MS_Scream
+[2023.03.27-11.46.41:756][977]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.46.42:891][ 75]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/MS_Scream07D58C614DFA47A042B910B4F3D48874.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/MS_Scream.uasset'
+[2023.03.27-11.46.42:901][ 75]AssetCheck: New page: Asset Save: MS_Scream
+[2023.03.27-11.46.42:901][ 75]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/MS_Scream.MS_Scream
+[2023.03.27-11.46.43:552][142]LogSlate: Window 'MS_Scream' being destroyed
+[2023.03.27-11.46.44:816][280]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/MS_KeySound.MS_KeySound
+[2023.03.27-11.46.47:440][509]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/MS_KeySoundB29766634BE9B921D4D370841775BD53.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/MS_KeySound.uasset'
+[2023.03.27-11.46.47:450][509]AssetCheck: New page: Asset Save: MS_KeySound
+[2023.03.27-11.46.47:450][509]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/MS_KeySound.MS_KeySound
+[2023.03.27-11.46.48:178][578]LogSlate: Window 'MS_KeySound' being destroyed
+[2023.03.27-11.46.49:570][743]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/MS_FootstepEcho.MS_FootstepEcho
+[2023.03.27-11.46.52:956][ 57]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/MS_FootstepEcho48BFF7F1480D85D0A71A99A3EA8DC802.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/MS_FootstepEcho.uasset'
+[2023.03.27-11.46.52:969][ 57]AssetCheck: New page: Asset Save: MS_FootstepEcho
+[2023.03.27-11.46.52:969][ 57]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/MS_FootstepEcho.MS_FootstepEcho
+[2023.03.27-11.46.53:831][145]LogSlate: Window 'MS_FootstepEcho' being destroyed
+[2023.03.27-11.46.55:320][321]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/MS_BatteryPickUp.MS_BatteryPickUp
+[2023.03.27-11.46.57:790][528]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/MS_BatteryPickUp12A6276540080FCB5C1BD3AF2F9F3ECC.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/MS_BatteryPickUp.uasset'
+[2023.03.27-11.46.57:799][528]AssetCheck: New page: Asset Save: MS_BatteryPickUp
+[2023.03.27-11.46.57:799][528]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/MS_BatteryPickUp.MS_BatteryPickUp
+[2023.03.27-11.46.58:463][594]LogSlate: Window 'MS_BatteryPickUp' being destroyed
+[2023.03.27-11.47.00:953][897]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Ben/Sounds/AtompshericSounds/Corridor/Echo_Whisper_1.Echo_Whisper_1
+[2023.03.27-11.47.03:538][127]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.47.04:788][240]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Echo_Whisper_173C2FC2E4F16C5ABA0776FA007FDA2E6.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/Corridor/Echo_Whisper_1.uasset'
+[2023.03.27-11.47.04:801][240]AssetCheck: New page: Asset Save: Echo_Whisper_1
+[2023.03.27-11.47.04:801][240]LogContentValidation: Display: Validating SoundCue /Game/Ben/Sounds/AtompshericSounds/Corridor/Echo_Whisper_1.Echo_Whisper_1
+[2023.03.27-11.47.05:723][319]LogSlate: Window 'Echo_Whisper_1' being destroyed
+[2023.03.27-11.47.07:037][475]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Ben/Sounds/AtompshericSounds/Corridor/Echo_Whisper_2.Echo_Whisper_2
+[2023.03.27-11.47.11:488][887]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Echo_Whisper_2549039B3428AB7E493ECA7AF0218382B.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/Corridor/Echo_Whisper_2.uasset'
+[2023.03.27-11.47.11:500][887]AssetCheck: New page: Asset Save: Echo_Whisper_2
+[2023.03.27-11.47.11:500][887]LogContentValidation: Display: Validating SoundCue /Game/Ben/Sounds/AtompshericSounds/Corridor/Echo_Whisper_2.Echo_Whisper_2
+[2023.03.27-11.47.12:549][993]LogSlate: Window 'Echo_Whisper_2' being destroyed
+[2023.03.27-11.47.14:087][162]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/Corridor/echowhisper.echowhisper
+[2023.03.27-11.47.17:257][450]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/echowhisperA38DCC1241CFFC9AF7455389FF332C60.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/Corridor/echowhisper.uasset'
+[2023.03.27-11.47.17:267][450]AssetCheck: New page: Asset Save: echowhisper
+[2023.03.27-11.47.17:267][450]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/Corridor/echowhisper.echowhisper
+[2023.03.27-11.47.18:537][576]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Ben/Sounds/AtompshericSounds/Corridor/Metal_Hit.Metal_Hit
+[2023.03.27-11.47.21:954][906]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.47.22:763][978]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Metal_HitEF8B17C746CD1602198405932F72A386.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/Corridor/Metal_Hit.uasset'
+[2023.03.27-11.47.22:774][978]AssetCheck: New page: Asset Save: Metal_Hit
+[2023.03.27-11.47.22:774][978]LogContentValidation: Display: Validating SoundCue /Game/Ben/Sounds/AtompshericSounds/Corridor/Metal_Hit.Metal_Hit
+[2023.03.27-11.47.24:720][169]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/Corridor/metalhit.metalhit
+[2023.03.27-11.47.26:759][367]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineSounds' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.27-11.47.27:657][441]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/metalhitE8866F8F40C120A8480297AE83FB51B4.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/Corridor/metalhit.uasset'
+[2023.03.27-11.47.27:667][441]AssetCheck: New page: Asset Save: metalhit
+[2023.03.27-11.47.27:667][441]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/Corridor/metalhit.metalhit
+[2023.03.27-11.47.29:012][578]LogSlate: Window 'echowhisper' being destroyed
+[2023.03.27-11.47.30:354][708]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/Corridor/SM_Whisper1.SM_Whisper1
+[2023.03.27-11.47.33:241][972]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/SM_Whisper19F718B5549AFAAFF9FA0FDB854B6880E.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/Corridor/SM_Whisper1.uasset'
+[2023.03.27-11.47.33:251][972]AssetCheck: New page: Asset Save: SM_Whisper1
+[2023.03.27-11.47.33:251][972]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/Corridor/SM_Whisper1.SM_Whisper1
+[2023.03.27-11.47.33:864][ 31]LogSlate: Window 'SM_Whisper1' being destroyed
+[2023.03.27-11.47.35:887][256]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Ben/Sounds/AtompshericSounds/Corridor/SM_WindAmbient.SM_WindAmbient
+[2023.03.27-11.47.38:889][522]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/SM_WindAmbientC5218A0A4AF20C3B8E4233B84D968283.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/Corridor/SM_WindAmbient.uasset'
+[2023.03.27-11.47.38:910][522]AssetCheck: New page: Asset Save: SM_WindAmbient
+[2023.03.27-11.47.38:910][522]LogContentValidation: Display: Validating SoundWave /Game/Ben/Sounds/AtompshericSounds/Corridor/SM_WindAmbient.SM_WindAmbient
+[2023.03.27-11.47.39:382][567]LogSlate: Window 'SM_WindAmbient' being destroyed
+[2023.03.27-11.47.40:769][699]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Ben/Sounds/AtompshericSounds/Corridor/Wind_Inside.Wind_Inside
+[2023.03.27-11.47.43:754][955]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Wind_Inside4F717EF249900FB6388A1EB0A909CF05.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Sounds/AtompshericSounds/Corridor/Wind_Inside.uasset'
+[2023.03.27-11.47.43:762][955]AssetCheck: New page: Asset Save: Wind_Inside
+[2023.03.27-11.47.43:762][955]LogContentValidation: Display: Validating SoundCue /Game/Ben/Sounds/AtompshericSounds/Corridor/Wind_Inside.Wind_Inside
+[2023.03.27-11.47.44:412][ 22]LogSlate: Window 'Wind_Inside' being destroyed
+[2023.03.27-11.48.32:670][927]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Bogdan/Big-Glass-Breaking-Combo-www_fesliyanstudios_com.Big-Glass-Breaking-Combo-www_fesliyanstudios_com
+[2023.03.27-11.48.36:141][247]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Big-Glass-Breaking-Combo-www_fes306D684A4DD85FBE419B529EBDF3F8AA.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Big-Glass-Breaking-Combo-www_fesliyanstudios_com.uasset'
+[2023.03.27-11.48.36:154][247]AssetCheck: New page: Asset Save: Big-Glass-Breaking-Combo-www_fesliyanstudios_com
+[2023.03.27-11.48.36:154][247]LogContentValidation: Display: Validating SoundWave /Game/Bogdan/Big-Glass-Breaking-Combo-www_fesliyanstudios_com.Big-Glass-Breaking-Combo-www_fesliyanstudios_com
+[2023.03.27-11.48.37:372][349]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Bogdan/Breaking_down_door.Breaking_down_door
+[2023.03.27-11.48.40:057][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bogdan/Breaking_down_door" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Breaking_down_door.uasset" SILENT=true
+[2023.03.27-11.48.40:059][602]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Breaking_down_doorD44079AE47387730AB5D43ACCE30221A.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Breaking_down_door.uasset'
+[2023.03.27-11.48.40:068][602]AssetCheck: New page: Asset Save: Breaking_down_door
+[2023.03.27-11.48.40:068][602]LogContentValidation: Display: Validating SoundWave /Game/Bogdan/Breaking_down_door.Breaking_down_door
+[2023.03.27-11.48.41:684][739]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Bogdan/sobbingbreathing-75635.sobbingbreathing-75635
+[2023.03.27-11.48.44:494][995]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/sobbingbreathing-756354384A28D421E94C586D086A328DD207E.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/sobbingbreathing-75635.uasset'
+[2023.03.27-11.48.44:503][995]AssetCheck: New page: Asset Save: sobbingbreathing-75635
+[2023.03.27-11.48.44:503][995]LogContentValidation: Display: Validating SoundWave /Game/Bogdan/sobbingbreathing-75635.sobbingbreathing-75635
+[2023.03.27-11.48.45:716][122]LogSlate: Window 'sobbingbreathing-75635' being destroyed
+[2023.03.27-11.48.45:728][122]LogSlate: Window 'sobbingbreathing-75635' being destroyed
+[2023.03.27-11.48.58:213][500]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.27-11.48.58:219][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.27-11.48.58:219][500]PIE: New page: PIE session: Ben_Cabin_V3 (27 Mar 2023, 13:48:58)
+[2023.03.27-11.48.58:242][500]LogPlayLevel: Creating play world package: /Game/Ben/Levels/UEDPIE_0_Ben_Cabin_V3
+[2023.03.27-11.48.58:291][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048501s)
+[2023.03.27-11.48.58:291][500]LogAIModule: Creating AISystem for world Ben_Cabin_V3
+[2023.03.27-11.48.58:291][500]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2023.03.27-11.48.58:292][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/Ben_Cabin_V3.Ben_Cabin_V3 to /Game/Ben/Levels/UEDPIE_0_Ben_Cabin_V3.Ben_Cabin_V3 (0.049458s)
+[2023.03.27-11.48.58:311][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.27-11.48.58:322][500]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.27-11.48.58:322][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.27-11.48.58:322][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.27-11.48.58:322][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.27-11.48.58:322][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.27-11.48.58:322][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.27-11.48.58:322][500]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.27-11.48.58:322][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.27-11.48.58:322][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.27-11.48.58:322][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.27-11.48.58:322][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.27-11.48.58:322][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.27-11.48.58:322][500]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.27-11.48.58:324][500]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.27-11.48.58:324][500]LogAudioMixer: Display: 1: FrontRight
+[2023.03.27-11.48.58:336][500]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.03.27-11.48.58:336][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.27-11.48.58:336][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.27-11.48.58:336][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.27-11.48.58:337][500]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.27-11.48.58:337][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.27-11.48.58:337][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.27-11.48.58:337][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.27-11.48.58:337][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.27-11.48.58:337][500]LogInit: FAudioDevice initialized.
+[2023.03.27-11.48.58:337][500]LogAudio: Display: Audio Device (ID: 6) registered with world 'Ben_Cabin_V3'.
+[2023.03.27-11.48.58:346][500]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.03.27-11.48.58:355][500]LogWorld: Bringing World /Game/Ben/Levels/UEDPIE_0_Ben_Cabin_V3.Ben_Cabin_V3 up for play (max tick rate 150) at 2023.03.27-12.48.58
+[2023.03.27-11.48.58:356][500]LogWorld: Bringing up level for play took: 0.008645
+[2023.03.27-11.48.58:356][500]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.03.27-11.48.58:378][500]PIE: Server logged in
+[2023.03.27-11.48.58:379][500]PIE: Play in editor total start time 0.161 seconds.
+[2023.03.27-11.49.03:096][ 38]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.27-11.49.05:111][222]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.03.27-11.49.05:111][222]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.03.27-11.49.08:834][584]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2023.03.27-11.49.08:834][584]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.27-11.49.08:834][584]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.27-11.49.08:834][584]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.27-11.49.08:834][584]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.27-11.49.08:834][584]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.03.27-11.49.08:835][584]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.27-11.49.08:835][584]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.27-11.49.08:835][584]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.27-11.49.10:075][705]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.03.27-11.49.10:075][705]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.03.27-11.49.22:873][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-11.49.22:873][351]LogWorld: BeginTearingDown for /Game/Ben/Levels/UEDPIE_0_Ben_Cabin_V3
+[2023.03.27-11.49.22:873][351]LogWorld: UWorld::CleanupWorld for Ben_Cabin_V3, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.49.22:875][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.49.22:885][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.27-11.49.22:890][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.49.22:906][351]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.49.22:906][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.27-11.49.22:907][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.27-11.49.22:909][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-11.49.22:915][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.27-11.49.22:967][353]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.03.27-11.49.38:899][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.03.27-11.49.39:054][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.03.27-11.49.39:376][ 79]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_Cabin_V3D05CE0694FE0DEE18E84FDBE635FEED8.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Levels/Ben_Cabin_V3.umap'
+[2023.03.27-11.49.39:383][ 79]LogFileHelpers: Saving map 'Ben_Cabin_V3' took 0.345
+[2023.03.27-11.49.39:394][ 79]AssetCheck: New page: Asset Save: Ben_Cabin_V3
+[2023.03.27-11.49.39:394][ 79]LogContentValidation: Display: Validating World /Game/Ben/Levels/Ben_Cabin_V3.Ben_Cabin_V3
+[2023.03.27-11.49.50:363][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.03.27-11.49.50:406][244]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Bogdan/Menu/Main/Main_Menu.Main_Menu
+[2023.03.27-11.49.50:406][244]Cmd: MAP LOAD FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/Menu/Main/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-11.49.50:406][244]LightingResults: New page: Lighting Build
+[2023.03.27-11.49.50:406][244]LoadErrors: New page: Loading map: Main_Menu.umap
+[2023.03.27-11.49.50:410][244]LogWorld: UWorld::CleanupWorld for Ben_Cabin_V3, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.49.50:411][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.49.50:411][244]MapCheck: New page: Map Check
+[2023.03.27-11.49.50:411][244]LightingResults: New page: Lighting Build
+[2023.03.27-11.49.50:428][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.49.50:439][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.03.27-11.49.50:458][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.27-11.49.50:474][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.03.27-11.49.50:475][244]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2023.03.27-11.49.50:530][244]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-11.49.50:530][244]LogAIModule: Creating AISystem for world Main_Menu
+[2023.03.27-11.49.50:548][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.03.27-11.49.50:554][244]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-11.49.50:554][244]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2023.03.27-11.49.50:554][244]LogFileHelpers: Loading map 'Main_Menu' took 0.147
+[2023.03.27-11.49.51:376][355]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.27-11.49.51:381][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.27-11.49.51:381][355]PIE: New page: PIE session: Main_Menu (27 Mar 2023, 13:49:51)
+[2023.03.27-11.49.51:403][355]LogPlayLevel: Creating play world package: /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu
+[2023.03.27-11.49.51:404][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000772s)
+[2023.03.27-11.49.51:404][355]LogAIModule: Creating AISystem for world Main_Menu
+[2023.03.27-11.49.51:404][355]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2023.03.27-11.49.51:404][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Menu/Main/Main_Menu.Main_Menu to /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu.Main_Menu (0.001616s)
+[2023.03.27-11.49.51:420][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.03.27-11.49.51:420][355]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.27-11.49.51:420][355]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.27-11.49.51:420][355]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.27-11.49.51:420][355]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.27-11.49.51:420][355]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.27-11.49.51:420][355]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.27-11.49.51:420][355]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.27-11.49.51:420][355]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.27-11.49.51:420][355]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.27-11.49.51:421][355]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.27-11.49.51:421][355]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.27-11.49.51:421][355]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.27-11.49.51:421][355]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.27-11.49.51:422][355]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.27-11.49.51:422][355]LogAudioMixer: Display: 1: FrontRight
+[2023.03.27-11.49.51:434][355]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.03.27-11.49.51:434][355]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.27-11.49.51:434][355]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.27-11.49.51:434][355]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.27-11.49.51:434][355]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.27-11.49.51:434][355]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.27-11.49.51:434][355]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.27-11.49.51:435][355]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.27-11.49.51:435][355]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.27-11.49.51:435][355]LogInit: FAudioDevice initialized.
+[2023.03.27-11.49.51:435][355]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main_Menu'.
+[2023.03.27-11.49.51:442][355]LogLoad: Game class is 'menu_C'
+[2023.03.27-11.49.51:443][355]LogWorld: Bringing World /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 150) at 2023.03.27-12.49.51
+[2023.03.27-11.49.51:443][355]LogWorld: Bringing up level for play took: 0.000212
+[2023.03.27-11.49.51:443][355]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.03.27-11.49.51:444][355]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.27-11.49.51:444][355]PIE: Server logged in
+[2023.03.27-11.49.51:445][355]PIE: Play in editor total start time 0.066 seconds.
+[2023.03.27-11.49.52:425][484]LogNet: Browse: /Game/Bogdan/Menu/Options/Options_L
+[2023.03.27-11.49.52:425][484]LogLoad: LoadMap: /Game/Bogdan/Menu/Options/Options_L
+[2023.03.27-11.49.52:425][484]LogWorld: BeginTearingDown for /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu
+[2023.03.27-11.49.52:426][484]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.49.52:426][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.49.52:476][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.49.52:478][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.03.27-11.49.52:483][484]LogAudio: Display: Audio Device (ID: 7) registered with world 'Options_L'.
+[2023.03.27-11.49.52:484][484]LogAIModule: Creating AISystem for world Options_L
+[2023.03.27-11.49.52:484][484]LogLoad: Game class is 'menu_C'
+[2023.03.27-11.49.52:485][484]LogWorld: Bringing World /Game/Bogdan/Menu/Options/UEDPIE_0_Options_L.Options_L up for play (max tick rate 150) at 2023.03.27-12.49.52
+[2023.03.27-11.49.52:485][484]LogWorld: Bringing up level for play took: 0.000291
+[2023.03.27-11.49.52:485][484]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.27-11.49.52:485][484]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.27-11.49.52:487][484]LogLoad: Took 0.061216 seconds to LoadMap(/Game/Bogdan/Menu/Options/Options_L)
+[2023.03.27-11.49.55:100][875]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2023.03.27-11.49.55:100][875]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.27-11.49.55:100][875]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.27-11.49.55:100][875]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.27-11.49.55:100][875]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.27-11.49.55:101][875]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.03.27-11.49.55:101][875]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.27-11.49.55:101][875]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.27-11.49.55:101][875]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.27-11.49.55:447][927]LogNet: Browse: /Game/Bogdan/Menu/Main/Main_Menu
+[2023.03.27-11.49.55:447][927]LogLoad: LoadMap: /Game/Bogdan/Menu/Main/Main_Menu
+[2023.03.27-11.49.55:447][927]LogWorld: BeginTearingDown for /Game/Bogdan/Menu/Options/UEDPIE_0_Options_L
+[2023.03.27-11.49.55:448][927]LogWorld: UWorld::CleanupWorld for Options_L, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.49.55:448][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.49.55:486][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.49.55:489][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.03.27-11.49.55:489][927]LogPlayLevel: Creating play world package: /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu
+[2023.03.27-11.49.55:490][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000700s)
+[2023.03.27-11.49.55:491][927]LogAIModule: Creating AISystem for world Main_Menu
+[2023.03.27-11.49.55:491][927]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2023.03.27-11.49.55:491][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Menu/Main/Main_Menu.Main_Menu to /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu.Main_Menu (0.001552s)
+[2023.03.27-11.49.55:491][927]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main_Menu'.
+[2023.03.27-11.49.55:491][927]LogLoad: Game class is 'menu_C'
+[2023.03.27-11.49.55:491][927]LogWorld: Bringing World /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 150) at 2023.03.27-12.49.55
+[2023.03.27-11.49.55:492][927]LogWorld: Bringing up level for play took: 0.000174
+[2023.03.27-11.49.55:492][927]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.27-11.49.55:492][927]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.27-11.49.55:493][927]LogLoad: Took 0.045330 seconds to LoadMap(/Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu)
+[2023.03.27-11.49.56:492][ 76]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.27-11.49.56:493][ 76]LogNet: Browse: /Game/Ben/Levels/Ben_Interview_Room_V2
+[2023.03.27-11.49.56:493][ 76]LogLoad: LoadMap: /Game/Ben/Levels/Ben_Interview_Room_V2
+[2023.03.27-11.49.56:493][ 76]LogWorld: BeginTearingDown for /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu
+[2023.03.27-11.49.56:493][ 76]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.49.56:493][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.49.56:546][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.49.56:548][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.03.27-11.49.56:578][ 76]LogAudio: Display: Audio Device (ID: 7) registered with world 'Ben_Interview_Room_V2'.
+[2023.03.27-11.49.56:579][ 76]LogAIModule: Creating AISystem for world Ben_Interview_Room_V2
+[2023.03.27-11.49.56:579][ 76]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.03.27-11.49.56:587][ 76]LogWorld: Bringing World /Game/Ben/Levels/UEDPIE_0_Ben_Interview_Room_V2.Ben_Interview_Room_V2 up for play (max tick rate 150) at 2023.03.27-12.49.56
+[2023.03.27-11.49.56:588][ 76]LogWorld: Bringing up level for play took: 0.007806
+[2023.03.27-11.49.56:588][ 76]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.27-11.49.56:590][ 76]LogLoad: Took 0.097524 seconds to LoadMap(/Game/Ben/Levels/Ben_Interview_Room_V2)
+[2023.03.27-11.50.03:403][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-11.50.03:404][ 52]LogWorld: BeginTearingDown for /Game/Ben/Levels/UEDPIE_0_Ben_Interview_Room_V2
+[2023.03.27-11.50.03:404][ 52]LogWorld: UWorld::CleanupWorld for Ben_Interview_Room_V2, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.50.03:406][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.50.03:415][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.27-11.50.03:419][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.50.03:434][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-11.50.03:435][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.27-11.50.03:436][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.27-11.50.03:442][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.03.27-11.50.03:473][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.03.27-11.50.08:411][679]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.27-11.50.08:416][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.27-11.50.08:416][679]PIE: New page: PIE session: Main_Menu (27 Mar 2023, 13:50:08)
+[2023.03.27-11.50.08:452][679]LogPlayLevel: Creating play world package: /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu
+[2023.03.27-11.50.08:453][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000797s)
+[2023.03.27-11.50.08:453][679]LogAIModule: Creating AISystem for world Main_Menu
+[2023.03.27-11.50.08:454][679]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2023.03.27-11.50.08:454][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Menu/Main/Main_Menu.Main_Menu to /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu.Main_Menu (0.001653s)
+[2023.03.27-11.50.08:470][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.03.27-11.50.08:471][679]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.27-11.50.08:472][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.27-11.50.08:472][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.27-11.50.08:472][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.27-11.50.08:472][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.27-11.50.08:472][679]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.27-11.50.08:472][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.27-11.50.08:472][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.27-11.50.08:472][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.27-11.50.08:472][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.27-11.50.08:472][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.27-11.50.08:472][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.27-11.50.08:472][679]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.27-11.50.08:473][679]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.27-11.50.08:474][679]LogAudioMixer: Display: 1: FrontRight
+[2023.03.27-11.50.08:485][679]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.03.27-11.50.08:485][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.27-11.50.08:485][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.27-11.50.08:485][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.27-11.50.08:486][679]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.27-11.50.08:486][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.27-11.50.08:486][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.27-11.50.08:486][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.27-11.50.08:486][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.27-11.50.08:486][679]LogInit: FAudioDevice initialized.
+[2023.03.27-11.50.08:486][679]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main_Menu'.
+[2023.03.27-11.50.08:493][679]LogLoad: Game class is 'menu_C'
+[2023.03.27-11.50.08:494][679]LogWorld: Bringing World /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 150) at 2023.03.27-12.50.08
+[2023.03.27-11.50.08:494][679]LogWorld: Bringing up level for play took: 0.000226
+[2023.03.27-11.50.08:494][679]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.03.27-11.50.08:495][679]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.27-11.50.08:496][679]PIE: Server logged in
+[2023.03.27-11.50.08:496][679]PIE: Play in editor total start time 0.081 seconds.
+[2023.03.27-11.50.09:349][789]LogNet: Browse: /Game/Bogdan/Menu/Options/Options_L
+[2023.03.27-11.50.09:349][789]LogLoad: LoadMap: /Game/Bogdan/Menu/Options/Options_L
+[2023.03.27-11.50.09:349][789]LogWorld: BeginTearingDown for /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu
+[2023.03.27-11.50.09:349][789]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.50.09:349][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.50.09:396][789]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.50.09:399][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.03.27-11.50.09:403][789]LogAudio: Display: Audio Device (ID: 8) registered with world 'Options_L'.
+[2023.03.27-11.50.09:404][789]LogAIModule: Creating AISystem for world Options_L
+[2023.03.27-11.50.09:404][789]LogLoad: Game class is 'menu_C'
+[2023.03.27-11.50.09:405][789]LogWorld: Bringing World /Game/Bogdan/Menu/Options/UEDPIE_0_Options_L.Options_L up for play (max tick rate 150) at 2023.03.27-12.50.09
+[2023.03.27-11.50.09:405][789]LogWorld: Bringing up level for play took: 0.000301
+[2023.03.27-11.50.09:405][789]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.27-11.50.09:406][789]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.27-11.50.09:407][789]LogLoad: Took 0.059031 seconds to LoadMap(/Game/Bogdan/Menu/Options/Options_L)
+[2023.03.27-11.50.11:401][ 87]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.27-11.50.11:401][ 87]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.27-11.50.11:402][ 87]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.27-11.50.11:668][127]LogNet: Browse: /Game/Bogdan/Menu/Main/Main_Menu
+[2023.03.27-11.50.11:668][127]LogLoad: LoadMap: /Game/Bogdan/Menu/Main/Main_Menu
+[2023.03.27-11.50.11:668][127]LogWorld: BeginTearingDown for /Game/Bogdan/Menu/Options/UEDPIE_0_Options_L
+[2023.03.27-11.50.11:668][127]LogWorld: UWorld::CleanupWorld for Options_L, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.50.11:668][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.50.11:726][127]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.50.11:728][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.03.27-11.50.11:729][127]LogPlayLevel: Creating play world package: /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu
+[2023.03.27-11.50.11:729][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000713s)
+[2023.03.27-11.50.11:730][127]LogAIModule: Creating AISystem for world Main_Menu
+[2023.03.27-11.50.11:730][127]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2023.03.27-11.50.11:730][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bogdan/Menu/Main/Main_Menu.Main_Menu to /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu.Main_Menu (0.001508s)
+[2023.03.27-11.50.11:730][127]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main_Menu'.
+[2023.03.27-11.50.11:730][127]LogLoad: Game class is 'menu_C'
+[2023.03.27-11.50.11:731][127]LogWorld: Bringing World /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 150) at 2023.03.27-12.50.11
+[2023.03.27-11.50.11:731][127]LogWorld: Bringing up level for play took: 0.000167
+[2023.03.27-11.50.11:731][127]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.27-11.50.11:731][127]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.27-11.50.11:732][127]LogLoad: Took 0.064444 seconds to LoadMap(/Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu)
+[2023.03.27-11.50.12:399][226]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.27-11.50.12:399][226]LogNet: Browse: /Game/Ben/Levels/Ben_Interview_Room_V2
+[2023.03.27-11.50.12:399][226]LogLoad: LoadMap: /Game/Ben/Levels/Ben_Interview_Room_V2
+[2023.03.27-11.50.12:399][226]LogWorld: BeginTearingDown for /Game/Bogdan/Menu/Main/UEDPIE_0_Main_Menu
+[2023.03.27-11.50.12:399][226]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.50.12:399][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.50.12:446][226]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.50.12:449][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.03.27-11.50.12:477][226]LogAudio: Display: Audio Device (ID: 8) registered with world 'Ben_Interview_Room_V2'.
+[2023.03.27-11.50.12:478][226]LogAIModule: Creating AISystem for world Ben_Interview_Room_V2
+[2023.03.27-11.50.12:478][226]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.03.27-11.50.12:486][226]LogWorld: Bringing World /Game/Ben/Levels/UEDPIE_0_Ben_Interview_Room_V2.Ben_Interview_Room_V2 up for play (max tick rate 150) at 2023.03.27-12.50.12
+[2023.03.27-11.50.12:487][226]LogWorld: Bringing up level for play took: 0.007659
+[2023.03.27-11.50.12:487][226]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.27-11.50.12:490][226]LogLoad: Took 0.091219 seconds to LoadMap(/Game/Ben/Levels/Ben_Interview_Room_V2)
+[2023.03.27-11.50.14:052][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-11.50.14:052][441]LogWorld: BeginTearingDown for /Game/Ben/Levels/UEDPIE_0_Ben_Interview_Room_V2
+[2023.03.27-11.50.14:053][441]LogWorld: UWorld::CleanupWorld for Ben_Interview_Room_V2, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.50.14:054][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.50.14:065][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.27-11.50.14:070][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.50.14:086][441]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.50.14:086][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.27-11.50.14:087][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.27-11.50.14:089][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-11.50.14:093][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.03.27-11.50.14:128][444]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.03.27-11.50.15:861][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
