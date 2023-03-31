@@ -1066,3 +1066,112 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.31-04.21.51:844][140]LogFileHelpers: Saving map 'Ben_Cabin_V3' took 0.425
 [2023.03.31-04.21.51:853][140]AssetCheck: New page: Asset Save: Ben_Cabin_V3
 [2023.03.31-04.21.51:853][140]LogContentValidation: Display: Validating World /Game/Ben/Levels/Ben_Cabin_V3.Ben_Cabin_V3
+[2023.03.31-04.25.41:120][277]MapCheck: New page: Map Check
+[2023.03.31-04.25.41:152][277]LightingResults: New page: Lighting Build - 31 Mar 2023, 06:25:41
+[2023.03.31-04.25.41:211][277]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.03.31-04.25.41:218][277]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2023.03.31-04.25.41:218][277]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2023.03.31-04.25.41:226][277]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2023.03.31-04.25.41:226][277]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2023.03.31-04.25.41:753][277]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.03.31-04.25.41:920][277]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.03.31-04.25.42:105][277]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.03.31-04.25.45:584][277]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.03.31-04.25.45:584][277]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1776
+[2023.03.31-04.25.57:087][277]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.03.31-04.25.57:087][277]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.03.31-04.25.57:087][277]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.03.31-04.25.57:087][277]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.03.31-04.25.57:087][277]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.03.31-04.25.58:007][277]LogEditorBuildUtils: Build time 0:16
+[2023.03.31-04.25.58:192][278]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: B62DFB827E4BDE62A110997B266A2DD7CE1889EF), compiling. 
+[2023.03.31-04.25.58:204][278]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.03.31-04.25.58:205][278]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: 98A02870B3D456C699A2C082D70946E5F8A9D443), compiling. 
+[2023.03.31-04.25.58:208][278]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.03.31-04.25.58:215][278]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.03.31-04.25.58:215][278]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.03.31-04.25.58:215][278]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.03.31-04.25.58:215][278]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.03.31-04.25.58:215][278]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.03.31-04.25.58:646][286]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.31-04.25.58:646][286]LogShaderCompilers: Display: Total job queries 54, among them cache hits 0 (0.00%)
+[2023.03.31-04.25.58:646][286]LogShaderCompilers: Display: Tracking 51 distinct input hashes that result in 39 distinct outputs (76.47%)
+[2023.03.31-04.25.58:646][286]LogShaderCompilers: Display: RAM used: 0.23 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2023.03.31-04.25.58:646][286]LogShaderCompilers: Display: ================================================
+[2023.03.31-04.25.59:042][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.03.31-04.41.52:789][245]LightingResults: Warning: SM_Table Object has wrapping UVs.
+[2023.03.31-04.41.53:071][261]LightingResults: Warning: SM_Key Object has wrapping UVs.
+[2023.03.31-04.41.53:243][269]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.03.31-04.42.00:224][787]Job is a success!
+[2023.03.31-04.42.01:095][788]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.107s
+[2023.03.31-04.42.01:095][788]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2023.03.31-04.42.01:095][788]LogVolumetricLightmapImport:      BrickData (all levels) 0.8Mb (trimmed 2.9Mb due to 0.010000 MinBrickError)
+[2023.03.31-04.42.01:095][788]LogVolumetricLightmapImport:      Bricks at depth
+[2023.03.31-04.42.01:095][788]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2023.03.31-04.42.01:095][788]LogVolumetricLightmapImport:          1: 13.8% covering 18.8% of volume
+[2023.03.31-04.42.01:095][788]LogVolumetricLightmapImport:          2: 85.1% covering 1.8% of volume
+[2023.03.31-04.42.01:095][788]LogVolumetricLightmapImport:      Bricks in each level
+[2023.03.31-04.42.01:095][788]LogVolumetricLightmapImport:          Ben_Cabin_V3 			 174 bricks 	 100.0% (Persistent Level)
+[2023.03.31-04.42.06:504][788]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 4096X4096)
+[2023.03.31-04.42.06:504][788]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.03.31-04.42.06:504][788]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.03.31-04.42.06:504][788]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.03.31-04.42.06:504][788]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 4096X4096)
+[2023.03.31-04.42.06:504][788]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 512X512)
+[2023.03.31-04.42.06:504][788]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 512X512)
+[2023.03.31-04.42.06:504][788]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 256X256)
+[2023.03.31-04.42.06:504][788]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.03.31-04.42.06:504][788]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 256X256)
+[2023.03.31-04.42.06:504][788]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 256X256)
+[2023.03.31-04.42.06:505][788]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 256X256)
+[2023.03.31-04.42.06:505][788]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 256X256)
+[2023.03.31-04.42.06:505][788]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.03.31-04.42.06:505][788]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.03.31-04.42.06:505][788]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 256X256)
+[2023.03.31-04.42.06:505][788]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 512X512)
+[2023.03.31-04.42.06:505][788]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 512X512)
+[2023.03.31-04.42.06:505][788]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 64X64)
+[2023.03.31-04.42.06:505][788]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 64X64)
+[2023.03.31-04.42.06:723][788]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 32X32)
+[2023.03.31-04.42.06:723][788]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X16)
+[2023.03.31-04.42.06:904][788]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X16)
+[2023.03.31-04.42.06:904][788]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X128)
+[2023.03.31-04.42.06:904][788]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X64)
+[2023.03.31-04.42.06:904][788]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X128)
+[2023.03.31-04.42.08:190][788]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 4096X2048)
+[2023.03.31-04.42.10:755][788]Lightmass on DESKTOP-U7QK1P2: 16:06 min total, 9.37 sec importing, 35.3 sec setup, 3:46 min photons, 11:34 min processing, 0 ms extra exporting [14227/14227 mappings]. Threads: 2:07:17 hours total, 37:00 min processing.
+[2023.03.31-04.42.10:849][788]LogStaticLightingSystem: Ben_Cabin_V3_BuiltData storing lightmap data for 477 meshes in 10 LightmapResourceClusters (47.7 Meshes per cluster).
+[2023.03.31-04.42.10:883][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.03.31-04.42.10:935][788]LogStaticLightingSystem: Illumination: 16:29 min (2.38 sec encoding lightmaps, 1.68 sec encoding shadowmaps)
+[2023.03.31-04.42.10:935][788]LogStaticLightingSystem: Lightmap texture memory:  33.4 MB (33.4 MB streaming, 0.0 MB non-streaming), 14 textures
+[2023.03.31-04.42.10:935][788]LogStaticLightingSystem: Shadowmap texture memory: 44.5 MB (44.5 MB streaming, 0.0 MB non-streaming), 7 textures
+[2023.03.31-04.42.11:720][788]DumpUnbuiltLightIteractions
+[2023.03.31-04.42.11:720][788]Lights with unbuilt interactions: 0
+[2023.03.31-04.42.11:720][788]
+[2023.03.31-04.42.11:720][788]Primitives with unbuilt interactions: 0
+[2023.03.31-04.42.11:757][788]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.31-04.42.11:757][788]LogShaderCompilers: Display: Total job queries 54, among them cache hits 0 (0.00%)
+[2023.03.31-04.42.11:757][788]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 42 distinct outputs (77.78%)
+[2023.03.31-04.42.11:757][788]LogShaderCompilers: Display: RAM used: 0.24 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2023.03.31-04.42.11:757][788]LogShaderCompilers: Display: ================================================
+[2023.03.31-04.42.11:968][788]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.03.31-04.42.12:032][789]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.03.31-04.42.12:033][789]MapCheck: New page: Ben_Cabin_V3 - 31 Mar 2023, 06:42:12
+[2023.03.31-04.42.12:195][789]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 162.486ms to complete.
+[2023.03.31-04.42.14:854][997]LogSlate: Window 'Message Log' being destroyed
+[2023.03.31-04.42.14:872][997]LogSlate: Window 'Message Log' being destroyed
+[2023.03.31-04.42.19:535][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.03.31-04.42.19:699][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.31-04.42.20:009][415]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_Cabin_V3EC6AFB3E46BD4391E022FBB9F27F2D40.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Levels/Ben_Cabin_V3.umap'
+[2023.03.31-04.42.20:016][415]LogFileHelpers: Saving map 'Ben_Cabin_V3' took 0.325
+[2023.03.31-04.42.21:294][415]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_Cabin_V3_BuiltData17CA257B44C29520E80BC6A173BC3FF1.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Levels/Ben_Cabin_V3_BuiltData.uasset'
+[2023.03.31-04.42.21:316][415]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.31-04.42.21:316][415]LogContentValidation: Display: Validating World /Game/Ben/Levels/Ben_Cabin_V3.Ben_Cabin_V3
+[2023.03.31-04.42.21:316][415]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Ben/Levels/Ben_Cabin_V3_BuiltData.Ben_Cabin_V3_BuiltData
+[2023.03.31-04.43.38:050][ 23]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.03.31-04.44.14:374][235]LogSlate: Window 'Project Settings' being destroyed
+[2023.03.31-04.44.14:386][235]LogSlate: Window 'Project Settings' being destroyed
+[2023.03.31-04.44.23:223][149]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.03.31-04.44.24:311][267]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.03.31-04.44.24:325][267]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.03.31-04.44.30:436][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
