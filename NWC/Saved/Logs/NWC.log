@@ -1085,3 +1085,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.02-13.15.27:635][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
 [2023.04.02-13.15.27:665][919]LogPlayLevel: Display: Destroying online subsystem :Context_9
 [2023.04.02-13.15.29:338][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.04.02-13.16.38:599][ 79]LogSlate: Window 'BP_Door' being destroyed
+[2023.04.02-13.16.38:614][ 79]LogSlate: Window 'BP_Door' being destroyed
+[2023.04.02-13.16.38:618][ 79]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-13.16.38:618][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-13.17.18:435][511]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FP_Horror_Starter_Kit/PlayerCharacterExample/HeadBobbing/HeadBobbingStand.HeadBobbingStand
+[2023.04.02-13.17.20:478][632]LogSlate: Window 'HeadBobbingStand' being destroyed
+[2023.04.02-13.17.20:493][632]LogSlate: Window 'HeadBobbingStand' being destroyed
+[2023.04.02-13.17.20:525][632]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-13.17.20:525][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-13.17.21:490][739]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FP_Horror_Starter_Kit/PlayerCharacterExample/HeadBobbing/HeadBobbingWalk.HeadBobbingWalk
+[2023.04.02-13.17.40:253][882]BlueprintLog: New page: Compile HeadBobbingWalk
+[2023.04.02-13.17.40:332][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.04.02-13.17.45:947][528]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/HeadBobbingWalkE51672774C3563FD095E638F9A8EB394.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/FP_Horror_Starter_Kit/PlayerCharacterExample/HeadBobbing/HeadBobbingWalk.uasset'
+[2023.04.02-13.17.45:962][528]AssetCheck: New page: Asset Save: HeadBobbingWalk
+[2023.04.02-13.17.45:962][528]LogContentValidation: Display: Validating Blueprint /Game/FP_Horror_Starter_Kit/PlayerCharacterExample/HeadBobbing/HeadBobbingWalk.HeadBobbingWalk
+[2023.04.02-13.17.46:953][645]LogSlate: Window 'HeadBobbingWalk' being destroyed
+[2023.04.02-13.17.46:968][645]LogSlate: Window 'HeadBobbingWalk' being destroyed
+[2023.04.02-13.17.46:995][645]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-13.17.46:995][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
