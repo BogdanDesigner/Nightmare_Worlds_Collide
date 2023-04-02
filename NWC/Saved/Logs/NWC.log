@@ -1104,3 +1104,151 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.02-13.17.46:968][645]LogSlate: Window 'HeadBobbingWalk' being destroyed
 [2023.04.02-13.17.46:995][645]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
 [2023.04.02-13.17.46:995][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-13.21.57:588][240]Cmd: TRANSACTION UNDO
+[2023.04.02-13.21.57:591][240]LogEditorTransaction: Undo Foliage Editing
+[2023.04.02-13.22.07:715][267]Cmd: TRANSACTION UNDO
+[2023.04.02-13.22.07:715][267]LogEditorTransaction: Undo Foliage Editing
+[2023.04.02-13.22.09:011][336]Cmd: TRANSACTION UNDO
+[2023.04.02-13.22.09:011][336]LogEditorTransaction: Undo Foliage Editing
+[2023.04.02-13.22.19:655][251]Cmd: TRANSACTION UNDO
+[2023.04.02-13.22.19:655][251]LogEditorTransaction: Undo Foliage Editing
+[2023.04.02-13.22.51:175][686]Cmd: TRANSACTION UNDO
+[2023.04.02-13.22.51:175][686]LogEditorTransaction: Undo Foliage Editing
+[2023.04.02-13.22.51:478][688]Cmd: TRANSACTION UNDO
+[2023.04.02-13.22.51:478][688]LogEditorTransaction: Undo Foliage Editing
+[2023.04.02-13.22.51:697][689]Cmd: TRANSACTION UNDO
+[2023.04.02-13.22.51:697][689]LogEditorTransaction: Undo Foliage Editing
+[2023.04.02-13.22.51:891][690]Cmd: TRANSACTION UNDO
+[2023.04.02-13.22.51:891][690]LogEditorTransaction: Undo Foliage Editing
+[2023.04.02-13.23.29:665][206]Cmd: TRANSACTION UNDO
+[2023.04.02-13.23.29:665][206]LogEditorTransaction: Undo Foliage Editing
+[2023.04.02-13.24.19:303][404]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2023.04.02-13.26.25:106][576]Cmd: TRANSACTION UNDO
+[2023.04.02-13.26.25:106][576]LogEditorTransaction: Undo Foliage Editing
+[2023.04.02-13.27.12:258][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.04.02-13.27.12:429][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.02-13.27.12:711][209]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_Cabin_V36A50FDA54DBD25A530E088A80752EA51.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Levels/Ben_Cabin_V3.umap'
+[2023.04.02-13.27.12:719][209]LogFileHelpers: Saving map 'Ben_Cabin_V3' took 0.307
+[2023.04.02-13.27.12:729][209]AssetCheck: New page: Asset Save: Ben_Cabin_V3
+[2023.04.02-13.27.12:729][209]LogContentValidation: Display: Validating World /Game/Ben/Levels/Ben_Cabin_V3.Ben_Cabin_V3
+[2023.04.02-13.27.19:975][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.04.02-13.27.32:241][638]MapCheck: New page: Map Check
+[2023.04.02-13.27.32:408][638]Cmd: MAP REBUILD ALLVISIBLE
+[2023.04.02-13.27.32:409][638]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.04.02-13.27.32:602][638]LogWorld: UWorld::CleanupWorld for Ben_Cabin_V3, bSessionEnded=true, bCleanupResources=false
+[2023.04.02-13.27.32:643][638]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.04.02-13.27.32:643][638]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.04.02-13.27.32:643][638]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.04.02-13.27.32:661][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.04.02-13.27.32:894][638]LogLevel: Display: Export Material TexCoord Scales took 0.206 seconds.
+[2023.04.02-13.27.32:908][638]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2023.04.02-13.27.32:926][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.02-13.27.32:955][638]LightingResults: New page: Lighting Build - 2 Apr 2023, 15:27:32
+[2023.04.02-13.27.33:044][638]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.04.02-13.27.33:057][638]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2023.04.02-13.27.33:058][638]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2023.04.02-13.27.33:075][638]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2023.04.02-13.27.33:075][638]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2023.04.02-13.27.34:108][638]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.04.02-13.27.34:215][638]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.04.02-13.27.34:334][638]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.04.02-13.27.37:564][638]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.04.02-13.27.37:564][638]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14732
+[2023.04.02-13.27.50:022][638]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.04.02-13.27.50:022][638]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.04.02-13.27.50:022][638]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.04.02-13.27.50:022][638]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.04.02-13.27.50:022][638]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.04.02-13.27.51:400][638]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.04.02-13.27.51:400][638]MapCheck: New page: Ben_Cabin_V3 - 2 Apr 2023, 15:27:51
+[2023.04.02-13.27.51:407][638]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2023.04.02-13.27.51:434][638]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 34.224ms to complete.
+[2023.04.02-13.27.51:444][638]LogEditorBuildUtils: Build time 0:19
+[2023.04.02-13.27.52:087][640]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: 4011FA7D731543645D996F396BCC3A990206B659), compiling. 
+[2023.04.02-13.27.52:246][640]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.04.02-13.27.52:247][640]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: EAB34FB69D04A860F449041CC7C8B0B4CD904022), compiling. 
+[2023.04.02-13.27.52:249][640]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.04.02-13.27.52:249][640]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.04.02-13.27.52:249][640]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.02-13.27.52:249][640]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.04.02-13.27.52:301][641]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.04.02-13.27.52:301][641]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.04.02-13.27.52:301][641]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.02-13.27.52:741][647]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.02-13.27.52:741][647]LogShaderCompilers: Display: Total job queries 56, among them cache hits 2 (3.57%)
+[2023.04.02-13.27.52:741][647]LogShaderCompilers: Display: Tracking 52 distinct input hashes that result in 41 distinct outputs (78.85%)
+[2023.04.02-13.27.52:741][647]LogShaderCompilers: Display: RAM used: 0.24 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2023.04.02-13.27.52:741][647]LogShaderCompilers: Display: ================================================
+[2023.04.02-13.27.53:823][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.04.02-13.27.57:443][683]LogSlate: Window 'Message Log' being destroyed
+[2023.04.02-13.27.57:487][683]LogSlate: Window 'Message Log' being destroyed
+[2023.04.02-13.41.41:295][222]LightingResults: Warning: SM_Table Object has wrapping UVs.
+[2023.04.02-13.41.41:502][227]LightingResults: Warning: SM_Key Object has wrapping UVs.
+[2023.04.02-13.41.41:692][232]LightingResults: Warning: SM_Battery Object has wrapping UVs.
+[2023.04.02-13.42.18:358][159]Job is a success!
+[2023.04.02-13.42.18:772][160]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.057s
+[2023.04.02-13.42.18:772][160]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2023.04.02-13.42.18:772][160]LogVolumetricLightmapImport:      BrickData (all levels) 0.8Mb (trimmed 2.9Mb due to 0.010000 MinBrickError)
+[2023.04.02-13.42.18:772][160]LogVolumetricLightmapImport:      Bricks at depth
+[2023.04.02-13.42.18:772][160]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2023.04.02-13.42.18:772][160]LogVolumetricLightmapImport:          1: 13.9% covering 18.8% of volume
+[2023.04.02-13.42.18:772][160]LogVolumetricLightmapImport:          2: 85.0% covering 1.8% of volume
+[2023.04.02-13.42.18:772][160]LogVolumetricLightmapImport:      Bricks in each level
+[2023.04.02-13.42.18:772][160]LogVolumetricLightmapImport:          Ben_Cabin_V3 			 173 bricks 	 100.0% (Persistent Level)
+[2023.04.02-13.42.24:351][160]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 4096X4096)
+[2023.04.02-13.42.24:351][160]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.02-13.42.24:351][160]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.02-13.42.24:351][160]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.02-13.42.24:351][160]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 512X512)
+[2023.04.02-13.42.24:351][160]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 512X512)
+[2023.04.02-13.42.24:351][160]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 4096X4096)
+[2023.04.02-13.42.24:351][160]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 256X256)
+[2023.04.02-13.42.24:351][160]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 256X256)
+[2023.04.02-13.42.24:351][160]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.02-13.42.24:351][160]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 256X256)
+[2023.04.02-13.42.24:351][160]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 256X256)
+[2023.04.02-13.42.24:351][160]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 256X256)
+[2023.04.02-13.42.24:352][160]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 64X64)
+[2023.04.02-13.42.24:352][160]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 64X64)
+[2023.04.02-13.42.24:352][160]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.02-13.42.24:352][160]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.02-13.42.24:352][160]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 256X256)
+[2023.04.02-13.42.24:352][160]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 512X512)
+[2023.04.02-13.42.24:352][160]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 512X512)
+[2023.04.02-13.42.24:552][160]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 32X32)
+[2023.04.02-13.42.24:552][160]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X128)
+[2023.04.02-13.42.24:561][160]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X128)
+[2023.04.02-13.42.24:751][160]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X16)
+[2023.04.02-13.42.24:751][160]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X64)
+[2023.04.02-13.42.24:751][160]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X16)
+[2023.04.02-13.42.25:997][160]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 4096X2048)
+[2023.04.02-13.42.27:293][160]Lightmass on DESKTOP-U7QK1P2: 14:27 min total, 9.08 sec importing, 29.3 sec setup, 3:20 min photons, 10:28 min processing, 0 ms extra exporting [14221/14221 mappings]. Threads: 1:55:11 hours total, 33:38 min processing.
+[2023.04.02-13.42.27:526][160]LogStaticLightingSystem: Ben_Cabin_V3_BuiltData storing lightmap data for 469 meshes in 10 LightmapResourceClusters (46.9 Meshes per cluster).
+[2023.04.02-13.42.27:591][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.04.02-13.42.27:655][160]LogStaticLightingSystem: Illumination: 14:53 min (2.52 sec encoding lightmaps, 1.64 sec encoding shadowmaps)
+[2023.04.02-13.42.27:655][160]LogStaticLightingSystem: Lightmap texture memory:  33.4 MB (33.4 MB streaming, 0.0 MB non-streaming), 14 textures
+[2023.04.02-13.42.27:655][160]LogStaticLightingSystem: Shadowmap texture memory: 44.5 MB (44.5 MB streaming, 0.0 MB non-streaming), 7 textures
+[2023.04.02-13.42.28:664][160]DumpUnbuiltLightIteractions
+[2023.04.02-13.42.28:664][160]Lights with unbuilt interactions: 0
+[2023.04.02-13.42.28:664][160]
+[2023.04.02-13.42.28:664][160]Primitives with unbuilt interactions: 0
+[2023.04.02-13.42.28:712][160]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.02-13.42.28:712][160]LogShaderCompilers: Display: Total job queries 56, among them cache hits 2 (3.57%)
+[2023.04.02-13.42.28:712][160]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 42 distinct outputs (77.78%)
+[2023.04.02-13.42.28:712][160]LogShaderCompilers: Display: RAM used: 0.24 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2023.04.02-13.42.28:712][160]LogShaderCompilers: Display: ================================================
+[2023.04.02-13.42.29:223][160]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.04.02-13.42.29:342][161]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.04.02-13.42.29:342][161]MapCheck: New page: Ben_Cabin_V3 - 2 Apr 2023, 15:42:29
+[2023.04.02-13.42.29:344][161]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.311ms to complete.
+[2023.04.02-13.42.31:435][454]LogSlate: Window 'Message Log' being destroyed
+[2023.04.02-13.42.31:438][454]LogSlate: Window 'Message Log' being destroyed
+[2023.04.02-13.42.38:646][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.04.02-13.42.39:011][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.02-13.42.39:362][410]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_Cabin_V3A03F3398485EA02D75C3D089048ACFD2.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Levels/Ben_Cabin_V3.umap'
+[2023.04.02-13.42.39:368][410]LogFileHelpers: Saving map 'Ben_Cabin_V3' took 0.374
+[2023.04.02-13.42.43:144][410]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_Cabin_V3_BuiltDataBEAA71534713208BB8CE9484C6999B10.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Levels/Ben_Cabin_V3_BuiltData.uasset'
+[2023.04.02-13.42.43:168][410]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.02-13.42.43:168][410]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Ben/Levels/Ben_Cabin_V3_BuiltData.Ben_Cabin_V3_BuiltData
+[2023.04.02-13.42.43:169][410]LogContentValidation: Display: Validating World /Game/Ben/Levels/Ben_Cabin_V3.Ben_Cabin_V3
+[2023.04.02-13.42.48:735][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
