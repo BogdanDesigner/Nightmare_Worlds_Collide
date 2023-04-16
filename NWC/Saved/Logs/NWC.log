@@ -1868,3 +1868,1691 @@ delay_Open_Door1
 [2023.04.16-06.42.56:856][220]LogFileHelpers: Saving map 'Ben_School_FixesP2' took 0.682
 [2023.04.16-06.42.56:888][220]AssetCheck: New page: Asset Save: Ben_School_FixesP2
 [2023.04.16-06.42.56:888][220]LogContentValidation: Display: Validating World /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2
+[2023.04.16-06.43.32:487][615]LogEditorViewport: Clicking on Actor (LMB): delay_Open_Door1_C (delay_Open_Door1)
+[2023.04.16-06.43.51:608][654]Cmd: TRANSACTION UNDO
+[2023.04.16-06.43.51:608][654]LogEditorTransaction: Undo Set Location
+[2023.04.16-06.44.15:203][999]LogSlate: Window 'Add_BoxTrigger' being destroyed
+[2023.04.16-06.44.15:209][999]LogSlate: Window 'Add_BoxTrigger' being destroyed
+[2023.04.16-06.44.15:246][999]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.44.15:246][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.44.20:914][775]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bogdan/BP/delay_Open_Door1.delay_Open_Door1
+[2023.04.16-06.44.53:861][158]LogEditorViewport: Clicking on Actor (LMB): Item_Event_BP_C (Item_Event_BP)
+[2023.04.16-06.44.55:100][294]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.45.16:610][581]LogSlate: Took 0.026327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.16-06.45.25:022][373]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.45.25:091][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.04.16-06.45.55:182][218]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.45.55:247][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.04.16-06.45.56:773][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.45.56:786][326]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP7B2D4C1C4EF5CD5C547A38AEB59596A2.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.45.56:797][326]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.45.56:797][326]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.46.33:879][ 61]LogEditorViewport: Clicking on Actor (LMB): delay_Open_Door1_C (delay_Open_Door1)
+[2023.04.16-06.47.05:271][228]LogEditorViewport: Clicking on Actor (LMB): delay_Open_Door1_C (delay_Open_Door1)
+[2023.04.16-06.47.09:658][675]LogEditorViewport: Clicking on Actor (LMB): Add_BoxTrigger_C (Add_BoxTrigger)
+[2023.04.16-06.47.11:433][858]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bogdan/BP/Add_BoxTrigger.Add_BoxTrigger
+[2023.04.16-06.47.26:335][566]BlueprintLog: New page: Compile Add_BoxTrigger
+[2023.04.16-06.47.26:402][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.04.16-06.47.30:200][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bogdan/BP/Add_BoxTrigger" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/BP/Add_BoxTrigger.uasset" SILENT=true
+[2023.04.16-06.47.30:206][910]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Add_BoxTrigger3C9AD14D45DB8F01CF975C8FEB4E3C60.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Bogdan/BP/Add_BoxTrigger.uasset'
+[2023.04.16-06.47.30:216][910]AssetCheck: New page: Asset Save: Add_BoxTrigger
+[2023.04.16-06.47.30:216][910]LogContentValidation: Display: Validating Blueprint /Game/Bogdan/BP/Add_BoxTrigger.Add_BoxTrigger
+[2023.04.16-06.47.58:761][848]LogEditorTransaction: Undo Delete current selection
+[2023.04.16-06.48.35:097][411]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.48.35:145][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.04.16-06.48.36:050][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.48.36:067][463]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP86B2EDA14ADDF26246DFB0889E804912.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.48.36:079][463]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.48.36:079][463]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.48.48:394][757]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.48.48:441][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.04.16-06.48.48:999][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.48.49:017][793]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP5C71A52B4EFD19B9776DB1A2E37287A0.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.48.49:027][793]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.48.49:027][793]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.48.50:571][966]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-06.48.50:577][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-06.48.50:577][966]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 08:48:50)
+[2023.04.16-06.48.50:615][966]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.48.50:718][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102770s)
+[2023.04.16-06.48.50:719][966]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-06.48.50:720][966]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2023.04.16-06.48.50:720][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.104039s)
+[2023.04.16-06.48.50:746][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.04.16-06.48.50:747][966]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.16-06.48.50:747][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-06.48.50:747][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-06.48.50:747][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-06.48.50:747][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-06.48.50:747][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-06.48.50:747][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-06.48.50:747][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-06.48.50:747][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-06.48.50:747][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-06.48.50:747][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-06.48.50:747][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-06.48.50:747][966]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-06.48.50:749][966]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-06.48.50:749][966]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-06.48.50:761][966]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-06.48.50:761][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-06.48.50:761][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-06.48.50:761][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-06.48.50:761][966]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-06.48.50:761][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-06.48.50:761][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-06.48.50:762][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-06.48.50:762][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-06.48.50:762][966]LogInit: FAudioDevice initialized.
+[2023.04.16-06.48.50:762][966]LogAudio: Display: Audio Device (ID: 6) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-06.48.50:770][966]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-06.48.50:874][966]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-07.48.50
+[2023.04.16-06.48.50:875][966]LogWorld: Bringing up level for play took: 0.105353
+[2023.04.16-06.48.50:876][966]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.04.16-06.48.50:882][966]PIE: Server logged in
+[2023.04.16-06.48.50:883][966]PIE: Play in editor total start time 0.306 seconds.
+[2023.04.16-06.48.54:395][399]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-06.49.02:808][480]LogBlueprintUserMessages: [Item_BP_2] Chain Cutter (Picked Up)
+[2023.04.16-06.49.27:191][486]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-06.49.32:568][138]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-06.49.33:062][199]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-06.49.33:299][228]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-06.49.33:502][253]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-06.49.34:156][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.49.34:157][330]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.49.34:158][330]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.49.34:163][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.49.34:180][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-06.49.34:195][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.49.34:223][330]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-06.49.34:223][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.49.34:224][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.49.34:228][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.49.34:236][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.04.16-06.49.34:283][331]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.04.16-06.49.48:698][874]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.49.48:746][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.04.16-06.49.49:550][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.49.49:567][925]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP0160426747858358E5026381EC01DCA1.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.49.49:578][925]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.49.49:578][925]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.50.14:126][324]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.50.14:174][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.04.16-06.50.16:219][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.50.16:238][463]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP0A7CFD664EFAE3BC5DBAAC9974737A50.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.50.16:248][463]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.50.16:248][463]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.50.21:798][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-06.50.21:804][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-06.50.21:804][ 95]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 08:50:21)
+[2023.04.16-06.50.21:826][ 95]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.50.21:928][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102104s)
+[2023.04.16-06.50.21:929][ 95]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-06.50.21:929][ 95]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2023.04.16-06.50.21:929][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.103384s)
+[2023.04.16-06.50.21:954][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.04.16-06.50.21:955][ 95]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.16-06.50.21:955][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-06.50.21:955][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-06.50.21:955][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-06.50.21:955][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-06.50.21:955][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-06.50.21:955][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-06.50.21:955][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-06.50.21:955][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-06.50.21:955][ 95]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-06.50.21:955][ 95]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-06.50.21:955][ 95]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-06.50.21:955][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-06.50.21:957][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-06.50.21:957][ 95]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-06.50.21:968][ 95]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-06.50.21:969][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-06.50.21:969][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-06.50.21:969][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-06.50.21:969][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-06.50.21:969][ 95]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-06.50.21:969][ 95]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-06.50.21:970][ 95]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-06.50.21:970][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-06.50.21:970][ 95]LogInit: FAudioDevice initialized.
+[2023.04.16-06.50.21:970][ 95]LogAudio: Display: Audio Device (ID: 7) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-06.50.21:980][ 95]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-06.50.22:084][ 95]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-07.50.22
+[2023.04.16-06.50.22:085][ 95]LogWorld: Bringing up level for play took: 0.105356
+[2023.04.16-06.50.22:085][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.04.16-06.50.22:091][ 95]PIE: Server logged in
+[2023.04.16-06.50.22:092][ 95]PIE: Play in editor total start time 0.289 seconds.
+[2023.04.16-06.50.25:689][527]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-06.50.29:025][924]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.50.31:565][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.50.31:565][226]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.50.31:568][226]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.50.31:572][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.50.31:586][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-06.50.31:603][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.50.31:631][226]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-06.50.31:631][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.50.31:632][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.50.31:634][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.50.31:643][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.04.16-06.50.31:691][227]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.04.16-06.50.40:553][242]LogEditorTransaction: Undo Add Node
+[2023.04.16-06.50.41:678][327]LogEditorTransaction: Undo Create Pin Link
+[2023.04.16-06.50.42:039][360]LogEditorTransaction: Undo Create Pin Link
+[2023.04.16-06.50.42:372][394]LogEditorTransaction: Undo Add Node
+[2023.04.16-06.50.44:130][588]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.50.44:180][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.04.16-06.50.44:818][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.50.44:834][622]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP57444B324B08B37DE8E2CC9D977FA13E.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.50.44:846][622]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.50.44:846][622]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.50.59:684][354]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-06.50.59:689][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-06.50.59:689][354]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 08:50:59)
+[2023.04.16-06.50.59:715][354]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.50.59:817][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102677s)
+[2023.04.16-06.50.59:818][354]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-06.50.59:818][354]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2023.04.16-06.50.59:818][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.103901s)
+[2023.04.16-06.50.59:844][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.04.16-06.50.59:845][354]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.16-06.50.59:845][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-06.50.59:845][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-06.50.59:845][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-06.50.59:845][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-06.50.59:845][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-06.50.59:845][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-06.50.59:845][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-06.50.59:845][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-06.50.59:846][354]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-06.50.59:846][354]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-06.50.59:846][354]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-06.50.59:846][354]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-06.50.59:847][354]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-06.50.59:847][354]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-06.50.59:859][354]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-06.50.59:860][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-06.50.59:860][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-06.50.59:860][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-06.50.59:860][354]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-06.50.59:860][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-06.50.59:860][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-06.50.59:861][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-06.50.59:861][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-06.50.59:861][354]LogInit: FAudioDevice initialized.
+[2023.04.16-06.50.59:861][354]LogAudio: Display: Audio Device (ID: 8) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-06.50.59:870][354]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-06.50.59:975][354]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-07.50.59
+[2023.04.16-06.50.59:976][354]LogWorld: Bringing up level for play took: 0.104500
+[2023.04.16-06.50.59:976][354]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.04.16-06.50.59:983][354]PIE: Server logged in
+[2023.04.16-06.50.59:983][354]PIE: Play in editor total start time 0.294 seconds.
+[2023.04.16-06.51.03:777][816]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-06.51.06:929][189]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.51.07:554][263]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.51.08:966][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.51.08:966][426]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.51.08:967][426]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.51.08:972][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.51.08:990][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-06.51.09:006][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.51.09:034][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-06.51.09:034][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.51.09:035][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.51.09:037][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.51.09:045][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.04.16-06.51.09:091][427]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.04.16-06.51.33:682][830]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.51.33:729][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.04.16-06.51.34:365][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.51.34:382][862]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP579E11BD4272AB7624BB4CB96E0D4D14.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.51.34:394][862]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.51.34:394][862]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.51.35:426][965]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-06.51.35:433][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-06.51.35:433][965]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 08:51:35)
+[2023.04.16-06.51.35:466][965]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.51.35:568][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102659s)
+[2023.04.16-06.51.35:568][965]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-06.51.35:569][965]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2023.04.16-06.51.35:569][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.103900s)
+[2023.04.16-06.51.35:595][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.04.16-06.51.35:595][965]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.16-06.51.35:595][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-06.51.35:595][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-06.51.35:595][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-06.51.35:596][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-06.51.35:596][965]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-06.51.35:596][965]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-06.51.35:596][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-06.51.35:596][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-06.51.35:596][965]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-06.51.35:596][965]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-06.51.35:596][965]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-06.51.35:596][965]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-06.51.35:598][965]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-06.51.35:598][965]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-06.51.35:609][965]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-06.51.35:609][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-06.51.35:609][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-06.51.35:609][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-06.51.35:610][965]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-06.51.35:610][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-06.51.35:610][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-06.51.35:610][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-06.51.35:610][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-06.51.35:610][965]LogInit: FAudioDevice initialized.
+[2023.04.16-06.51.35:610][965]LogAudio: Display: Audio Device (ID: 9) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-06.51.35:621][965]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-06.51.35:725][965]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-07.51.35
+[2023.04.16-06.51.35:726][965]LogWorld: Bringing up level for play took: 0.104805
+[2023.04.16-06.51.35:727][965]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.04.16-06.51.35:733][965]PIE: Server logged in
+[2023.04.16-06.51.35:733][965]PIE: Play in editor total start time 0.302 seconds.
+[2023.04.16-06.51.39:220][383]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-06.51.42:264][755]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.52.10:921][347]LogBlueprintUserMessages: [Item_BP_2] Chain Cutter (Picked Up)
+[2023.04.16-06.52.31:795][859]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-06.52.38:006][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.52.38:006][620]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.52.38:007][620]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.52.38:012][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.52.38:024][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-06.52.38:040][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.52.38:068][620]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-06.52.38:068][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.52.38:069][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.52.38:071][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.52.38:079][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.04.16-06.52.38:128][621]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.04.16-06.53.04:575][269]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.53.04:623][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.04.16-06.53.05:449][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.53.05:467][315]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP294A4EC34DC7CBA2CEBD2DAB39FC9D47.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.53.05:478][315]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.53.05:478][315]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.53.23:525][132]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-06.53.23:531][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-06.53.23:531][132]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 08:53:23)
+[2023.04.16-06.53.23:531][132]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.53.23:633][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102973s)
+[2023.04.16-06.53.23:634][132]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-06.53.23:634][132]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2023.04.16-06.53.23:634][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.104210s)
+[2023.04.16-06.53.23:661][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.04.16-06.53.23:662][132]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.16-06.53.23:662][132]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-06.53.23:662][132]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-06.53.23:662][132]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-06.53.23:662][132]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-06.53.23:662][132]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-06.53.23:662][132]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-06.53.23:662][132]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-06.53.23:662][132]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-06.53.23:663][132]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-06.53.23:663][132]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-06.53.23:663][132]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-06.53.23:663][132]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-06.53.23:664][132]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-06.53.23:664][132]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-06.53.23:677][132]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-06.53.23:677][132]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-06.53.23:677][132]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-06.53.23:677][132]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-06.53.23:677][132]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-06.53.23:677][132]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-06.53.23:677][132]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-06.53.23:678][132]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-06.53.23:678][132]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-06.53.23:678][132]LogInit: FAudioDevice initialized.
+[2023.04.16-06.53.23:678][132]LogAudio: Display: Audio Device (ID: 10) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-06.53.23:689][132]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-06.53.23:793][132]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-07.53.23
+[2023.04.16-06.53.23:794][132]LogWorld: Bringing up level for play took: 0.103348
+[2023.04.16-06.53.23:794][132]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2023.04.16-06.53.23:799][132]PIE: Server logged in
+[2023.04.16-06.53.23:800][132]PIE: Play in editor total start time 0.271 seconds.
+[2023.04.16-06.53.27:367][489]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-06.53.31:647][ 14]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.53.31:979][ 54]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.53.32:146][ 74]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.53.32:318][ 95]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.53.32:474][114]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.53.56:001][ 75]LogBlueprintUserMessages: [Item_BP_2] Chain Cutter (Picked Up)
+[2023.04.16-06.54.13:832][215]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-06.54.20:146][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.54.20:146][989]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.54.20:147][989]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.54.20:152][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.54.20:167][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-06.54.20:183][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.54.20:211][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-06.54.20:211][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.54.20:212][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.54.20:214][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.54.20:224][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.04.16-06.54.20:271][990]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.04.16-06.54.24:667][472]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.54.24:715][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.04.16-06.54.25:456][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.54.25:473][520]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP63C7E60E4F6145B0BF6288B06EF7625C.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.54.25:485][520]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.54.25:485][520]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.54.48:176][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-06.54.48:182][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-06.54.48:182][ 18]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 08:54:48)
+[2023.04.16-06.54.48:205][ 18]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.54.48:308][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102756s)
+[2023.04.16-06.54.48:309][ 18]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-06.54.48:309][ 18]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2023.04.16-06.54.48:309][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.104164s)
+[2023.04.16-06.54.48:335][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.04.16-06.54.48:336][ 18]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.16-06.54.48:336][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-06.54.48:336][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-06.54.48:336][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-06.54.48:336][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-06.54.48:337][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-06.54.48:337][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-06.54.48:337][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-06.54.48:337][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-06.54.48:337][ 18]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-06.54.48:337][ 18]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-06.54.48:337][ 18]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-06.54.48:337][ 18]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-06.54.48:339][ 18]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-06.54.48:339][ 18]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-06.54.48:351][ 18]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-06.54.48:351][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-06.54.48:352][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-06.54.48:352][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-06.54.48:352][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-06.54.48:352][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-06.54.48:352][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-06.54.48:353][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-06.54.48:353][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-06.54.48:353][ 18]LogInit: FAudioDevice initialized.
+[2023.04.16-06.54.48:353][ 18]LogAudio: Display: Audio Device (ID: 11) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-06.54.48:362][ 18]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-06.54.48:463][ 18]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-07.54.48
+[2023.04.16-06.54.48:464][ 18]LogWorld: Bringing up level for play took: 0.101606
+[2023.04.16-06.54.48:464][ 18]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.04.16-06.54.48:499][ 18]PIE: Server logged in
+[2023.04.16-06.54.48:499][ 18]PIE: Play in editor total start time 0.318 seconds.
+[2023.04.16-06.54.52:009][449]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-06.54.56:961][ 80]LogBlueprintUserMessages: [Item_BP_2] Chain Cutter (Picked Up)
+[2023.04.16-06.54.58:677][294]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-33.77 Y=3.74 Z=0.00 Location: X=7131.08 Y=2432.65 Z=102.15 Normal: X=-0.12 Y=-0.99 Z=0.00 PenetrationDepth:1.264 Actor:BP_Door10 Component:StaticMesh BoneName:None (0 other events since notify)
+[2023.04.16-06.55.19:736][880]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-06.55.23:376][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.55.23:376][325]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.55.23:377][325]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.55.23:382][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.55.23:400][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-06.55.23:415][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.55.23:443][325]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-06.55.23:443][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.55.23:444][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.55.23:447][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.55.23:455][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.04.16-06.55.23:504][326]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.04.16-06.55.45:283][455]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.55.45:330][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.04.16-06.55.46:155][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.55.46:173][506]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP910E93EA4F893280631F90A3D715C142.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.55.46:184][506]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.55.46:184][506]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.56.08:929][511]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.56.08:977][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.04.16-06.56.09:537][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.56.09:556][548]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP1CF255FD4D7DE6D2B2A954887335F0A0.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.56.09:566][548]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.56.09:566][548]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.56.13:931][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-06.56.13:937][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-06.56.13:937][ 13]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 08:56:13)
+[2023.04.16-06.56.13:965][ 13]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.56.14:068][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103249s)
+[2023.04.16-06.56.14:069][ 13]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-06.56.14:069][ 13]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2023.04.16-06.56.14:069][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.104572s)
+[2023.04.16-06.56.14:096][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.04.16-06.56.14:097][ 13]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.04.16-06.56.14:097][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-06.56.14:097][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-06.56.14:097][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-06.56.14:097][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-06.56.14:097][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-06.56.14:097][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-06.56.14:097][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-06.56.14:097][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-06.56.14:098][ 13]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-06.56.14:098][ 13]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-06.56.14:098][ 13]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-06.56.14:098][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-06.56.14:099][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-06.56.14:099][ 13]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-06.56.14:112][ 13]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-06.56.14:112][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-06.56.14:112][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-06.56.14:112][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-06.56.14:112][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-06.56.14:112][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-06.56.14:112][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-06.56.14:113][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-06.56.14:113][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-06.56.14:113][ 13]LogInit: FAudioDevice initialized.
+[2023.04.16-06.56.14:113][ 13]LogAudio: Display: Audio Device (ID: 12) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-06.56.14:121][ 13]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-06.56.14:226][ 13]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-07.56.14
+[2023.04.16-06.56.14:228][ 13]LogWorld: Bringing up level for play took: 0.105566
+[2023.04.16-06.56.14:228][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.04.16-06.56.14:234][ 13]PIE: Server logged in
+[2023.04.16-06.56.14:235][ 13]PIE: Play in editor total start time 0.299 seconds.
+[2023.04.16-06.56.17:720][419]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-06.56.21:516][877]LogBlueprintUserMessages: [Item_BP_2] Chain Cutter (Picked Up)
+[2023.04.16-06.56.44:363][560]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-06.56.47:435][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.56.47:435][899]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.56.47:436][899]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.56.47:441][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.56.47:457][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-06.56.47:472][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.56.47:499][899]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-06.56.47:499][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.56.47:500][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.56.47:503][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.56.47:511][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.04.16-06.56.47:562][900]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.04.16-06.56.55:071][639]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.56.55:118][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.04.16-06.56.55:573][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.56.55:591][664]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BPAA67FB2D445F122DDFC484A9F10E8F11.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.56.55:601][664]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.56.55:601][664]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.56.56:653][771]LogSlate: Window 'Add_BoxTrigger' being destroyed
+[2023.04.16-06.56.56:656][771]LogSlate: Window 'Add_BoxTrigger' being destroyed
+[2023.04.16-06.56.56:695][771]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.56.56:695][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.56.56:738][771]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.16-06.56.56:738][771]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.56.56:738][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.56.56:784][771]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.16-06.56.56:784][771]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.56.56:784][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.56.59:052][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.04.16-06.56.59:178][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.04.16-06.56.59:823][ 62]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_School_FixesP270D9CBC34D2D74EF50C7C3819A9D0724.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Levels/CinematicFixes/Ben_School_FixesP2.umap'
+[2023.04.16-06.56.59:832][ 62]LogFileHelpers: Saving map 'Ben_School_FixesP2' took 0.674
+[2023.04.16-06.56.59:865][ 62]AssetCheck: New page: Asset Save: Ben_School_FixesP2
+[2023.04.16-06.56.59:865][ 62]LogContentValidation: Display: Validating World /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2
+[2023.04.16-06.57.24:613][515]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-06.57.24:618][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-06.57.24:619][515]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 08:57:24)
+[2023.04.16-06.57.24:665][515]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.57.24:769][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104036s)
+[2023.04.16-06.57.24:770][515]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-06.57.24:770][515]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2023.04.16-06.57.24:771][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.105489s)
+[2023.04.16-06.57.24:793][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.04.16-06.57.24:796][515]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.04.16-06.57.24:796][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-06.57.24:796][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-06.57.24:796][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-06.57.24:796][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-06.57.24:796][515]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-06.57.24:796][515]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-06.57.24:796][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-06.57.24:796][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-06.57.24:797][515]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-06.57.24:797][515]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-06.57.24:797][515]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-06.57.24:797][515]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-06.57.24:798][515]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-06.57.24:798][515]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-06.57.24:810][515]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-06.57.24:810][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-06.57.24:810][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-06.57.24:810][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-06.57.24:811][515]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-06.57.24:811][515]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-06.57.24:811][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-06.57.24:811][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-06.57.24:811][515]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-06.57.24:811][515]LogInit: FAudioDevice initialized.
+[2023.04.16-06.57.24:811][515]LogAudio: Display: Audio Device (ID: 13) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-06.57.24:817][515]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-06.57.24:919][515]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-07.57.24
+[2023.04.16-06.57.24:920][515]LogWorld: Bringing up level for play took: 0.103220
+[2023.04.16-06.57.24:920][515]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2023.04.16-06.57.24:926][515]PIE: Server logged in
+[2023.04.16-06.57.24:927][515]PIE: Play in editor total start time 0.31 seconds.
+[2023.04.16-06.57.28:521][ 47]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-06.57.34:027][872]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.57.34:461][937]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.57.34:614][960]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.57.58:108][480]LogBlueprintUserMessages: [Item_BP_2] Chain Cutter (Picked Up)
+[2023.04.16-06.58.15:913][147]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-06.58.24:546][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.58.24:546][436]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.58.24:547][436]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.58.24:552][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.58.24:562][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-06.58.24:578][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.58.24:599][436]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-06.58.24:599][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.58.24:600][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.58.24:602][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.58.24:611][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.04.16-06.58.24:644][437]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.04.16-06.59.02:825][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoubleDoor_Door5)
+[2023.04.16-06.59.04:533][482]LogEditorViewport: Clicking on Actor (LMB): Item_Event_BP_C (Item_Event_BP)
+[2023.04.16-06.59.13:958][813]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.59.27:087][ 52]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-06.59.27:149][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.04.16-06.59.27:808][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-06.59.27:826][ 87]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP03B4810B40E4B67176007EAA014FE7A0.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-06.59.27:835][ 87]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-06.59.27:835][ 87]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-06.59.34:370][546]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-06.59.34:377][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-06.59.34:377][546]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 08:59:34)
+[2023.04.16-06.59.34:378][546]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.59.34:482][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104706s)
+[2023.04.16-06.59.34:482][546]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-06.59.34:483][546]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2023.04.16-06.59.34:483][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.105923s)
+[2023.04.16-06.59.34:505][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.04.16-06.59.34:506][546]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.04.16-06.59.34:506][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-06.59.34:506][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-06.59.34:506][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-06.59.34:506][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-06.59.34:506][546]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-06.59.34:506][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-06.59.34:506][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-06.59.34:506][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-06.59.34:506][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-06.59.34:506][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-06.59.34:506][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-06.59.34:506][546]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-06.59.34:508][546]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-06.59.34:508][546]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-06.59.34:521][546]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-06.59.34:521][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-06.59.34:522][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-06.59.34:522][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-06.59.34:522][546]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-06.59.34:522][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-06.59.34:522][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-06.59.34:523][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-06.59.34:523][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-06.59.34:523][546]LogInit: FAudioDevice initialized.
+[2023.04.16-06.59.34:523][546]LogAudio: Display: Audio Device (ID: 14) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-06.59.34:529][546]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-06.59.34:632][546]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-07.59.34
+[2023.04.16-06.59.34:633][546]LogWorld: Bringing up level for play took: 0.103856
+[2023.04.16-06.59.34:633][546]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2023.04.16-06.59.34:640][546]PIE: Server logged in
+[2023.04.16-06.59.34:641][546]PIE: Play in editor total start time 0.264 seconds.
+[2023.04.16-06.59.38:286][991]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-06.59.43:821][672]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-06.59.49:005][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.59.49:005][295]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-06.59.49:006][295]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-06.59.49:011][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.59.49:021][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-06.59.49:037][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-06.59.49:061][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-06.59.49:061][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.59.49:061][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-06.59.49:064][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-06.59.49:072][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.04.16-06.59.49:128][296]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.04.16-07.00.02:821][639]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-07.00.02:827][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-07.00.02:827][639]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 09:00:02)
+[2023.04.16-07.00.02:827][639]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.00.02:931][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104553s)
+[2023.04.16-07.00.02:931][639]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-07.00.02:932][639]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2023.04.16-07.00.02:932][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.105746s)
+[2023.04.16-07.00.02:953][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.04.16-07.00.02:955][639]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.04.16-07.00.02:955][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-07.00.02:955][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-07.00.02:956][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-07.00.02:956][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-07.00.02:956][639]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-07.00.02:956][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-07.00.02:956][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-07.00.02:956][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-07.00.02:956][639]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-07.00.02:956][639]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-07.00.02:956][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-07.00.02:956][639]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-07.00.02:957][639]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-07.00.02:958][639]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-07.00.02:969][639]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-07.00.02:969][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-07.00.02:969][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-07.00.02:969][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-07.00.02:969][639]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-07.00.02:969][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-07.00.02:969][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-07.00.02:970][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-07.00.02:970][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-07.00.02:970][639]LogInit: FAudioDevice initialized.
+[2023.04.16-07.00.02:970][639]LogAudio: Display: Audio Device (ID: 15) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-07.00.02:979][639]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-07.00.03:082][639]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-08.00.03
+[2023.04.16-07.00.03:083][639]LogWorld: Bringing up level for play took: 0.103097
+[2023.04.16-07.00.03:083][639]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2023.04.16-07.00.03:089][639]PIE: Server logged in
+[2023.04.16-07.00.03:090][639]PIE: Play in editor total start time 0.264 seconds.
+[2023.04.16-07.00.06:966][106]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-07.00.13:729][937]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-07.00.21:935][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.00.21:935][941]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.00.21:936][941]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.00.21:941][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.00.21:955][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-07.00.21:971][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.00.21:995][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.00.21:995][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.00.21:996][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.00.22:007][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.16-07.00.22:065][942]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.04.16-07.00.31:198][338]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-07.00.31:204][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-07.00.31:204][338]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 09:00:31)
+[2023.04.16-07.00.31:245][338]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.00.31:348][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103613s)
+[2023.04.16-07.00.31:348][338]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-07.00.31:349][338]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2023.04.16-07.00.31:349][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.104841s)
+[2023.04.16-07.00.31:370][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.04.16-07.00.31:372][338]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.04.16-07.00.31:372][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-07.00.31:372][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-07.00.31:372][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-07.00.31:372][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-07.00.31:372][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-07.00.31:372][338]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-07.00.31:372][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-07.00.31:372][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-07.00.31:372][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-07.00.31:372][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-07.00.31:372][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-07.00.31:372][338]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-07.00.31:374][338]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-07.00.31:374][338]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-07.00.31:385][338]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-07.00.31:386][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-07.00.31:386][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-07.00.31:386][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-07.00.31:386][338]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-07.00.31:386][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-07.00.31:386][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-07.00.31:387][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-07.00.31:387][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-07.00.31:387][338]LogInit: FAudioDevice initialized.
+[2023.04.16-07.00.31:387][338]LogAudio: Display: Audio Device (ID: 16) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-07.00.31:393][338]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-07.00.31:496][338]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-08.00.31
+[2023.04.16-07.00.31:497][338]LogWorld: Bringing up level for play took: 0.103223
+[2023.04.16-07.00.31:498][338]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2023.04.16-07.00.31:503][338]PIE: Server logged in
+[2023.04.16-07.00.31:503][338]PIE: Play in editor total start time 0.301 seconds.
+[2023.04.16-07.00.36:237][830]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-07.00.38:515][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.00.38:515][  6]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.00.38:516][  6]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.00.38:521][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.00.38:530][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-07.00.38:547][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.00.38:570][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.00.38:571][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.00.38:572][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.00.38:584][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.04.16-07.00.38:633][  7]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.04.16-07.00.39:668][129]LogSlate: Window 'Item_Event_BP' being destroyed
+[2023.04.16-07.00.39:673][129]LogSlate: Window 'Item_Event_BP' being destroyed
+[2023.04.16-07.00.39:714][129]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.00.39:714][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.00.58:948][397]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-07.00.58:955][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-07.00.58:955][397]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 09:00:58)
+[2023.04.16-07.00.58:955][397]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.00.59:058][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103109s)
+[2023.04.16-07.00.59:059][397]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-07.00.59:059][397]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2023.04.16-07.00.59:060][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.104720s)
+[2023.04.16-07.00.59:082][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.04.16-07.00.59:083][397]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.04.16-07.00.59:083][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-07.00.59:083][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-07.00.59:083][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-07.00.59:083][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-07.00.59:083][397]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-07.00.59:083][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-07.00.59:083][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-07.00.59:083][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-07.00.59:084][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-07.00.59:084][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-07.00.59:084][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-07.00.59:084][397]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-07.00.59:086][397]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-07.00.59:086][397]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-07.00.59:099][397]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-07.00.59:099][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-07.00.59:099][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-07.00.59:099][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-07.00.59:099][397]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-07.00.59:099][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-07.00.59:099][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-07.00.59:100][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-07.00.59:100][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-07.00.59:100][397]LogInit: FAudioDevice initialized.
+[2023.04.16-07.00.59:100][397]LogAudio: Display: Audio Device (ID: 17) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-07.00.59:108][397]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-07.00.59:212][397]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-08.00.59
+[2023.04.16-07.00.59:214][397]LogWorld: Bringing up level for play took: 0.104319
+[2023.04.16-07.00.59:214][397]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2023.04.16-07.00.59:220][397]PIE: Server logged in
+[2023.04.16-07.00.59:221][397]PIE: Play in editor total start time 0.267 seconds.
+[2023.04.16-07.01.02:875][936]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-07.01.07:770][670]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-07.01.33:370][505]LogBlueprintUserMessages: [Item_BP_2] Chain Cutter (Picked Up)
+[2023.04.16-07.01.51:118][163]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-07.01.56:085][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.01.56:085][900]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.01.56:086][900]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.01.56:091][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.01.56:102][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-07.01.56:118][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.01.56:140][900]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-07.01.56:140][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.01.56:141][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.01.56:143][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.01.56:152][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.04.16-07.01.56:187][901]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.04.16-07.02.10:794][533]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-07.02.28:173][302]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-07.02.28:179][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-07.02.28:179][302]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 09:02:28)
+[2023.04.16-07.02.28:204][302]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.02.28:307][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102773s)
+[2023.04.16-07.02.28:308][302]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-07.02.28:308][302]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2023.04.16-07.02.28:308][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.104233s)
+[2023.04.16-07.02.28:330][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.04.16-07.02.28:332][302]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.04.16-07.02.28:332][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-07.02.28:332][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-07.02.28:332][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-07.02.28:332][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-07.02.28:332][302]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-07.02.28:332][302]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-07.02.28:332][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-07.02.28:332][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-07.02.28:332][302]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-07.02.28:332][302]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-07.02.28:332][302]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-07.02.28:332][302]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-07.02.28:334][302]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-07.02.28:334][302]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-07.02.28:347][302]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-07.02.28:347][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-07.02.28:347][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-07.02.28:347][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-07.02.28:347][302]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-07.02.28:347][302]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-07.02.28:347][302]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-07.02.28:348][302]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-07.02.28:348][302]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-07.02.28:348][302]LogInit: FAudioDevice initialized.
+[2023.04.16-07.02.28:348][302]LogAudio: Display: Audio Device (ID: 18) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-07.02.28:354][302]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-07.02.28:457][302]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-08.02.28
+[2023.04.16-07.02.28:458][302]LogWorld: Bringing up level for play took: 0.103275
+[2023.04.16-07.02.28:458][302]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2023.04.16-07.02.28:465][302]PIE: Server logged in
+[2023.04.16-07.02.28:465][302]PIE: Play in editor total start time 0.287 seconds.
+[2023.04.16-07.02.31:959][669]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-07.02.32:875][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.02.32:875][762]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.02.32:876][762]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.02.32:881][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.02.32:888][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-07.02.32:904][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.02.32:923][762]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-07.02.32:928][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.02.32:929][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.02.32:931][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.02.32:945][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.04.16-07.02.32:988][763]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.04.16-07.02.40:400][514]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-07.02.40:406][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-07.02.40:406][514]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 09:02:40)
+[2023.04.16-07.02.40:406][514]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.02.40:510][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103398s)
+[2023.04.16-07.02.40:510][514]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-07.02.40:511][514]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2023.04.16-07.02.40:511][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.104898s)
+[2023.04.16-07.02.40:532][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.04.16-07.02.40:534][514]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.04.16-07.02.40:534][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-07.02.40:534][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-07.02.40:534][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-07.02.40:534][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-07.02.40:534][514]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-07.02.40:534][514]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-07.02.40:534][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-07.02.40:534][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-07.02.40:535][514]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-07.02.40:535][514]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-07.02.40:535][514]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-07.02.40:535][514]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-07.02.40:536][514]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-07.02.40:536][514]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-07.02.40:548][514]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-07.02.40:548][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-07.02.40:548][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-07.02.40:548][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-07.02.40:549][514]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-07.02.40:549][514]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-07.02.40:549][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-07.02.40:549][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-07.02.40:549][514]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-07.02.40:549][514]LogInit: FAudioDevice initialized.
+[2023.04.16-07.02.40:549][514]LogAudio: Display: Audio Device (ID: 19) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-07.02.40:555][514]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-07.02.40:658][514]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-08.02.40
+[2023.04.16-07.02.40:659][514]LogWorld: Bringing up level for play took: 0.103192
+[2023.04.16-07.02.40:659][514]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.04.16-07.02.40:666][514]PIE: Server logged in
+[2023.04.16-07.02.40:666][514]PIE: Play in editor total start time 0.261 seconds.
+[2023.04.16-07.02.44:007][847]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-07.02.47:415][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.02.47:415][190]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.02.47:417][190]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.02.47:421][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.02.47:432][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-07.02.47:448][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.02.47:466][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.02.47:472][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.02.47:473][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.02.47:495][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.16-07.02.47:544][191]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.04.16-07.02.52:617][695]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-07.02.52:623][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-07.02.52:623][695]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 09:02:52)
+[2023.04.16-07.02.52:644][695]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.02.52:748][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103569s)
+[2023.04.16-07.02.52:749][695]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-07.02.52:749][695]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2023.04.16-07.02.52:749][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.104809s)
+[2023.04.16-07.02.52:770][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.04.16-07.02.52:772][695]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.04.16-07.02.52:772][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-07.02.52:772][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-07.02.52:772][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-07.02.52:772][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-07.02.52:772][695]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-07.02.52:772][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-07.02.52:772][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-07.02.52:772][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-07.02.52:772][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-07.02.52:772][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-07.02.52:772][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-07.02.52:772][695]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-07.02.52:774][695]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-07.02.52:774][695]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-07.02.52:786][695]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-07.02.52:786][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-07.02.52:786][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-07.02.52:786][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-07.02.52:787][695]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-07.02.52:787][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-07.02.52:787][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-07.02.52:787][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-07.02.52:787][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-07.02.52:787][695]LogInit: FAudioDevice initialized.
+[2023.04.16-07.02.52:787][695]LogAudio: Display: Audio Device (ID: 20) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-07.02.52:792][695]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-07.02.52:895][695]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-08.02.52
+[2023.04.16-07.02.52:896][695]LogWorld: Bringing up level for play took: 0.104164
+[2023.04.16-07.02.52:896][695]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2023.04.16-07.02.52:902][695]PIE: Server logged in
+[2023.04.16-07.02.52:903][695]PIE: Play in editor total start time 0.281 seconds.
+[2023.04.16-07.02.56:302][ 30]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-07.03.04:353][862]LogBlueprintUserMessages: [Item_BP_2] Chain Cutter (Picked Up)
+[2023.04.16-07.03.25:519][954]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-07.03.32:215][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.03.32:215][636]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.03.32:216][636]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.03.32:221][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.03.32:231][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-07.03.32:247][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.03.32:271][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.03.32:271][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.03.32:272][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.03.32:282][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.04.16-07.03.32:345][637]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.04.16-07.03.42:191][580]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-07.03.42:258][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.04.16-07.03.42:893][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-07.03.42:912][611]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BPAAA24FE8408494C6552409B28ECEF56E.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-07.03.42:922][611]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-07.03.42:922][611]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-07.03.46:542][962]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-07.03.46:548][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-07.03.46:548][962]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 09:03:46)
+[2023.04.16-07.03.46:584][962]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.03.46:687][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103048s)
+[2023.04.16-07.03.46:688][962]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-07.03.46:688][962]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2023.04.16-07.03.46:688][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.104269s)
+[2023.04.16-07.03.46:710][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.04.16-07.03.46:712][962]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.04.16-07.03.46:712][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-07.03.46:712][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-07.03.46:712][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-07.03.46:712][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-07.03.46:712][962]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-07.03.46:712][962]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-07.03.46:712][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-07.03.46:712][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-07.03.46:712][962]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-07.03.46:712][962]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-07.03.46:712][962]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-07.03.46:712][962]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-07.03.46:714][962]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-07.03.46:714][962]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-07.03.46:725][962]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-07.03.46:726][962]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-07.03.46:726][962]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-07.03.46:726][962]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-07.03.46:726][962]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-07.03.46:726][962]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-07.03.46:726][962]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-07.03.46:727][962]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-07.03.46:727][962]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-07.03.46:727][962]LogInit: FAudioDevice initialized.
+[2023.04.16-07.03.46:727][962]LogAudio: Display: Audio Device (ID: 21) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-07.03.46:744][962]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-07.03.46:848][962]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-08.03.46
+[2023.04.16-07.03.46:849][962]LogWorld: Bringing up level for play took: 0.103845
+[2023.04.16-07.03.46:849][962]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2023.04.16-07.03.46:855][962]PIE: Server logged in
+[2023.04.16-07.03.46:856][962]PIE: Play in editor total start time 0.308 seconds.
+[2023.04.16-07.03.50:328][323]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-07.03.56:489][996]LogBlueprintUserMessages: [Item_BP_2] Chain Cutter (Picked Up)
+[2023.04.16-07.04.16:240][ 74]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-07.04.20:525][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.04.20:525][540]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.04.20:526][540]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.04.20:531][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.04.20:545][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-07.04.20:561][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.04.20:585][540]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-07.04.20:585][540]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.04.20:586][540]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.04.20:588][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.04.20:597][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.04.16-07.04.20:657][541]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.04.16-07.04.21:989][670]LogEditorTransaction: Undo Create Pin Link
+[2023.04.16-07.04.23:565][819]LogEditorTransaction: Undo Create Pin Link
+[2023.04.16-07.04.24:682][948]LogEditorTransaction: Undo Delete current selection
+[2023.04.16-07.04.27:775][310]LogEditorTransaction: Undo Clicking on Actors
+[2023.04.16-07.04.28:215][321]LogEditorTransaction: Undo Clicking on Actors
+[2023.04.16-07.04.35:562][113]Cmd: TRANSACTION REDO
+[2023.04.16-07.04.35:562][113]LogEditorTransaction: Redo Clicking on Actors
+[2023.04.16-07.04.36:646][185]Cmd: TRANSACTION REDO
+[2023.04.16-07.04.36:646][185]LogEditorTransaction: Redo Clicking on Actors
+[2023.04.16-07.04.38:602][390]Cmd: TRANSACTION REDO
+[2023.04.16-07.04.38:602][390]LogEditorTransaction: Redo Delete current selection
+[2023.04.16-07.04.42:383][823]LogEditorTransaction: Undo Delete current selection
+[2023.04.16-07.04.44:460][994]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-07.04.44:525][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.04.16-07.04.45:597][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-07.04.45:616][ 72]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BPD351033D45451CA24F2C01A00B71AC96.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-07.04.45:630][ 72]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-07.04.45:630][ 72]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-07.04.52:964][926]BlueprintLog: New page: Compile Item_Event_BP
+[2023.04.16-07.04.53:029][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.04.16-07.04.53:543][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_logic/Item_Event_BP" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset" SILENT=true
+[2023.04.16-07.04.53:562][958]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Item_Event_BP1186BCFB41BA1659CBF1E1BE07BD995E.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/test_logic/Item_Event_BP.uasset'
+[2023.04.16-07.04.53:575][958]AssetCheck: New page: Asset Save: Item_Event_BP
+[2023.04.16-07.04.53:575][958]LogContentValidation: Display: Validating Blueprint /Game/test_logic/Item_Event_BP.Item_Event_BP
+[2023.04.16-07.04.58:327][533]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-07.04.58:332][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-07.04.58:333][533]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 09:04:58)
+[2023.04.16-07.04.58:364][533]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.04.58:467][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103931s)
+[2023.04.16-07.04.58:468][533]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-07.04.58:468][533]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2023.04.16-07.04.58:468][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.105170s)
+[2023.04.16-07.04.58:489][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.04.16-07.04.58:491][533]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.04.16-07.04.58:491][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-07.04.58:491][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-07.04.58:491][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-07.04.58:491][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-07.04.58:491][533]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-07.04.58:491][533]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-07.04.58:491][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-07.04.58:491][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-07.04.58:491][533]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-07.04.58:492][533]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-07.04.58:492][533]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-07.04.58:492][533]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-07.04.58:493][533]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-07.04.58:493][533]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-07.04.58:505][533]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-07.04.58:505][533]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-07.04.58:505][533]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-07.04.58:505][533]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-07.04.58:505][533]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-07.04.58:505][533]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-07.04.58:505][533]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-07.04.58:506][533]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-07.04.58:506][533]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-07.04.58:506][533]LogInit: FAudioDevice initialized.
+[2023.04.16-07.04.58:506][533]LogAudio: Display: Audio Device (ID: 22) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-07.04.58:511][533]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-07.04.58:615][533]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-08.04.58
+[2023.04.16-07.04.58:616][533]LogWorld: Bringing up level for play took: 0.104153
+[2023.04.16-07.04.58:617][533]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2023.04.16-07.04.58:623][533]PIE: Server logged in
+[2023.04.16-07.04.58:623][533]PIE: Play in editor total start time 0.291 seconds.
+[2023.04.16-07.05.02:085][960]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-07.05.09:346][895]LogBlueprintUserMessages: [Item_BP_2] Chain Cutter (Picked Up)
+[2023.04.16-07.05.31:056][595]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-07.05.36:584][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.05.36:585][269]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.05.36:586][269]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.05.36:590][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.05.36:605][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-07.05.36:622][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.05.36:646][269]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-07.05.36:646][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.05.36:647][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.05.36:649][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.05.36:657][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.04.16-07.05.36:717][270]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.04.16-07.05.42:465][696]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.16-07.05.42:470][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-07.05.42:470][696]PIE: New page: PIE session: Ben_School_FixesP2 (16 Apr 2023, 09:05:42)
+[2023.04.16-07.05.42:504][696]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.05.42:608][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104327s)
+[2023.04.16-07.05.42:608][696]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.16-07.05.42:609][696]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2023.04.16-07.05.42:609][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.105601s)
+[2023.04.16-07.05.42:630][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.04.16-07.05.42:632][696]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.04.16-07.05.42:632][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-07.05.42:632][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-07.05.42:632][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-07.05.42:632][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-07.05.42:632][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.16-07.05.42:632][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.16-07.05.42:632][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.16-07.05.42:632][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-07.05.42:632][696]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-07.05.42:632][696]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-07.05.42:632][696]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-07.05.42:632][696]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.16-07.05.42:634][696]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.16-07.05.42:634][696]LogAudioMixer: Display: 1: FrontRight
+[2023.04.16-07.05.42:646][696]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.04.16-07.05.42:646][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-07.05.42:646][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-07.05.42:646][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-07.05.42:646][696]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.16-07.05.42:646][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.16-07.05.42:646][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.16-07.05.42:647][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.16-07.05.42:647][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.16-07.05.42:647][696]LogInit: FAudioDevice initialized.
+[2023.04.16-07.05.42:647][696]LogAudio: Display: Audio Device (ID: 23) registered with world 'Ben_School_FixesP2'.
+[2023.04.16-07.05.42:651][696]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.16-07.05.42:756][696]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.16-08.05.42
+[2023.04.16-07.05.42:757][696]LogWorld: Bringing up level for play took: 0.105094
+[2023.04.16-07.05.42:758][696]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2023.04.16-07.05.42:764][696]PIE: Server logged in
+[2023.04.16-07.05.42:765][696]PIE: Play in editor total start time 0.296 seconds.
+[2023.04.16-07.05.46:458][154]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.16-07.05.50:482][651]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-07.05.51:100][726]LogBlueprintUserMessages: [Item_Event_BP_2] Find Chain Cutter
+[2023.04.16-07.06.15:033][762]LogBlueprintUserMessages: [Item_BP_2] Chain Cutter (Picked Up)
+[2023.04.16-07.06.33:021][931]LogBlueprintUserMessages: [Item_Event_BP_2] Chain Cutter (Used)
+[2023.04.16-07.06.38:035][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.06.38:035][537]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.16-07.06.38:036][537]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.06.38:041][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.06.38:053][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-07.06.38:069][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.06.38:088][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-07.06.38:094][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.06.38:094][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.06.38:106][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.04.16-07.06.38:162][538]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.04.16-07.07.28:990][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.04.16-07.07.29:286][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.04.16-07.07.29:930][949]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_School_FixesP2BE97BCFF4926928F2162B9B81EF84C35.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Levels/CinematicFixes/Ben_School_FixesP2.umap'
+[2023.04.16-07.07.29:938][949]LogFileHelpers: Saving map 'Ben_School_FixesP2' took 0.672
+[2023.04.16-07.07.29:972][949]AssetCheck: New page: Asset Save: Ben_School_FixesP2
+[2023.04.16-07.07.29:972][949]LogContentValidation: Display: Validating World /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2
+[2023.04.16-07.07.32:045][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.04.16-07.07.32:073][156]LogSlate: Window 'Item_Event_BP' being destroyed
+[2023.04.16-07.07.32:113][156]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.32:114][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-07.07.32:167][156]LogSlate: Window 'NWC - Unreal Editor' being destroyed
+[2023.04.16-07.07.32:254][157]Cmd: QUIT_EDITOR
+[2023.04.16-07.07.32:254][157]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.04.16-07.07.32:257][157]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.04.16-07.07.32:257][157]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.16-07.07.32:257][157]LogShaderCompilers: Display: Total job queries 1200, among them cache hits 871 (72.58%)
+[2023.04.16-07.07.32:257][157]LogShaderCompilers: Display: Tracking 329 distinct input hashes that result in 166 distinct outputs (50.46%)
+[2023.04.16-07.07.32:257][157]LogShaderCompilers: Display: RAM used: 0.90 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.11%
+[2023.04.16-07.07.32:257][157]LogShaderCompilers: Display: ================================================
+[2023.04.16-07.07.32:273][157]LogNiagara: Compiling System NiagaraSystem /Game/sA_BloodMagic_1/Fx/OptimizedEmissive/NS_Explosion_2.NS_Explosion_2 took 1734.379639 sec (time since issued), 6936.041016 sec (combined shader worker time).
+[2023.04.16-07.07.32:915][157]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.04.16-07.07.32:915][157]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.04.16-07.07.32:915][157]LogAudio: Display: Audio Device unregistered from world 'Ben_School_FixesP2'.
+[2023.04.16-07.07.32:915][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.07.32:916][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.16-07.07.32:924][157]LogAudio: Display: Audio Device Manager Shutdown
+[2023.04.16-07.07.32:925][157]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.16-07.07.32:929][157]LogExit: Preparing to exit.
+[2023.04.16-07.07.33:296][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.04.16-07.07.33:406][157]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:408][157]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:411][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:411][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:411][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:411][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:411][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:411][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:411][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:411][157]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:413][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:413][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:413][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:413][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:413][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:413][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:413][157]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.16-07.07.33:413][157]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:415][157]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:417][157]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:418][157]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:420][157]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:421][157]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:423][157]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:425][157]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:427][157]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:429][157]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:504][157]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.04.16-07.07.33:511][157]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-07.07.33:512][157]LogExit: Editor shut down
+[2023.04.16-07.07.33:519][157]LogExit: Transaction tracking system shut down
+[2023.04.16-07.07.33:848][157]LogExit: Object subsystem successfully closed.
+[2023.04.16-07.07.33:863][157]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.16-07.07.33:863][157]LogShaderCompilers: Display: Total job queries 1200, among them cache hits 871 (72.58%)
+[2023.04.16-07.07.33:863][157]LogShaderCompilers: Display: Tracking 329 distinct input hashes that result in 166 distinct outputs (50.46%)
+[2023.04.16-07.07.33:863][157]LogShaderCompilers: Display: RAM used: 0.90 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.11%
+[2023.04.16-07.07.33:863][157]LogShaderCompilers: Display: ================================================
+[2023.04.16-07.07.33:875][157]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.04.16-07.07.33:913][157]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (878)
+[2023.04.16-07.07.33:913][157]LogModuleManager: Shutting down and abandoning module Voice (876)
+[2023.04.16-07.07.33:913][157]LogModuleManager: Shutting down and abandoning module BlueprintGraph (874)
+[2023.04.16-07.07.33:913][157]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (872)
+[2023.04.16-07.07.33:913][157]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2023.04.16-07.07.33:913][157]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2023.04.16-07.07.33:913][157]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module GooglePADEditor (846)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (844)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module TakeRecorder (843)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (840)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module TakesCore (838)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (834)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (832)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (830)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (828)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module WebMMedia (826)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (824)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (822)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (820)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (818)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (816)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module PlanarCut (796)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (794)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (792)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (790)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2023.04.16-07.07.33:914][157]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2023.04.16-07.07.33:915][157]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2023.04.16-07.07.33:915][157]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2023.04.16-07.07.33:915][157]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2023.04.16-07.07.33:915][157]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2023.04.16-07.07.33:915][157]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2023.04.16-07.07.33:915][157]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2023.04.16-07.07.33:915][157]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2023.04.16-07.07.33:915][157]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2023.04.16-07.07.33:915][157]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2023.04.16-07.07.33:915][157]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2023.04.16-07.07.33:915][157]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2023.04.16-07.07.34:020][157]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2023.04.16-07.07.34:020][157]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2023.04.16-07.07.34:020][157]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2023.04.16-07.07.34:020][157]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2023.04.16-07.07.34:020][157]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2023.04.16-07.07.34:020][157]MemoryProfiler: Shutdown
+[2023.04.16-07.07.34:020][157]NetworkingProfiler: Shutdown
+[2023.04.16-07.07.34:020][157]LoadingProfiler: Shutdown
+[2023.04.16-07.07.34:020][157]TimingProfiler: Shutdown
+[2023.04.16-07.07.34:020][157]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2023.04.16-07.07.34:021][157]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2023.04.16-07.07.34:021][157]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2023.04.16-07.07.34:021][157]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2023.04.16-07.07.34:021][157]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2023.04.16-07.07.34:023][157]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2023.04.16-07.07.34:056][157]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2023.04.16-07.07.34:056][157]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2023.04.16-07.07.34:056][157]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2023.04.16-07.07.34:056][157]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2023.04.16-07.07.34:056][157]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2023.04.16-07.07.34:056][157]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2023.04.16-07.07.34:056][157]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2023.04.16-07.07.34:056][157]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2023.04.16-07.07.34:056][157]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2023.04.16-07.07.34:056][157]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2023.04.16-07.07.34:056][157]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2023.04.16-07.07.34:065][157]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2023.04.16-07.07.34:065][157]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2023.04.16-07.07.34:065][157]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2023.04.16-07.07.34:065][157]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2023.04.16-07.07.34:065][157]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2023.04.16-07.07.34:065][157]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2023.04.16-07.07.34:065][157]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2023.04.16-07.07.34:066][157]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2023.04.16-07.07.34:070][157]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2023.04.16-07.07.34:157][157]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2023.04.16-07.07.34:157][157]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2023.04.16-07.07.34:158][157]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2023.04.16-07.07.34:158][157]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2023.04.16-07.07.34:158][157]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2023.04.16-07.07.34:159][157]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2023.04.16-07.07.34:159][157]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2023.04.16-07.07.34:159][157]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (586)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (584)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module OpenXREditor (582)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (580)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module GooglePAD (578)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module TakeSequencer (576)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module TakeMovieScene (574)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module EditableMesh (572)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (570)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module CableComponent (568)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module AudioCapture (566)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (565)
+[2023.04.16-07.07.34:160][157]LogModuleManager: Shutting down and abandoning module AssetTags (562)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (560)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (558)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module AppleImageUtils (556)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module AndroidPermission (554)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (552)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (550)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module ScreenshotTools (548)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module MediaCompositing (544)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module ImgMedia (542)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (540)
+[2023.04.16-07.07.34:161][157]LogOpenImageDenoise: OIDN shutting down
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (538)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module MotoSynth (536)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module MeshConversion (534)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module DynamicMesh (532)
+[2023.04.16-07.07.34:161][157]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (530)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module GeometricObjects (528)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (526)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (525)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (522)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (520)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (518)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (516)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (514)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (512)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (510)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (508)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (506)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (504)
+[2023.04.16-07.07.34:162][157]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (502)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module FractureEditor (500)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module ChaosNiagara (498)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (497)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (494)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module BackChannel (492)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (490)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module AutomationUtils (488)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module AlembicImporter (486)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module AlembicLibrary (485)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module GeometryCache (484)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (483)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (478)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (476)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module UObjectPlugin (474)
+[2023.04.16-07.07.34:163][157]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (472)
+[2023.04.16-07.07.34:164][157]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (470)
+[2023.04.16-07.07.34:164][157]LogModuleManager: Shutting down and abandoning module PluginUtils (468)
+[2023.04.16-07.07.34:164][157]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (466)
+[2023.04.16-07.07.34:164][157]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (464)
+[2023.04.16-07.07.34:164][157]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (462)
+[2023.04.16-07.07.34:164][157]LogModuleManager: Shutting down and abandoning module GitSourceControl (460)
+[2023.04.16-07.07.34:164][157]LogModuleManager: Shutting down and abandoning module SourceControl (459)
+[2023.04.16-07.07.34:164][157]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (456)
+[2023.04.16-07.07.34:164][157]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (454)
+[2023.04.16-07.07.34:164][157]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (452)
+[2023.04.16-07.07.34:164][157]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (450)
+[2023.04.16-07.07.34:165][157]LogModuleManager: Shutting down and abandoning module PluginBrowser (448)
+[2023.04.16-07.07.34:165][157]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (446)
+[2023.04.16-07.07.34:165][157]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (444)
+[2023.04.16-07.07.34:165][157]LogModuleManager: Shutting down and abandoning module CurveEditorTools (442)
+[2023.04.16-07.07.34:165][157]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (440)
+[2023.04.16-07.07.34:165][157]LogModuleManager: Shutting down and abandoning module CryptoKeys (438)
+[2023.04.16-07.07.34:165][157]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2023.04.16-07.07.34:165][157]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2023.04.16-07.07.34:165][157]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2023.04.16-07.07.34:165][157]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2023.04.16-07.07.34:165][157]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2023.04.16-07.07.34:165][157]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2023.04.16-07.07.34:166][157]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2023.04.16-07.07.34:166][157]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (390)
+[2023.04.16-07.07.34:435][157]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2023.04.16-07.07.34:537][157]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (384)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2023.04.16-07.07.34:638][157]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module AnimationSharing (346)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module DataValidation (344)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (342)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (340)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module FacialAnimation (338)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (336)
+[2023.04.16-07.07.34:638][157]LogModuleManager: Shutting down and abandoning module LevelEditor (335)
+[2023.04.16-07.07.34:639][157]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (334)
+[2023.04.16-07.07.34:639][157]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2023.04.16-07.07.34:639][157]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2023.04.16-07.07.34:639][157]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2023.04.16-07.07.34:640][157]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2023.04.16-07.07.34:640][157]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2023.04.16-07.07.34:640][157]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2023.04.16-07.07.34:640][157]LogModuleManager: Shutting down and abandoning module TreeMap (319)
+[2023.04.16-07.07.34:640][157]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (316)
+[2023.04.16-07.07.34:640][157]LogModuleManager: Shutting down and abandoning module GameplayCameras (314)
+[2023.04.16-07.07.34:640][157]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2023.04.16-07.07.34:640][157]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2023.04.16-07.07.34:640][157]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.04.16-07.07.34:641][157]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module Core (248)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2023.04.16-07.07.34:642][157]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2023.04.16-07.07.34:643][157]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2023.04.16-07.07.34:644][157]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2023.04.16-07.07.34:645][157]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2023.04.16-07.07.34:645][157]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2023.04.16-07.07.34:645][157]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2023.04.16-07.07.34:645][157]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2023.04.16-07.07.34:645][157]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2023.04.16-07.07.34:645][157]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2023.04.16-07.07.34:645][157]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2023.04.16-07.07.34:645][157]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2023.04.16-07.07.34:645][157]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2023.04.16-07.07.34:646][157]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2023.04.16-07.07.34:648][157]LogHMD: Freeing OpenVRDLLHandle.
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2023.04.16-07.07.34:648][157]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2023.04.16-07.07.34:648][157]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.04.16-07.07.34:649][157]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2023.04.16-07.07.34:649][157]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2023.04.16-07.07.34:649][157]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2023.04.16-07.07.34:649][157]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2023.04.16-07.07.34:649][157]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2023.04.16-07.07.34:649][157]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2023.04.16-07.07.34:649][157]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2023.04.16-07.07.34:649][157]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2023.04.16-07.07.34:650][157]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2023.04.16-07.07.34:650][157]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2023.04.16-07.07.34:683][157]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2023.04.16-07.07.34:684][157]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.04.16-07.07.34:684][157]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B550F356B-455F-DD7E-EF6A-C692BC3DDEEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=959a20c04f8c545bc0631e80c20ae2c8%7Cd913e29714e746d7bb16ebfa962c0b0e%7C8df27c87-4ac8-404c-8538-ea67f08aa90e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.04.16-07.07.34:684][157]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.04.16-07.07.34:692][157]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2023.04.16-07.07.34:692][157]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2023.04.16-07.07.34:692][157]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.04.16-07.07.34:694][157]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module PixWinPlugin (56)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.04.16-07.07.34:695][157]LogXGEController: Cleaning working directory: C:/Users/Bogda/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.04.16-07.07.34:695][157]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.04.16-07.07.34:696][157]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.04.16-07.07.34:696][157]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.04.16-07.07.34:696][157]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.04.16-07.07.34:696][157]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.04.16-07.07.34:696][157]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.04.16-07.07.34:696][157]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.04.16-07.07.34:697][157]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.04.16-07.07.34:697][157]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.04.16-07.07.34:697][157]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.04.16-07.07.34:697][157]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.04.16-07.07.34:697][157]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.04.16-07.07.34:697][157]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.04.16-07.07.34:697][157]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.04.16-07.07.34:697][157]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.04.16-07.07.34:697][157]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.04.16-07.07.34:697][157]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.04.16-07.07.34:697][157]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.04.16-07.07.34:718][157]LogD3D11RHI: Shutdown
+[2023.04.16-07.07.34:718][157]LogD3D11RHI: CleanupD3DDevice
+[2023.04.16-07.07.34:722][157]LogExit: Exiting.
+[2023.04.16-07.07.34:748][157]Log file closed, 04/16/23 08:07:34
