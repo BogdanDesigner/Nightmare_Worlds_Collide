@@ -1107,3 +1107,206 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.21-15.07.15:066][152]LogFileHelpers: Saving map 'Ben_School_FixesP2' took 0.698
 [2023.04.21-15.07.15:114][152]AssetCheck: New page: Asset Save: Ben_School_FixesP2
 [2023.04.21-15.07.15:114][152]LogContentValidation: Display: Validating World /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2
+[2023.04.21-15.08.31:711][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AlarmBell11)
+[2023.04.21-15.08.45:614][192]Cmd: TRANSACTION UNDO
+[2023.04.21-15.08.45:614][192]LogEditorTransaction: Undo Move Actors
+[2023.04.21-15.08.48:013][486]Cmd: ACTOR SELECT ALL
+[2023.04.21-15.08.48:990][516]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.21-15.08.49:730][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoubleDoor_Frames8)
+[2023.04.21-15.08.52:499][927]Cmd: TRANSACTION UNDO
+[2023.04.21-15.08.52:499][927]LogEditorTransaction: Undo Clicking on Actors
+[2023.04.21-15.08.53:262][930]Cmd: TRANSACTION UNDO
+[2023.04.21-15.08.53:262][930]LogEditorTransaction: Undo Move Actors
+[2023.04.21-15.08.53:773][930]Cmd: TRANSACTION UNDO
+[2023.04.21-15.08.53:773][930]LogEditorTransaction: Undo Select All
+[2023.04.21-15.08.54:169][951]Cmd: TRANSACTION UNDO
+[2023.04.21-15.08.54:169][951]LogEditorTransaction: Undo Move Actors
+[2023.04.21-15.08.56:788][338]Cmd: TRANSACTION UNDO
+[2023.04.21-15.08.56:788][338]LogEditorTransaction: Undo Move Actors
+[2023.04.21-15.09.03:320][225]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.10.39:261][675]LogActorFactory: Actor Factory created SM_Books_Clutter_Dense
+[2023.04.21-15.10.43:614][325]LogActorFactory: Actor Factory created SM_Books_Clutter_Dense
+[2023.04.21-15.11.00:459][646]LogActorFactory: Actor Factory created SM_Books_Clutter_Dense
+[2023.04.21-15.11.02:333][925]LogActorFactory: Actor Factory created SM_Books_Clutter_Dense
+[2023.04.21-15.11.08:015][720]LogActorFactory: Actor Factory created SM_Books_Clutter_Dense
+[2023.04.21-15.11.10:687][116]LogActorFactory: Actor Factory created SM_Books_Clutter_Dense
+[2023.04.21-15.11.43:884][830]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.11.45:531][ 69]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.11.57:347][762]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.12.00:344][205]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.12.09:122][462]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.12.11:808][861]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.12.22:508][367]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.12.22:589][373]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.12.24:128][598]Cmd: DELETE
+[2023.04.21-15.12.24:128][598]Cmd: ACTOR DELETE
+[2023.04.21-15.12.24:153][598]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.21-15.12.24:175][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.04.21-15.12.24:185][598]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.04.21-15.12.25:629][782]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.12.28:095][145]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.12.35:328][147]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.12.37:384][445]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.12.52:082][565]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.12.53:502][770]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.13.01:981][948]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.13.03:762][207]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.13.13:088][527]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.13.14:458][725]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.13.25:057][267]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.13.26:563][487]LogActorFactory: Actor Factory created SM_Clock
+[2023.04.21-15.13.46:011][ 19]LogActorFactory: Actor Factory created SM_FireAlarm
+[2023.04.21-15.13.47:068][173]LogActorFactory: Actor Factory created SM_FireAlarm
+[2023.04.21-15.13.58:452][819]LogActorFactory: Actor Factory created SM_FireAlarm
+[2023.04.21-15.13.59:613][986]LogActorFactory: Actor Factory created SM_FireAlarm
+[2023.04.21-15.14.03:797][537]LogActorFactory: Actor Factory created SM_Fire_Extinguisher
+[2023.04.21-15.14.04:946][702]LogActorFactory: Actor Factory created SM_Fire_Extinguisher
+[2023.04.21-15.14.14:228][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big71)
+[2023.04.21-15.14.15:028][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fire_Extinguisher)
+[2023.04.21-15.14.16:622][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big71)
+[2023.04.21-15.14.19:374][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fire_Extinguisher)
+[2023.04.21-15.14.20:980][896]Cmd: EDIT COPY
+[2023.04.21-15.14.26:428][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FireAlarm2)
+[2023.04.21-15.14.26:571][682]Cmd: DELETE
+[2023.04.21-15.14.26:571][682]Cmd: ACTOR DELETE
+[2023.04.21-15.14.26:596][682]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.21-15.14.26:614][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.04.21-15.14.26:622][682]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2023.04.21-15.14.27:036][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short235)
+[2023.04.21-15.14.27:885][865]Cmd: EDIT PASTE
+[2023.04.21-15.14.36:762][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short230)
+[2023.04.21-15.14.37:824][286]Cmd: TRANSACTION UNDO
+[2023.04.21-15.14.37:824][286]LogEditorTransaction: Undo Clicking on Actors
+[2023.04.21-15.14.48:575][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Piece_Big114)
+[2023.04.21-15.14.51:022][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fire_Extinguisher2)
+[2023.04.21-15.16.26:688][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_5m_Short339)
+[2023.04.21-15.16.31:149][471]Cmd: TRANSACTION UNDO
+[2023.04.21-15.16.31:149][471]LogEditorTransaction: Undo Clicking on Actors
+[2023.04.21-15.16.31:780][503]Cmd: TRANSACTION UNDO
+[2023.04.21-15.16.31:780][503]LogEditorTransaction: Undo Move Actors
+[2023.04.21-15.16.33:936][814]Cmd: MODE GRID=0
+[2023.04.21-15.16.34:755][932]Cmd: MODE ROTGRID=0
+[2023.04.21-15.16.35:610][ 55]Cmd: MODE SCALEGRID=0
+[2023.04.21-15.16.46:048][584]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.16.54:419][802]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.17.02:072][889]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.17.06:822][570]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.17.10:145][  8]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.17.34:304][107]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.17.35:221][234]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.17.48:149][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.21-15.17.48:155][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-15.17.48:155][ 76]PIE: New page: PIE session: Ben_School_FixesP2 (21 Apr 2023, 17:17:48)
+[2023.04.21-15.17.48:176][ 76]LogPlayLevel: Creating play world package: /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.21-15.17.48:280][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103465s)
+[2023.04.21-15.17.48:281][ 76]LogAIModule: Creating AISystem for world Ben_School_FixesP2
+[2023.04.21-15.17.48:281][ 76]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2023.04.21-15.17.48:282][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2 to /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 (0.104761s)
+[2023.04.21-15.17.48:299][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.21-15.17.48:307][ 76]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.21-15.17.48:307][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-15.17.48:307][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-15.17.48:307][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-15.17.48:307][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-15.17.48:307][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-15.17.48:307][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.21-15.17.48:307][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-15.17.48:307][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-15.17.48:307][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-15.17.48:307][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-15.17.48:307][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-15.17.48:307][ 76]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.21-15.17.48:309][ 76]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-15.17.48:309][ 76]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-15.17.48:317][ 76]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.04.21-15.17.48:317][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-15.17.48:317][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-15.17.48:317][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-15.17.48:317][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.21-15.17.48:317][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.21-15.17.48:317][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.21-15.17.48:318][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.21-15.17.48:318][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.21-15.17.48:318][ 76]LogInit: FAudioDevice initialized.
+[2023.04.21-15.17.48:318][ 76]LogAudio: Display: Audio Device (ID: 3) registered with world 'Ben_School_FixesP2'.
+[2023.04.21-15.17.48:326][ 76]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.21-15.17.48:428][ 76]LogWorld: Bringing World /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2.Ben_School_FixesP2 up for play (max tick rate 150) at 2023.04.21-16.17.48
+[2023.04.21-15.17.48:429][ 76]LogWorld: Bringing up level for play took: 0.102653
+[2023.04.21-15.17.48:429][ 76]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.04.21-15.17.48:445][ 76]PIE: Server logged in
+[2023.04.21-15.17.48:446][ 76]PIE: Play in editor total start time 0.291 seconds.
+[2023.04.21-15.17.51:936][591]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.21-15.17.55:508][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-15.17.55:508][120]LogWorld: BeginTearingDown for /Game/Ben/Levels/CinematicFixes/UEDPIE_0_Ben_School_FixesP2
+[2023.04.21-15.17.55:509][120]LogWorld: UWorld::CleanupWorld for Ben_School_FixesP2, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-15.17.55:514][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-15.17.55:521][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-15.17.55:539][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-15.17.55:560][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-15.17.55:560][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-15.17.55:561][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-15.17.55:562][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-15.17.55:570][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.04.21-15.17.55:602][121]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.04.21-15.18.03:467][203]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.18.06:900][705]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.18.10:764][266]Cmd: TRANSACTION UNDO
+[2023.04.21-15.18.10:764][266]LogEditorTransaction: Undo Rotate Actors
+[2023.04.21-15.18.11:808][353]Cmd: MODE GRID=1
+[2023.04.21-15.18.12:384][433]Cmd: MODE ROTGRID=1
+[2023.04.21-15.18.13:203][544]Cmd: MODE SCALEGRID=1
+[2023.04.21-15.18.19:275][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Doorway_Single10)
+[2023.04.21-15.18.21:622][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LightSwitch2)
+[2023.04.21-15.18.30:583][ 13]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.18.32:227][253]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.18.41:528][596]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.18.42:930][801]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.18.52:575][182]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.18.53:662][337]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.19.16:575][702]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.19.17:342][806]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.19.38:095][649]Cmd: MODE GRID=0
+[2023.04.21-15.19.38:842][757]Cmd: MODE ROTGRID=0
+[2023.04.21-15.19.39:571][862]Cmd: MODE SCALEGRID=0
+[2023.04.21-15.19.46:795][868]Cmd: MODE GRID=1
+[2023.04.21-15.19.47:468][965]Cmd: MODE ROTGRID=1
+[2023.04.21-15.19.47:910][ 26]Cmd: MODE SCALEGRID=1
+[2023.04.21-15.19.55:382][ 51]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.19.56:222][169]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.20.10:989][301]Cmd: MODE GRID=0
+[2023.04.21-15.20.11:418][362]Cmd: MODE ROTGRID=0
+[2023.04.21-15.20.11:842][422]Cmd: MODE SCALEGRID=0
+[2023.04.21-15.20.20:704][695]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.20.21:134][755]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.20.31:382][228]Cmd: TRANSACTION UNDO
+[2023.04.21-15.20.31:382][228]LogEditorTransaction: Undo Rotate Actors
+[2023.04.21-15.20.32:316][304]Cmd: MODE ROTGRID=1
+[2023.04.21-15.20.32:775][370]Cmd: MODE GRID=1
+[2023.04.21-15.20.33:571][484]Cmd: MODE SCALEGRID=1
+[2023.04.21-15.20.46:281][328]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.20.48:140][603]LogActorFactory: Actor Factory created SM_LightSwitch
+[2023.04.21-15.20.57:363][932]Cmd: MODE ROTGRID=0
+[2023.04.21-15.20.58:442][ 83]Cmd: MODE GRID=0
+[2023.04.21-15.20.59:262][198]Cmd: MODE SCALEGRID=0
+[2023.04.21-15.21.09:693][688]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.21.12:434][ 64]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.21.15:874][565]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.21.16:433][646]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.21.23:130][627]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.21.25:176][920]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.21.31:293][803]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.21.34:828][295]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.21.37:015][576]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.21.38:448][776]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.21-15.21.49:680][323]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MonsterAi_Kit/Monster_NBC.Monster_NBC
+[2023.04.21-15.21.58:875][146]LogRenderer: Reallocating scene render targets to support 1212x712 Format 10 NumSamples 1 (Frame:1).
+[2023.04.21-15.22.07:333][ 24]BlueprintLog: New page: Compile Monster_NBC
+[2023.04.21-15.22.07:422][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.04.21-15.22.08:263][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MonsterAi_Kit/Monster_NBC" FILE="../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/MonsterAi_Kit/Monster_NBC.uasset" SILENT=true
+[2023.04.21-15.22.08:363][108]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Monster_NBCD013696F45DE34E1F8767BB4BCD08F25.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/MonsterAi_Kit/Monster_NBC.uasset'
+[2023.04.21-15.22.08:415][108]AssetCheck: New page: Asset Save: Monster_NBC
+[2023.04.21-15.22.08:415][108]LogContentValidation: Display: Validating Blueprint /Game/MonsterAi_Kit/Monster_NBC.Monster_NBC
+[2023.04.21-15.22.09:444][246]LogSlate: Window 'Monster_NBC' being destroyed
+[2023.04.21-15.22.09:448][246]LogSlate: Window 'Monster_NBC' being destroyed
+[2023.04.21-15.22.09:489][246]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-15.22.09:489][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
