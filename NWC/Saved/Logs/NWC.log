@@ -1310,3 +1310,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.21-15.22.09:448][246]LogSlate: Window 'Monster_NBC' being destroyed
 [2023.04.21-15.22.09:489][246]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2023.04.21-15.22.09:489][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-15.22.49:971][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.04.21-15.22.50:097][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.21-15.22.50:743][988]LogSavePackage: Moving '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Saved/Ben_School_FixesP2F7F2116E4D10AD9B72FB71960CA3315F.tmp' to '../../../../../../Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide/NWC/Content/Ben/Levels/CinematicFixes/Ben_School_FixesP2.umap'
+[2023.04.21-15.22.50:752][988]LogFileHelpers: Saving map 'Ben_School_FixesP2' took 0.674
+[2023.04.21-15.22.50:785][988]AssetCheck: New page: Asset Save: Ben_School_FixesP2
+[2023.04.21-15.22.50:785][988]LogContentValidation: Display: Validating World /Game/Ben/Levels/CinematicFixes/Ben_School_FixesP2.Ben_School_FixesP2
+[2023.04.21-15.23.06:169][ 71]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/Bogda/Documents/GitHub/Nightmare_Worlds_Collide'
+[2023.04.21-15.23.07:417][250]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.04.21-15.23.07:421][250]LogSlate: Window 'Editor Preferences' being destroyed
